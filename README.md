@@ -10,6 +10,11 @@ https://t.me/wkongsvlog
 # 文件发布地址
 https://github.com/ligl0702/Pan/releases
 
+# 奈飞PRO
+【15元 Netflix PRO会员】https://bit.ly/30IMaZs
+
+【VPS】用过的之一：https://bit.ly/3lhkuSG
+
 其他项目
 
 
