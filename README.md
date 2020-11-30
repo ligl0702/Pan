@@ -7,6 +7,9 @@
 # 群
 https://t.me/wkongsvlog
 
+# 文件发布地址
+https://github.com/ligl0702/Pan/releases
+
 其他项目
 
 
