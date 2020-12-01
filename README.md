@@ -1,5 +1,5 @@
 # Pan
-存储和分享电视盒子上好用的APP
+存储和分享电视盒子上好用的APP和视频相关资源，强烈建议用浏览器收藏此网址不迷路
 
 # 谷歌网盘地址
 谷歌网盘地址：https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx
