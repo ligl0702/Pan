@@ -13,6 +13,9 @@ https://github.com/ligl0702/Pan/releases
 # 奈飞PRO
 【15元 Netflix PRO会员】https://bit.ly/30IMaZs
 
+![avatar](https://github.com/ligl0702/Pan/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201201113913.jpg?raw=true)
+
+
 【VPS】用过的之一：https://bit.ly/3lhkuSG
 
 其他项目
