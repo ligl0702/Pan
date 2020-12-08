@@ -16,7 +16,9 @@ https://github.com/ligl0702/Pan/releases
 ![avatar](https://github.com/ligl0702/Pan/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201201113913.jpg?raw=true)
 
 
-【VPS】用过的之一：https://bit.ly/3qBrde6
+【VPS】用过的之一：
+https://bit.ly/3lhkuSG
+https://bit.ly/3qBrde6
 
 其他项目
 
