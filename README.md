@@ -1,6 +1,12 @@
+---
+description: 'https://didiboy0702.gitbook.io/wukongdaily/'
+---
+
 # 首页
 
 **悟空的日常频道百科**
+
+**本页地址：**[**https://didiboy0702.gitbook.io/wukongdaily/**](https://didiboy0702.gitbook.io/wukongdaily/)\*\*\*\*
 
 ## Pan
 
