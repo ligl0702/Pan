@@ -1,5 +1,5 @@
 ---
-description: 'https://didiboy0702.gitbook.io/wukongdaily/'
+description: 提示：左侧是菜单
 ---
 
 # 首页
