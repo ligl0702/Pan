@@ -14,6 +14,9 @@ description: 汇总自媒体平台
 * [ ] **西瓜视频**： [https://v.ixigua.com/JbAdbYy/](https://v.ixigua.com/JbAdbYy/)
 * [ ] **知乎**：         [https://www.zhihu.com/people/wu-kong-daily](https://www.zhihu.com/people/wu-kong-daily)
 * [ ] **微信公众号**：搜索 **3C达人**
+* [ ] **抖音：悟空的日常 或搜索 wukongdaily**  
+
+\*\*\*\*
 
 
 
