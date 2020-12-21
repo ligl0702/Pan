@@ -6,13 +6,17 @@
 
 存储和分享电视盒子上好用的APP和视频相关资源，强烈建议用浏览器收藏此网址不迷路
 
+[https://github.com/ligl0702/Pan](https://github.com/ligl0702/Pan/releases)
+
 ## 谷歌网盘地址
 
 谷歌网盘地址：[https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 
 ## 群
 
-[https://t.me/wkongsvlog](https://t.me/wkongsvlog)
+{% embed url="https://t.me/wkongsvlog" %}
+
+![](.gitbook/assets/111.jpg)
 
 ## 文件发布地址
 
