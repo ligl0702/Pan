@@ -8,7 +8,7 @@ description: 提示：左侧是菜单
 
 **本页地址：**[**https://didiboy0702.gitbook.io/wukongdaily/**](https://didiboy0702.gitbook.io/wukongdaily/)     **（转发请用此地址）**
 
-视频都集中在哪里？[这里](shi-pin-fa-bu-ping-tai-hui-zong.md)
+**视频都集中在哪里**？[这里](shi-pin-fa-bu-ping-tai-hui-zong.md)
 
 ## 谷歌网盘地址
 
