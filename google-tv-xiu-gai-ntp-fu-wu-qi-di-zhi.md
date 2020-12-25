@@ -46,7 +46,11 @@ ntp6.aliyun.com
 ntp7.aliyun.com
 {% endhint %}
 
+**mac电脑如何使用adb？**
 
+此 问题可以参考我2年前的视频 [https://www.youtube.com/watch?v=ZK9rJ5w0W4o](https://www.youtube.com/watch?v=ZK9rJ5w0W4o)
+
+也可以参考此人简书：[https://www.jianshu.com/p/1b3fb1f27b67](https://www.jianshu.com/p/1b3fb1f27b67)
 
 
 
