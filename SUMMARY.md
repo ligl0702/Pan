@@ -11,3 +11,7 @@
 
 * [高频提问](test/gao-pin-ti-wen.md)
 
+---
+
+* [Google TV 修改NTP服务器地址](google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
+
