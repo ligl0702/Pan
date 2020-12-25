@@ -54,6 +54,10 @@ mac：clash或者surge
 
 目前国产配置较好的有当贝B1、当贝B3Pro和极光3 pro。配置方面都是比较高的。都没有开机广告。
 
+## Google TV 总是显示已连接无法访问互联网？或者时间总是不正确怎么办？
+
+[答案在这里——————这里](../google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
+
 
 
 ...未完待续
