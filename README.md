@@ -8,11 +8,7 @@ description: 提示：左侧是菜单
 
 **本页地址：**[**https://didiboy0702.gitbook.io/wukongdaily/**](https://didiboy0702.gitbook.io/wukongdaily/)\*\*\*\*
 
-## Pan
 
-存储和分享电视盒子上好用的APP和视频相关资源，强烈建议用浏览器收藏此网址不迷路
-
-[https://github.com/ligl0702/Pan](https://github.com/ligl0702/Pan/releases)
 
 ## 谷歌网盘地址
 
