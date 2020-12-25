@@ -30,15 +30,13 @@ description: 提示：左侧是菜单
 
 ![avatar](https://github.com/ligl0702/Pan/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201201113913.jpg?raw=true)
 
-【VPS】用过的之一：
+**自己正在用的vps**
 
 [https://bit.ly/3lhkuSG](https://bit.ly/3lhkuSG)
 
 [https://bit.ly/3qBrde6](https://bit.ly/3qBrde6)
 
-其他项目
+\*\*\*\*[**其他问题请点击**](test/gao-pin-ti-wen.md)\*\*\*\*
 
-[https://github.com/ligl0702/-FirmwareUpdate](https://github.com/ligl0702/-FirmwareUpdate)
 
-[https://github.com/ligl0702/HowToBuyYourVPS](https://github.com/ligl0702/HowToBuyYourVPS)
 
