@@ -13,6 +13,7 @@ description: 汇总自媒体平台
 * [ ] **Bilibili**：      [https://space.bilibili.com/250915741](https://space.bilibili.com/250915741)
 * [ ] **西瓜视频**： [https://v.ixigua.com/JbAdbYy/](https://v.ixigua.com/JbAdbYy/)
 * [ ] **知乎**：         [https://www.zhihu.com/people/wu-kong-daily](https://www.zhihu.com/people/wu-kong-daily)
+* [ ] **youtube副频道**：[https://www.youtube.com/channel/UCC5aeW5iDd2oaM5S6HHaXew](https://www.youtube.com/channel/UCC5aeW5iDd2oaM5S6HHaXew)
 * [ ] **微信公众号**：搜索 悟空的日常vlog
 
 ![&#x516C;&#x4F17;&#x53F7;&#xFF1A;&#x609F;&#x7A7A;&#x7684;&#x65E5;&#x5E38;vlog](.gitbook/assets/qrcode_for_gh_237122b8ccd6_258.jpg)
