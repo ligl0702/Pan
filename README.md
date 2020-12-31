@@ -8,11 +8,11 @@ description: 提示：左侧是菜单
 
 **本页地址：**[**https://didiboy0702.gitbook.io/wukongdaily/**](https://didiboy0702.gitbook.io/wukongdaily/)     **（转发请用此地址）**
 
-## **视频都集中在哪里**？[这里](shi-pin-fa-bu-ping-tai-hui-zong.md)
-
 ## 谷歌网盘地址
 
-谷歌网盘地址：[https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
+[https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
+
+## **视频都集中在哪里**？点击[这里](shi-pin-fa-bu-ping-tai-hui-zong.md)
 
 ## 电报群
 
