@@ -22,13 +22,13 @@ description: 提示：左侧是菜单
 
 ## **Q群：1041472613   743818097  （禁止广告人）**
 
-## 文件发布地址
+## 井盖群组：[**https://jg.17173.com/i/f1PutQow**](https://jg.17173.com/i/f1PutQow)   ****
 
-[https://github.com/ligl0702/Pan/releases](https://github.com/ligl0702/Pan/releases)
+**井盖是一个可以分话题的群聊app，观众可以根据不同话题，选择感兴趣的话题组群聊。**
 
 ## 奈飞PRO
 
-【15元 Netflix PRO会员】[https://bit.ly/30IMaZs](https://bit.ly/30IMaZs)
+### 【15元 Netflix PRO会员】[https://bit.ly/30IMaZs](https://bit.ly/30IMaZs)
 
 ![avatar](https://github.com/ligl0702/Pan/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201201113913.jpg?raw=true)
 
@@ -42,9 +42,7 @@ description: 提示：左侧是菜单
 
 \*\*\*\*[**赞助**](zan-zhu.md)\*\*\*\*
 
-**个人微店（试运行，不要太热情哈，除了准系统最好是私聊之后理性下单）**
-
-**这个微店主要服务员我的微信好友铁杆粉丝，未来还会上其他产品比如gtv之类的**
+## **个人微店（试运行，不要太热情哈，这个微店是为了帮助新手而设立。不要冲动下单，尽量和我私信后，根据个人需求在下单）**
 
 ![](.gitbook/assets/image.png)
 
