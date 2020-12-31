@@ -5,6 +5,7 @@
 * [Youtube动态](https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww/community)
 * [知乎动态](https://www.zhihu.com/people/wu-kong-daily)
 * [B站动态](https://space.bilibili.com/250915741/dynamic)
+* [抖音动态](dou-yin-dong-tai.md)
 * [赞助](zan-zhu.md)
 
 ## 你问我答 <a id="test"></a>
