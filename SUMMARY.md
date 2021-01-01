@@ -14,6 +14,7 @@
 * [知乎动态](https://www.zhihu.com/people/wu-kong-daily)
 * [B站动态](https://space.bilibili.com/250915741/dynamic)
 * [抖音动态](dou-yin-dong-tai.md)
+* [奈飞Pro会员](https://naifei.pro/m/?rid=1p5c6)
 * [赞助](zan-zhu.md)
 * [个人微店](ge-ren-wei-dian.md)
 * [Emoji表情](https://emojixd.com/x9kh)
