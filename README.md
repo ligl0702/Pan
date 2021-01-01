@@ -34,11 +34,11 @@ description: 提示：左侧是菜单
 
 **自己正在用的vps** 
 
-[第一个](https://jike0.com/auth/register?code=xoWW) 特点流量大
+[**第一个**](https://jike0.com/auth/register?code=xoWW) ****特点流量大
 
-[第二个](https://bit.ly/3qBrde6) 特点稳
+[**第二个**](https://bit.ly/3qBrde6) ****特点稳
 
-\*\*\*\*[**其他问题请点击**](test/gao-pin-ti-wen.md)\*\*\*\*
+[**高频提问 请点击**](test/gao-pin-ti-wen.md)\*\*\*\*
 
 \*\*\*\*[**赞助**](zan-zhu.md)\*\*\*\*
 
