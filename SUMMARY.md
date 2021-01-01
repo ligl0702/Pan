@@ -1,6 +1,6 @@
 # Table of contents
 
-* [首页-左上角是菜单](README.md)
+* [←首页-左上角是菜单←](README.md)
 * [我在哪里发视频](shi-pin-fa-bu-ping-tai-hui-zong.md)
 * [Youtube动态](https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww/community)
 * [知乎动态](https://www.zhihu.com/people/wu-kong-daily)
