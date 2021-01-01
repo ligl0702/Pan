@@ -92,7 +92,11 @@ mac：clash或者surge
 
 ## 红米Ac2100刷机文档和固件在哪？
 
-[https://github.com/ligl0702/Pan/releases/tag/2020.11.01](https://github.com/ligl0702/Pan/releases/tag/2020.11.01)
+{% embed url="https://github.com/ligl0702/Pan/releases/tag/2020.11.01" %}
+
+## 悟空你自己的x86刷的固件是哪个版本？
+
+[https://github.com/ligl0702/-FirmwareUpdate/releases/tag/9.1](https://github.com/ligl0702/-FirmwareUpdate/releases/tag/9.1)
 
 ...永远未完待续
 
