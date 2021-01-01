@@ -108,6 +108,7 @@ mac：clash或者surge
 | **Google TV** | **只有一个Type-C接口不是很方便 这也导致拓展物成本高** |
 | **Shield TV 2019（2G+8G）** | **没有USB接口比较不方便，无法连接usb鼠标或者键盘** |
 | **Fire TV Stick 4K** | **不支持简体或者繁体中文** |
+| **Zidoo Z9X** | **奈飞仅支持HDR 不支持双杜比** |
 
 
 
