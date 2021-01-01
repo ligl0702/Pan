@@ -54,7 +54,7 @@ mac：clash或者surge
 
 ## Google TV 总是显示已连接无法访问互联网？或者时间总是不正确怎么办？
 
-[答案在这里——————这里](../google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
+[答案在这里——————这里](google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 
 ## 你视频中的产品来自哪里？
 
