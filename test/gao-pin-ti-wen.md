@@ -86,7 +86,7 @@ mac：clash或者surge
 
 【Netflix TV版本】[https://drive.google.com/file/d/1BIJ7W4HUpsCm5qkvKH\_CE87SDLaqnqFR/view?usp=sharing](https://drive.google.com/file/d/1BIJ7W4HUpsCm5qkvKH_CE87SDLaqnqFR/view?usp=sharing)
 
-## Google TV的激活方式除了软路由还有其他办法吗
+## Google TV、Shield TV等原生盒子的激活方式除了软路由还有其他办法吗
 
  可以使用香港手机卡，手机开热点完成。比如这种（**不是推荐仅仅是举例**）：[这里这里](https://traveldetail.fliggy.com/item.htm?id=597315400006&ali_refid=a3_430583_1006:1125178942:N:TmlkEr4toFiovv16%2FtNotQ%3D%3D:25ab86d7783981df997adbb6f0086cbf&ali_trackid=1_25ab86d7783981df997adbb6f0086cbf&spm=a230r.1.14.1)
 
