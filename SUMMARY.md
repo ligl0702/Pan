@@ -16,4 +16,5 @@
 
 * [Google TV 修改NTP服务器地址](google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 * [个人微店](ge-ren-wei-dian.md)
+* [Emoji表情](https://emojixd.com/x9kh)
 
