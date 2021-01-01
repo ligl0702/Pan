@@ -110,7 +110,9 @@ mac：clash或者surge
 | **Fire TV Stick 4K** | **不支持简体或者繁体中文** |
 | **Zidoo Z9X** | **奈飞仅支持HDR 不支持双杜比** |
 
+## **Google TV 拓展物有没有便宜一点的并且可以兼容的？**
 
+\*\*\*\*[**https://m.tb.cn/h.46QKFit?sm=f83ea4** ](https://m.tb.cn/h.46QKFit?sm=f83ea4%20) **这款也是网友反馈的。比绿联的能便宜一半**
 
 
 
