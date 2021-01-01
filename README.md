@@ -28,9 +28,9 @@ description: 提示：左侧是菜单
 
 ### 15元 Netflix PRO会员 [点击这里或者扫描↓↓](https://naifei.pro/m/?rid=1p5c6)
 
-![avatar](https://github.com/ligl0702/Pan/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201201113913.jpg?raw=true)
+![&#x5948;&#x98DE;PRO](.gitbook/assets/nai-fei-pro.jpg)
 
-![](.gitbook/assets/41609500901.pic-fu-ben-.jpg)
+![&#x5176;&#x4ED6;&#x4F1A;&#x5458;](.gitbook/assets/41609500901.pic-fu-ben-.jpg)
 
 **自己正在用的vps** 
 
