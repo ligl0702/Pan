@@ -8,12 +8,12 @@ description: 汇总自媒体平台
 
 目前我在以上几个平台发布视频。欢迎大家关注我的频道。以下是地址汇总
 
-* [ ] **youtube**:     [https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww](https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww?view_as=subscriber)
-* [ ] **odysee**:       [https://odysee.com/@%E7%9B%92%E5%AD%90%E7%B2%BE%E6%82%9F%E7%A9%BA:0](https://odysee.com/@%E7%9B%92%E5%AD%90%E7%B2%BE%E6%82%9F%E7%A9%BA:0)\*\*\*\*
-* [ ] **Bilibili**：      [https://space.bilibili.com/250915741](https://space.bilibili.com/250915741)
-* [ ] **西瓜视频**： [https://v.ixigua.com/JbAdbYy/](https://v.ixigua.com/JbAdbYy/)
-* [ ] **知乎**：         [https://www.zhihu.com/people/wu-kong-daily](https://www.zhihu.com/people/wu-kong-daily)
-* [ ] **youtube副频道**：[https://www.youtube.com/channel/UCC5aeW5iDd2oaM5S6HHaXew](https://www.youtube.com/channel/UCC5aeW5iDd2oaM5S6HHaXew)
+* [ ] \*\*\*\*[**Youtube**](https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww) ****←
+* [ ] \*\*\*\*[**Odysee**](https://odysee.com/@%E7%9B%92%E5%AD%90%E7%B2%BE%E6%82%9F%E7%A9%BA:0) ****←
+* [ ] \*\*\*\*[**Bilibili**](https://space.bilibili.com/250915741) ****←
+* [ ] \*\*\*\*[**西瓜视频**](%20https://v.ixigua.com/JbAdbYy/)←
+* [ ] \*\*\*\*[**知乎**](%20https://www.zhihu.com/people/wu-kong-daily)←
+* [ ] \*\*\*\*[**Youtube副频道**](https://www.youtube.com/channel/UCC5aeW5iDd2oaM5S6HHaXew)←
 * [ ] **微信公众号**：搜索 悟空的日常vlog
 
 ![&#x516C;&#x4F17;&#x53F7;&#xFF1A;&#x609F;&#x7A7A;&#x7684;&#x65E5;&#x5E38;vlog](.gitbook/assets/qrcode_for_gh_237122b8ccd6_258.jpg)

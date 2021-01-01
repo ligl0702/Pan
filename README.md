@@ -12,7 +12,7 @@ description: 提示：左侧是菜单
 
 [https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 
-## **视频都集中在哪里**？点击[这里](shi-pin-fa-bu-ping-tai-hui-zong.md)
+## **视频都集中在哪里**？点击[这里](shi-pin-fa-bu-ping-tai-hui-zong.md) ←
 
 ## 电报群
 
