@@ -36,7 +36,7 @@ description: 提示：左侧是菜单
 
 [**第一个**](https://jike0.com/auth/register?code=xoWW) ****特点流量大
 
-[**第二个**](https://bit.ly/3qBrde6) ****特点稳
+[**第二个**](https://dlercloud.com/auth/register?affid=74522) ****特点稳
 
 [**高频提问 请点击**](test/gao-pin-ti-wen.md)\*\*\*\*
 
