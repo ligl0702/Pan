@@ -26,17 +26,17 @@ description: 提示：左侧是菜单
 
 **井盖是一个可以分话题的群聊app，观众可以根据不同话题，选择感兴趣的话题组群聊。**
 
-## 奈飞PRO
-
-### 【15元 Netflix PRO会员】[https://bit.ly/30IMaZs](https://bit.ly/30IMaZs)
+### 15元 Netflix PRO会员 [点击这里或者扫描↓↓](https://naifei.pro/m/?rid=1p5c6)
 
 ![avatar](https://github.com/ligl0702/Pan/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201201113913.jpg?raw=true)
 
+![](.gitbook/assets/41609500901.pic-fu-ben-.jpg)
+
 **自己正在用的vps** 
 
-[https://bit.ly/3lhkuSG](https://bit.ly/3lhkuSG)
+[第一个](https://jike0.com/auth/register?code=xoWW) 特点流量大
 
-[https://bit.ly/3qBrde6](https://bit.ly/3qBrde6)
+[第二个](https://bit.ly/3qBrde6) 特点稳
 
 \*\*\*\*[**其他问题请点击**](test/gao-pin-ti-wen.md)\*\*\*\*
 
