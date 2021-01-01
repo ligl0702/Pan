@@ -78,7 +78,13 @@ mac：clash或者surge
 
 坦白讲不带开机广告的电视盒子还是有点少，配置低的电视盒子不想推荐，因为可能以后还需要升级。目前比较看好的几款是当贝b1/b3 pro ,腾讯极光3pro 。小米的话配置较低，但是小米也有优点那就是os做的不错。配合米家生态链。但是2021年确实也没啥新配置。所以就不推荐了。
 
+## 索尼电视应该使用哪一个油管APK或者奈飞APK
 
+【火棒Youtube-4K免谷歌框架】[https://drive.google.com/file/d/1EQfc0KlLThprdYoSZuAiAYi8jkYK0u8Q](https://drive.google.com/file/d/1EQfc0KlLThprdYoSZuAiAYi8jkYK0u8Q)
+
+用此版本 可以免谷歌框架并且可以登录。
+
+【Netflix TV版本】[https://drive.google.com/file/d/1BIJ7W4HUpsCm5qkvKH\_CE87SDLaqnqFR/view?usp=sharing](https://drive.google.com/file/d/1BIJ7W4HUpsCm5qkvKH_CE87SDLaqnqFR/view?usp=sharing)
 
 ...永远未完待续
 
