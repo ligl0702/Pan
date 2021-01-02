@@ -3,6 +3,7 @@
 * [↖️首页-左上角是菜单←](README.md)
 * [视频发布平台汇总](shi-pin-fa-bu-ping-tai-hui-zong.md)
 * [悟空群组汇总](wu-kong-qun-zu-hui-zong.md)
+* [谷歌网盘直达](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 
 ## 你问我答 <a id="test"></a>
 
