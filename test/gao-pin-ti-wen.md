@@ -4,11 +4,21 @@ description: 不断收集网友的提问
 
 # 高频提问
 
-## 斐讯N1和R1S、R2S、R4S选谁做主路由?
+## ❓群主的网盘地址是？
+
+[谷歌网盘地址](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)（三年整理的资料↓↓↓）
+
+[https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
+
+## ❓悟空你自己的x86刷的固件是哪个版本？从哪下载？
+
+{% embed url="https://github.com/ligl0702/-FirmwareUpdate/releases/tag/9.1" %}
+
+## ❓斐讯N1和R1S、R2S、R4S选谁做主路由?
 
 答案是：选择X86平台的软路由，这里不谈价格，只谈稳定性和固件的丰富程度。相信我，作为主路由，稳定是第一要素。你的主路由器牵扯到你家中所有终端，你有爱折腾的心情我非常理解，但是你可以在主路由器下面去折腾，尽量不影响家庭所有终端设备。这是最中肯的建议。
 
-## 每个终端最好的代理工具是什么？
+## ❓每个终端最好的代理工具是什么？
 
 手机端：安卓使用clash ，IOS（iPhone或者ipad）：使用小火箭或者quan
 
@@ -16,7 +26,7 @@ windows：clash等
 
 mac：clash或者surge
 
-## Tivo Stream 4K、Google TV、Fire TV Strick 4K 选谁？
+## ❓Tivo Stream 4K、Google TV、Fire TV Strick 4K 选谁？
 
 这问题一句话说不明白，建议看看我的视频。这些都是电视棒。各有各的问题。目前最新的是google tv。
 
@@ -26,11 +36,11 @@ mac：clash或者surge
 
 相关视频：[https://www.bilibili.com/video/BV16a411c74z](https://www.bilibili.com/video/BV16a411c74z)
 
-## 电视盒子看油管和奈飞，软路由应该使用什么模式？
+## ❓电视盒子看油管和奈飞，软路由应该使用什么模式？
 
 最好使用绕过大陆ip模式，有的插件里叫做 大陆白名单模式 都行。 gfwlist模式有可能不齐全造成看不了奈飞等状况的出现。
 
-## 请问电视盒子看油管和奈飞要用什么电视盒子？
+## ❓请问电视盒子看油管和奈飞要用什么电视盒子？
 
 奈飞的门槛较高，要选择**奈飞授权**的电视盒子。以下是个人推荐的几款盒子都能选择，肯定不翻车。
 
@@ -40,23 +50,23 @@ mac：clash或者surge
 
 
 
-## 你视频中货架上右上角的电子时钟是什么牌子
+## ❓你视频中货架上右上角的电子时钟是什么牌子
 
 那是一个国外的品牌，叫做Lametric Time，只能淘宝代购或者自己从官网和美亚海淘。大约1500元左右。
 
-## **你视频背景的白色货架是从哪里买的？**
+## ❓**你视频背景的白色货架是从哪里买的？**
 
 **淘宝搜索 五金少女，或者去看他们的视频就能找到了。**
 
-## 主要看国内的节目，用什么盒子比较好？
+## ❓主要看国内的节目，用什么盒子比较好？
 
 目前国产配置较好的有当贝B1、当贝B3Pro和极光3 pro。配置方面都是比较高的。都没有开机广告。
 
-## Google TV 总是显示已连接无法访问互联网？或者时间总是不正确怎么办？
+## ❓Google TV 总是显示已连接无法访问互联网？或者时间总是不正确怎么办？
 
 [答案在这里——————这里](google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 
-## 你视频中的产品来自哪里？
+## ❓你视频中的产品来自哪里？
 
 分以下几种情况：
 
@@ -66,19 +76,19 @@ mac：clash或者surge
 
 3、热心网友为了给我做视频素材借用的设备，用完需及时归还（无任何广告性质）。这种情况非常容易误解为是我自己买的。我每次极力说明，可还是有人误会。我想我以后把这类产品也加上水印备注吧。无奈！
 
-## 你的盒子会卖掉吗？
+## ❓你的盒子会卖掉吗？
 
 我的电视盒子基本不会卖，极少会卖掉。原因是好多时候，网友需要我答疑解惑，我如果卖掉某个机型，可能后续就无法解答网友疑问了。再者，你可能对我不熟悉。我的频道全是仰仗各位盒子精爱好者才发展起来的，不会忘记垂直产品的。不过你可以关注我的闲鱼账号：**我要唰唰** 另外还有 ****[**个人微**店](../ge-ren-wei-dian.md)
 
-## **你的Tivo和火棒使用的OTG线从哪里买的？**
+## ❓**你的Tivo和火棒使用的OTG线从哪里买的？**
 
 **闲鱼啊，链接就不发了吧。id是   卿卿bca**
 
-## 不看奈飞和油管，推荐几款国产电视盒子？
+## ❓不看奈飞和油管，推荐几款国产电视盒子？
 
 坦白讲不带开机广告的电视盒子还是有点少，配置低的电视盒子不想推荐，因为可能以后还需要升级。目前比较看好的几款是当贝b1/b3 pro ,腾讯极光3pro 。小米的话配置较低，但是小米也有优点那就是os做的不错。配合米家生态链。但是2021年确实也没啥新配置。所以就不推荐了。
 
-## 索尼电视应该使用哪一个油管APK或者奈飞APK？
+## ❓索尼电视应该使用哪一个油管APK或者奈飞APK？
 
 【火棒Youtube-4K免谷歌框架】[https://drive.google.com/file/d/1EQfc0KlLThprdYoSZuAiAYi8jkYK0u8Q](https://drive.google.com/file/d/1EQfc0KlLThprdYoSZuAiAYi8jkYK0u8Q)
 
@@ -86,19 +96,15 @@ mac：clash或者surge
 
 【Netflix TV版本】[https://drive.google.com/file/d/1BIJ7W4HUpsCm5qkvKH\_CE87SDLaqnqFR/view?usp=sharing](https://drive.google.com/file/d/1BIJ7W4HUpsCm5qkvKH_CE87SDLaqnqFR/view?usp=sharing)
 
-## Google TV、Shield TV等原生盒子的激活方式除了软路由还有其他办法吗？
+## ❓Google TV、Shield TV等原生盒子的激活方式除了软路由还有其他办法吗？
 
  可以使用香港手机卡，手机开热点完成。比如这种（**不是推荐仅仅是举例**）：[这里这里](https://traveldetail.fliggy.com/item.htm?id=597315400006&ali_refid=a3_430583_1006:1125178942:N:TmlkEr4toFiovv16%2FtNotQ%3D%3D:25ab86d7783981df997adbb6f0086cbf&ali_trackid=1_25ab86d7783981df997adbb6f0086cbf&spm=a230r.1.14.1) **⟵**
 
-## 红米Ac2100刷机文档和固件在哪？
+## ❓红米Ac2100刷机文档和固件在哪？
 
 {% embed url="https://github.com/ligl0702/Pan/releases/tag/2020.11.01" %}
 
-## 悟空你自己的x86刷的固件是哪个版本？
-
-{% embed url="https://github.com/ligl0702/-FirmwareUpdate/releases/tag/9.1" %}
-
-## 一句话盘点下你视频出现的热门电视盒子的短板或者缺点？
+## ❓一句话盘点下你视频出现的热门电视盒子的短板或者缺点？
 
 | 机型 | 缺点/短板 |
 | :--- | :--- |
@@ -110,7 +116,7 @@ mac：clash或者surge
 | **Fire TV Stick 4K** | **不支持简体或者繁体中文** |
 | **Zidoo Z9X** | **奈飞仅支持HDR 不支持双杜比** |
 
-## **Google TV 拓展物有没有便宜一点的并且可以兼容的？**
+## ❓**Google TV 拓展物有没有便宜一点的并且可以兼容的？**
 
 \*\*\*\*[**https://m.tb.cn/h.46QKFit?sm=f83ea4** ](https://m.tb.cn/h.46QKFit?sm=f83ea4%20) **这款也是网友反馈的。比绿联的能便宜一半**
 
