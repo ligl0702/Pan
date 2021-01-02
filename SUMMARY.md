@@ -20,4 +20,5 @@
 * [抖音动态](dou-yin-dong-tai.md)
 * [个人微店](ge-ren-wei-dian.md)
 * [Emoji表情](https://emojixd.com/x9kh)
+* [如何激活Tivo Stream 4K](ru-he-ji-huo-tivo-stream-4k.md)
 
