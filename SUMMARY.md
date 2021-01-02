@@ -1,7 +1,8 @@
 # Table of contents
 
 * [↖️首页-左上角是菜单←](README.md)
-* [我在哪里发视频](shi-pin-fa-bu-ping-tai-hui-zong.md)
+* [视频发布平台汇总](shi-pin-fa-bu-ping-tai-hui-zong.md)
+* [悟空群组汇总](wu-kong-qun-zu-hui-zong.md)
 
 ## 你问我答 <a id="test"></a>
 
@@ -18,5 +19,4 @@
 * [打赏和赞助](zan-zhu.md)
 * [个人微店](ge-ren-wei-dian.md)
 * [Emoji表情](https://emojixd.com/x9kh)
-* [悟空群组汇总](wu-kong-qun-zu-hui-zong.md)
 
