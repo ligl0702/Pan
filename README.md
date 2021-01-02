@@ -14,17 +14,9 @@ description: 提示：左侧是菜单
 
 ## **视频都发布在哪些平台?**点击[这里](shi-pin-fa-bu-ping-tai-hui-zong.md) ←
 
-## 电报群
+## 群汇总[点这里](wu-kong-qun-zu-hui-zong.md)← 或者扫描下方↓↓
 
-{% embed url="https://t.me/wkongsvlog" %}
-
-![](.gitbook/assets/111.jpg)
-
-## **Q群：1041472613   743818097  （禁止广告人）**
-
-## 井盖群组：[**https://jg.17173.com/i/f1PutQow**](https://jg.17173.com/i/f1PutQow)   ****
-
-**井盖是一个可以分话题的群聊app，观众可以根据不同话题，选择感兴趣的话题组群聊。**
+![&#x8FD9;&#x662F;&#x4E00;&#x4E2A;&#x7FA4;&#x6C47;&#x603B;&#x7684;&#x9875;&#x9762;](.gitbook/assets/111.jpg)
 
 ### 15元 Netflix PRO会员 [点击这里或者扫描↓↓](https://naifei.pro/m/?rid=1p5c6)
 

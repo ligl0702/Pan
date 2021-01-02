@@ -20,3 +20,5 @@ description: 汇总我的全部群组
 
 **井盖群组**：[**https://jg.17173.com/i/f1PutQow**](https://jg.17173.com/i/f1PutQow)   ****
 
+**井盖是一个可以分话题的群聊app，观众可以根据不同话题，选择感兴趣的话题组群聊。**
+
