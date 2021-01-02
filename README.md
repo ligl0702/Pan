@@ -4,7 +4,7 @@ description: 提示：左侧是菜单
 
 # ↖️首页-左上角是菜单←
 
-**悟空的日常频道百科**  [**高频提问**](test/gao-pin-ti-wen.md) **←直达** 
+##  ****[**高频提问**](test/gao-pin-ti-wen.md) **←直达** 
 
 **本页地址：**[**https://didiboy0702.gitbook.io/wukongdaily/**](https://didiboy0702.gitbook.io/wukongdaily/)     **（转发请用此地址）**
 
