@@ -6,7 +6,7 @@ description: 不断收集网友的提问
 
 ## ❓群主的网盘地址是？
 
-[谷歌网盘地址](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)（**三年整理的资料↓↓↓**）
+[**谷歌网盘地址**](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)（**三年整理的资料↓↓↓**）
 
 [https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 
@@ -127,6 +127,12 @@ mac：clash或者surge
 ## ❓**Google TV 拓展物有没有便宜一点的并且可以兼容的？**
 
 \*\*\*\*[**https://m.tb.cn/h.46QKFit?sm=f83ea4** ](https://m.tb.cn/h.46QKFit?sm=f83ea4%20) **这款也是网友反馈的。比绿联的能便宜一半**
+
+## ❓**哪里可以下载4K或者8K测试片？**
+
+**如果你懒得自己找，可以在我的谷歌网盘自行下载**
+
+\*\*\*\*[**4K测试片**](https://drive.google.com/drive/folders/1dkitmr6e_m8fkSliD3DVp2xA2sPYByFl?usp=sharing)← [**8K测试片**](https://drive.google.com/drive/folders/1W1j7Ik4vxCz0tctLcRUSD1EU5lEYyrmk?usp=sharing)←[ **总目录**](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)←
 
 
 
