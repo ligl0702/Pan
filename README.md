@@ -4,7 +4,7 @@ description: 提示：左侧是菜单
 
 # ↖️首页-左上角是菜单←
 
-##  ****[**高频提问**](test/gao-pin-ti-wen.md) **←直达** 
+##  ****[**高频提问**](gao-pin-ti-wen.md) **←直达** 
 
 **本页地址：**[**https://didiboy0702.gitbook.io/wukongdaily/**](https://didiboy0702.gitbook.io/wukongdaily/)     **（转发请用此地址）**
 
@@ -30,7 +30,7 @@ description: 提示：左侧是菜单
 
 [**第二个**](https://dlercloud.com/auth/register?affid=74522) ****特点稳
 
-[**高频提问 请点击**](test/gao-pin-ti-wen.md)\*\*\*\*
+[**高频提问 请点击**](gao-pin-ti-wen.md)\*\*\*\*
 
 \*\*\*\*[**赞助**](zan-zhu.md)\*\*\*\*
 
@@ -38,5 +38,5 @@ description: 提示：左侧是菜单
 
 \*\*\*\*
 
-↖️[左上角是菜单←](test/gao-pin-ti-wen.md)
+↖️[左上角是菜单←](gao-pin-ti-wen.md)
 
