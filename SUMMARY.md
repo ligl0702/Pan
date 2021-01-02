@@ -10,6 +10,8 @@
 
 ## 你问我答 <a id="test"></a>
 
+* [如何观看Netflix](https://afdian.net/p/44587ff4da2311eaaf1c52540025c377)
+* [如何激活Tivo Stream 4K](test/ru-he-ji-huo-tivo-stream-4k.md)
 * [Google TV 修改NTP服务器地址](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 
 ---
@@ -20,5 +22,4 @@
 * [抖音动态](dou-yin-dong-tai.md)
 * [个人微店](ge-ren-wei-dian.md)
 * [Emoji表情](https://emojixd.com/x9kh)
-* [如何激活Tivo Stream 4K](ru-he-ji-huo-tivo-stream-4k.md)
 
