@@ -1,4 +1,8 @@
-# Google TV 修改NTP服务器地址
+---
+description: 解决方法 修改ntp服务器地址
+---
+
+# Google TV 已连接无法访问互联网
 
 ## **adb 工具包地址-** [**下载**](https://drive.google.com/drive/folders/1PIT3issyC3qD_mjt9HRVJkM2qTlphXWk?usp=sharing)\*\*\*\*
 

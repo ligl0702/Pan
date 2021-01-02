@@ -12,7 +12,7 @@
 
 * [如何观看Netflix](https://afdian.net/p/44587ff4da2311eaaf1c52540025c377)
 * [如何激活Tivo Stream 4K](test/ru-he-ji-huo-tivo-stream-4k.md)
-* [Google TV 修改NTP服务器地址](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
+* [Google TV 已连接无法访问互联网](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 
 ---
 
