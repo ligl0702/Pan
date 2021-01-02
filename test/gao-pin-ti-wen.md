@@ -10,9 +10,9 @@ description: 不断收集网友的提问
 
 [https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 
-## ❓悟空你自己的x86刷的固件是哪个版本？从哪下载？
+## ❓悟空你自己的x86软路由刷的固件是哪个版本？从哪下载？
 
-{% embed url="https://github.com/ligl0702/-FirmwareUpdate/releases/tag/9.1" %}
+无特殊需求没必要总是更新固件，稳定使用是第一位 [点这里直达](https://github.com/ligl0702/-FirmwareUpdate/releases/tag/9.1) **←**
 
 ## ❓斐讯N1和R1S、R2S、R4S选谁做主路由?
 
