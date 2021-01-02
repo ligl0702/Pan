@@ -8,6 +8,8 @@ description: 解决方法 修改ntp服务器地址
 
 注：采用无线adb方式 无需连接数据线 只要保证在同一个局域网即可
 
+相关视频：[https://www.youtube.com/watch?v=0H27uZYdkxk](https://www.youtube.com/watch?v=0H27uZYdkxk)
+
  1、**打开adb**`设置-系统-关于-连续点击4次 Android TV操作系统版本，此时回到系统就有开发者选项-勾选USB调试`
 
 2、**连接adb**（下载adb工具包-位于网盘） 如果有弹框 请点击确定按钮
