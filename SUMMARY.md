@@ -21,5 +21,6 @@
 * [B站动态](https://space.bilibili.com/250915741/dynamic)
 * [抖音动态](dou-yin-dong-tai.md)
 * [个人微店](ge-ren-wei-dian.md)
+* [个人闲鱼](ge-ren-xian-yu.md)
 * [Emoji表情](https://emojixd.com/x9kh)
 
