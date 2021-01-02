@@ -50,6 +50,8 @@ ntp6.aliyun.com
 ntp7.aliyun.com
 {% endhint %}
 
+**4、重启Google TV后生效**
+
 **mac电脑如何使用adb？**
 
 此 问题可以参考我2年前的视频 [https://www.youtube.com/watch?v=ZK9rJ5w0W4o](https://www.youtube.com/watch?v=ZK9rJ5w0W4o)
