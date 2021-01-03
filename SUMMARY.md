@@ -6,6 +6,7 @@
 * [悟空群组汇总](wu-kong-qun-zu-hui-zong.md)
 * [谷歌网盘直达](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 * [奈飞Pro会员](https://naifei.pro/m/?rid=1p5c6)
+* [奈飞影片推荐](nai-fei-ying-pian-tui-jian.md)
 * [打赏和赞助](zan-zhu.md)
 
 ## 你问我答 <a id="test"></a>
