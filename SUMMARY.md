@@ -20,6 +20,7 @@
 
 ---
 
+* [❣️J4105 软路由购买地址](https://k.koudai.com/EVSDREzj)
 * [Youtube动态](https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww/community)
 * [知乎动态](https://www.zhihu.com/people/wu-kong-daily)
 * [B站动态](https://space.bilibili.com/250915741/dynamic)
@@ -27,5 +28,4 @@
 * [❣️个人微店❣️](ge-ren-wei-dian.md)
 * [💛个人闲鱼💛](ge-ren-xian-yu.md)
 * [Emoji表情](https://emojixd.com/x9kh)
-* [❣️J4105 软路由](https://k.koudai.com/EVSDR)
 
