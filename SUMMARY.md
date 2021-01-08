@@ -21,6 +21,7 @@
 ---
 
 * [❣️J4105 软路由购买地址](https://k.koudai.com/EVSDREzj)
+* [❣️Google TV购买地址](https://k.koudai.com/EVSDREzj)
 * [Youtube动态](https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww/community)
 * [知乎动态](https://www.zhihu.com/people/wu-kong-daily)
 * [B站动态](https://space.bilibili.com/250915741/dynamic)
