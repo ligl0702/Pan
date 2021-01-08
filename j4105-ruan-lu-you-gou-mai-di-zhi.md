@@ -1,6 +1,6 @@
 # ❣️J4105 软路由购买地址
 
-👉[_**购买地址**_](https://k.koudai.com/EVSDREz) 👈
+👉[_**购买地址**_](https://k.koudai.com/EVSDREz) 👈  👉[_**购买地址**_](https://k.koudai.com/EVSDREz) 👈  👉[_**购买地址**_](https://k.koudai.com/EVSDREz) 👈 👉[_**购买地址**_](https://k.koudai.com/EVSDREz) 👈  👉[_**购买地址**_](https://k.koudai.com/EVSDREz) 👈
 
 ![](.gitbook/assets/6.png)
 
