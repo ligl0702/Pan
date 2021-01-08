@@ -12,6 +12,7 @@
 ## 观众高频提问-向下滑动更多👇 <a id="test"></a>
 
 * [❣️常识必看💜❤️🧡](https://wkbackup.gitbook.io/backup/)
+* [❣️J4105 软路由购买地址](test/j4105-ruan-lu-you-gou-mai-di-zhi.md)
 * [如何观看Netflix](https://afdian.net/p/44587ff4da2311eaaf1c52540025c377)
 * [如何激活Tivo Stream 4K](test/ru-he-ji-huo-tivo-stream-4k.md)
 * [Google TV /Shield TV/Tivo Stream 4K 已连接无法访问互联网](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
@@ -20,7 +21,6 @@
 
 ---
 
-* [❣️J4105 软路由购买地址](j4105-ruan-lu-you-gou-mai-di-zhi.md)
 * [❣️Google TV购买地址](https://k.koudai.com/EVSDREzj)
 * [Youtube动态](https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww/community)
 * [知乎动态](https://www.zhihu.com/people/wu-kong-daily)
