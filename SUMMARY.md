@@ -20,6 +20,7 @@
 
 ---
 
+* [❣️J4105 软路由购买地址](j4105-ruan-lu-you-gou-mai-di-zhi.md)
 * [❣️Google TV购买地址](https://k.koudai.com/EVSDREzj)
 * [Youtube动态](https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww/community)
 * [知乎动态](https://www.zhihu.com/people/wu-kong-daily)
@@ -28,5 +29,4 @@
 * [❣️个人微店❣️](ge-ren-wei-dian.md)
 * [💛个人闲鱼💛](ge-ren-xian-yu.md)
 * [Emoji表情](https://emojixd.com/x9kh)
-* [❣️J4105 软路由购买地址](j4105-ruan-lu-you-gou-mai-di-zhi.md)
 
