@@ -20,9 +20,7 @@ description: 提示：左侧是菜单
 
 ### 15元 Netflix PRO会员 [点击这里或者扫描↓↓](https://naifei.pro/m/?rid=1p5c6)
 
-![&#x5948;&#x98DE;PRO](.gitbook/assets/nai-fei-pro.jpg)
-
-![&#x5176;&#x4ED6;&#x4F1A;&#x5458;](.gitbook/assets/41609500901.pic-fu-ben-.jpg)
+![](.gitbook/assets/nai-fei-pro1.jpg)
 
 ## \*\*\*\*[**奈飞影片推荐**](nai-fei-ying-pian-tui-jian.md)←
 
