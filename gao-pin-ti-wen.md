@@ -134,9 +134,17 @@ mac：clash或者surge
 
 \*\*\*\*[**4K测试片**](https://drive.google.com/drive/folders/1dkitmr6e_m8fkSliD3DVp2xA2sPYByFl?usp=sharing)← [**8K测试片**](https://drive.google.com/drive/folders/1W1j7Ik4vxCz0tctLcRUSD1EU5lEYyrmk?usp=sharing)←[ **总目录**](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)←
 
+## LG电视换区代码是什么？
 
+部分地区码可以参考：
 
+北美：1793 欧洲：3122 澳大利亚：4816 北欧：0 **香港：13869** 台湾:13333 **国行：13741** 
 
+注意换区不能改变你的**网络环境**，像NF这样的软件你必须有相应的环境才可以。另外如果发现任何换区后影响到使用的地方你可以切换回国行。本次问答是给那些喜欢国外流媒体的人一种换区方案。初衷是为了方便大家换区而已。不引导不怂恿任何人换区。你自愿。
+
+备注：**切换到香港区域之后**，必须在位置里再次选择-香港 才可以真切换到港区
+
+\*\*\*\*[**相关视频**](https://www.bilibili.com/video/BV1TJ41147)：[https://www.bilibili.com/video/BV1TJ41147](https://www.bilibili.com/video/BV1TJ41147we?from=search&seid=10064138091965696631)
 
 ...永远未完待续
 
