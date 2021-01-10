@@ -11,7 +11,7 @@
 
 ## 观众高频提问-向下滑动更多👇 <a id="test"></a>
 
-* [❣️常识必看💜❤️🧡](https://wkbackup.gitbook.io/backup/)
+* [❤️无障碍上网说明💜](test/wu-zhang-ai-shang-wang-shuo-ming.md)
 * [❣️J4105 软路由购买地址](test/j4105-ruan-lu-you-gou-mai-di-zhi.md)
 * [如何观看Netflix](https://afdian.net/p/44587ff4da2311eaaf1c52540025c377)
 * [如何激活Tivo Stream 4K](test/ru-he-ji-huo-tivo-stream-4k.md)
