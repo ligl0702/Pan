@@ -8,6 +8,8 @@ description: >-
 
 👉[_**购买地址**_](https://k.koudai.com/EVSDREzj) 👈 👉[_**购买地址**_](https://k.koudai.com/EVSDREzj) 👈 👉[_**购买地址**_](https://k.koudai.com/EVSDREzj) 👈 👉[_**购买地址**_](https://k.koudai.com/EVSDREzj) 👈 👉[_**购买地址**_](https://k.koudai.com/EVSDREzj) 👈 
 
+**开箱视频**：[https://v.ixigua.com/JtGYbba/](https://v.ixigua.com/JtGYbba/)
+
 ![](../../.gitbook/assets/6.png)
 
 ![](../../.gitbook/assets/jie-ping-20210108-xia-wu-7.25.52.png)
