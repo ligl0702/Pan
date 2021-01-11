@@ -16,6 +16,7 @@
 * [如何观看Netflix](https://afdian.net/p/44587ff4da2311eaaf1c52540025c377)
 * [如何激活Tivo Stream 4K](test/ru-he-ji-huo-tivo-stream-4k.md)
 * [❣️好物推荐（带货专区）](test/hao-wu-tui-jian-dai-huo-zhuan-qu/README.md)
+  * [❣️Minisforum 品牌双千兆迷你电脑专区](test/hao-wu-tui-jian-dai-huo-zhuan-qu/minisforum-pin-pai-shuang-qian-zhao-mi-ni-dian-nao-zhuan-qu.md)
   * [❣️J4105 软路由购买地址](test/hao-wu-tui-jian-dai-huo-zhuan-qu/j4105-ruan-lu-you-gou-mai-di-zhi.md)
   * [❣️Google TV购买地址](https://k.koudai.com/EVSDREzj)
 
