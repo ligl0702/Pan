@@ -24,7 +24,13 @@ description: 这个模块介绍品牌Minisforum迷你电脑
 
 ![](../../.gitbook/assets/jie-ping-20210111-shang-wu-10.57.11.png)
 
-## 
+## 4、型号：[X35G 酷睿i3-1005G1电脑雷电3台式机](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-517659562.57.5b3331aeasOHWn&id=631691743228)
+
+{% embed url="https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-517659562.57.5b3331aeasOHWn&id=631691743228" %}
+
+
+
+![](../../.gitbook/assets/jie-ping-20210111-xia-wu-10.50.27.png)
 
 
 
