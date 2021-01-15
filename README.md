@@ -1,10 +1,12 @@
 ---
-description: 提示：左侧是菜单
+description: 提示：左侧是菜单，这是一个有温度的百科，会经常更新高频提问
 ---
 
 # ↖️首页-左上角是菜单←
 
-##  ****[**高频提问**](gao-pin-ti-wen.md) **←直达** 
+##  ****[**高频提问**](gao-pin-ti-wen.md) **←直达 注意这是一个有温度的百科** 
+
+**没有任何人鄙视新手，百科只为你更新！为了焦灼不安的你！**
 
 **本页地址：**[**https://didiboy0702.gitbook.io/wukongdaily/**](https://didiboy0702.gitbook.io/wukongdaily/)     **（转发请用此地址）**
 
