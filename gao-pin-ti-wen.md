@@ -150,6 +150,12 @@ mac：clash或者surge
 
 **首先开启ADB方法如下**：**`Settings -my fire tv- developer opinions-ADB debugging ON`**
 
+**其次adb使用方法，fire tv和你的电脑要处于同一个局域网，即连接了同一台路由器。**
+
+**连接adb ：`adb connect 192.168.xx.xx`**
+
+**安装apk**：**`adb install apk路径`**（一般拖拽到命令行即可）
+
 {% embed url="https://youtu.be/hNnkwsM8t0Y" %}
 
 
