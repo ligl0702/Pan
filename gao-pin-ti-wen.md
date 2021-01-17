@@ -146,6 +146,14 @@ mac：clash或者surge
 
 \*\*\*\*[**相关视频**](https://www.bilibili.com/video/BV1TJ41147)：[https://www.bilibili.com/video/BV1TJ41147](https://www.bilibili.com/video/BV1TJ41147we?from=search&seid=10064138091965696631)
 
+## ❓Fire TV Stick 4K 如何安装第三方apk
+
+**首先开启ADB方法如下**：**`Settings -my fire tv- developer opinions-ADB debugging ON`**
+
+{% embed url="https://youtu.be/hNnkwsM8t0Y" %}
+
+
+
 ...永远未完待续
 
 ## ↖️页面左上角是菜单⟵
