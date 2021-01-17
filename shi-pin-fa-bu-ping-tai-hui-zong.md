@@ -14,13 +14,10 @@ description: 汇总自媒体平台
 * [ ] \*\*\*\*[**西瓜视频**](%20https://v.ixigua.com/JbAdbYy/)←2021加油
 * [ ] \*\*\*\*[**知乎**](%20https://www.zhihu.com/people/wu-kong-daily)← \(求关注\)
 * [ ] \*\*\*\*[**Youtube副频道**](https://www.youtube.com/channel/UCC5aeW5iDd2oaM5S6HHaXew)←比较轻松的频道
-* [ ] **微信公众号**：搜索 悟空的日常vlog
+* [ ] **抖音：悟空的日常 或搜索 wukongdaily**
+* [ ] **微信公众号**：搜索 **悟空的日常vlog**
 
 ![&#x516C;&#x4F17;&#x53F7;&#xFF1A;&#x609F;&#x7A7A;&#x7684;&#x65E5;&#x5E38;vlog](.gitbook/assets/qrcode_for_gh_237122b8ccd6_258.jpg)
-
-* [ ] **抖音：悟空的日常 或搜索 wukongdaily**   🥰 
-
-![&#x6296;&#x97F3; &#x5E73;&#x65F6;&#x5A31;&#x4E50; ](.gitbook/assets/271608974820_.pic.jpg)
 
 
 
