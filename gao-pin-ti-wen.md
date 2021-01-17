@@ -156,6 +156,8 @@ mac：clash或者surge
 
 **安装apk**：**`adb install apk路径`**（一般拖拽到命令行即可）
 
+相关视频，视频第五点：[https://youtu.be/hNnkwsM8t0Y](https://youtu.be/hNnkwsM8t0Y)
+
 {% embed url="https://youtu.be/hNnkwsM8t0Y" %}
 
 
