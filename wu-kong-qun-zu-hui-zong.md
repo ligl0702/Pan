@@ -6,7 +6,7 @@ description: 汇总我的全部群组
 
 #### **`国外群组`**
 
-🦊【主群2万人】[https://t.me/wkongsvlog](https://t.me/wkongsvlog)
+🦊【电报群2万人】[https://t.me/wkongsvlog](https://t.me/wkongsvlog)
 
 🦊【官方通知频道订阅不失联】[https://t.me/daily5kong](https://t.me/daily5kong)
 
