@@ -14,7 +14,7 @@ description: 提示：左侧是菜单，这是一个有温度的百科，会经�
 
 [https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 
-## **视频都发布在哪些平台?**点击[这里](shi-pin-fa-bu-ping-tai-hui-zong.md) ←
+## **视频都发布在哪些平台?**点击[这里](shi-pin-fa-bu-ping-tai-hui-zong.md) ← 合作入口
 
 ## 群汇总[点这里](wu-kong-qun-zu-hui-zong.md)← 或者扫描下方↓↓
 

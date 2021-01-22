@@ -32,4 +32,5 @@
 * [❣️个人微店❣️](ge-ren-wei-dian.md)
 * [💛个人闲鱼💛](ge-ren-xian-yu.md)
 * [Emoji表情](https://emojixd.com/x9kh)
+* [合作说明](he-zuo-shuo-ming.md)
 
