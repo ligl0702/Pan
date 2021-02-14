@@ -22,6 +22,8 @@ description: 提示：左侧是菜单，这是一个有温度的百科，会经�
 
 ### 15元 Netflix PRO会员 [点击这里↓↓](https://naifei.pro/m/?rid=1p5c6)
 
+![](.gitbook/assets/nai-fei-pro1.jpg)
+
 ## \*\*\*\*[**奈飞影片推荐**](nai-fei-ying-pian-tui-jian.md)←
 
 **自己正在用的vps** 
