@@ -16,13 +16,15 @@ description: 提示：左侧是菜单，这是一个有温度的百科，会经�
 
 ## **视频都发布在哪些平台?**点击[这里](shi-pin-fa-bu-ping-tai-hui-zong.md) ← 👉 附：[**商务合作说明**](he-zuo-shuo-ming.md)\*\*\*\*
 
+## 国外在线流媒体视频会员 [点击这里↓↓](https://naifei.pro/m/?rid=1p5c6)
+
+![](.gitbook/assets/zong-ti-.png)
+
+## 
+
 ## 群汇总[点这里](wu-kong-qun-zu-hui-zong.md)← 或者扫描下方↓↓
 
 ![&#x8FD9;&#x662F;&#x4E00;&#x4E2A;&#x7FA4;&#x6C47;&#x603B;&#x7684;&#x9875;&#x9762;](.gitbook/assets/111.jpg)
-
-### 15元 Netflix PRO会员 [点击这里↓↓](https://naifei.pro/m/?rid=1p5c6)
-
-![](.gitbook/assets/nai-fei-pro1.jpg)
 
 ## \*\*\*\*[**奈飞影片推荐**](nai-fei-ying-pian-tui-jian.md)←
 
