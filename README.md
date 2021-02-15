@@ -14,8 +14,6 @@ description: 提示：左侧是菜单，这是一个有温度的百科，会经�
 
 [https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 
-## **视频都发布在哪些平台?**点击[这里](shi-pin-fa-bu-ping-tai-hui-zong.md) ← 👉 附：[**商务合作说明**](he-zuo-shuo-ming.md)\*\*\*\*
-
 ## 国外在线流媒体视频会[下方这里↓↓](https://naifei.pro/m/?rid=1p5c6)
 
 ![](.gitbook/assets/zong-ti-.png)
