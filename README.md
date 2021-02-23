@@ -8,8 +8,6 @@ description: 提示：左侧是菜单，这是一个有温度的百科，会经�
 
 **没有任何人鄙视新手，百科只为你更新！为了焦灼不安的你！**
 
-**本页地址：**[**https://didiboy0702.gitbook.io/wukongdaily/**](https://didiboy0702.gitbook.io/wukongdaily/)     **（转发请用此地址）**
-
 ## [谷歌网盘地址](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)（三年整理的资料↓↓↓）
 
 [https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
