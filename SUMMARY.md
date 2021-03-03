@@ -32,4 +32,5 @@
 * [💛个人闲鱼💛](ge-ren-xian-yu.md)
 * [Emoji表情](https://emojixd.com/x9kh)
 * [合作说明](he-zuo-shuo-ming.md)
+* [软路由型号推荐](ruan-lu-you-xing-hao-tui-jian.md)
 
