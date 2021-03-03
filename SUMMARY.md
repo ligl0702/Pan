@@ -14,10 +14,6 @@
 ## 观众高频提问-向下滑动更多👇 <a id="test"></a>
 
 * [❤️无障碍上网说明💜](test/wu-zhang-ai-shang-wang-shuo-ming.md)
-* [❣️好物推荐（带货专区）](test/hao-wu-tui-jian-dai-huo-zhuan-qu/README.md)
-  * [❣️Minisforum 品牌双千兆迷你电脑专区](test/hao-wu-tui-jian-dai-huo-zhuan-qu/minisforum-pin-pai-shuang-qian-zhao-mi-ni-dian-nao-zhuan-qu.md)
-  * [❣️J4105 软路由购买地址](test/hao-wu-tui-jian-dai-huo-zhuan-qu/j4105-ruan-lu-you-gou-mai-di-zhi.md)
-  * [❣️Google TV购买地址](https://k.koudai.com/EVSDREzj)
 * [Google TV /Shield TV/Tivo Stream 4K 已连接无法访问互联网](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 * [如何观看Netflix](https://afdian.net/p/44587ff4da2311eaaf1c52540025c377)
 * [如何激活Tivo Stream 4K](test/ru-he-ji-huo-tivo-stream-4k.md)
