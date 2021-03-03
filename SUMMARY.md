@@ -14,6 +14,7 @@
 ## 观众高频提问-向下滑动更多👇 <a id="test"></a>
 
 * [❤️无障碍上网说明💜](test/wu-zhang-ai-shang-wang-shuo-ming.md)
+* [👉软路由型号推荐](test/ruan-lu-you-xing-hao-tui-jian.md)
 * [Google TV /Shield TV/Tivo Stream 4K 已连接无法访问互联网](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 * [如何观看Netflix](https://afdian.net/p/44587ff4da2311eaaf1c52540025c377)
 * [如何激活Tivo Stream 4K](test/ru-he-ji-huo-tivo-stream-4k.md)
@@ -32,5 +33,4 @@
 * [💛个人闲鱼💛](ge-ren-xian-yu.md)
 * [Emoji表情](https://emojixd.com/x9kh)
 * [合作说明](he-zuo-shuo-ming.md)
-* [软路由型号推荐](ruan-lu-you-xing-hao-tui-jian.md)
 
