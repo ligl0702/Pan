@@ -24,11 +24,7 @@ description: 提示：左侧是菜单，这是一个有温度的百科，会经�
 
 ## \*\*\*\*[**奈飞影片推荐**](nai-fei-ying-pian-tui-jian.md)←
 
-**自己正在用的vps** 
-
-[**第一个**](https://jike0.com/auth/register?code=xoWW) ****特点流量大
-
-[**第二个**](https://dler.best/auth/register?affid=74522) ****特点稳
+\*\*\*\*[**自己正在用的vps** ](https://dler.best/auth/register?affid=74522)\*\*\*\*
 
 [**高频提问 请点击**](gao-pin-ti-wen.md)\*\*\*\*
 
