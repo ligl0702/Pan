@@ -12,3 +12,5 @@ description: 满足国内用户的观影需求
 
 [ **Emby是什么？**](e-mb-y.md)👈🏻
 
+ [**相关视频**](https://www.youtube.com/watch?v=e2RrVi1Xn3s)    **←**
+

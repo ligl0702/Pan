@@ -10,7 +10,6 @@
 * [奈飞影片推荐](nai-fei-ying-pian-tui-jian.md)
 * [打赏和赞助](zan-zhu.md)
 * [Emby是什么](e-mb-y.md)
-* [Emby影音库](https://www.youtube.com/watch?v=e2RrVi1Xn3s)
 * [Emby影库推荐](emby-ying-ku-tui-jian.md)
 
 ## 观众高频提问-向下滑动更多👇 <a id="test"></a>
