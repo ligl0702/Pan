@@ -8,9 +8,8 @@
 * [谷歌网盘直达](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 * [奈飞Pro会员](https://naifei.pro/m/?rid=1p5c6)
 * [奈飞影片推荐](nai-fei-ying-pian-tui-jian.md)
-* [打赏和赞助](zan-zhu.md)
+* [💚 Emby影库推荐](emby-ying-ku-tui-jian.md)
 * [Emby是什么](e-mb-y.md)
-* [Emby影库推荐](emby-ying-ku-tui-jian.md)
 
 ## 观众高频提问-向下滑动更多👇 <a id="test"></a>
 
