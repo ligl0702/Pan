@@ -10,6 +10,12 @@ description: 不断收集网友的提问
 
 [https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 
+{% embed url="https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx" %}
+
+## ❓Google TV 总是显示已连接无法访问互联网？或者时间总是不正确怎么办？
+
+[答案在这里——————这里](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)   ←
+
 ## ❓悟空你自己的x86软路由刷的固件是哪个版本？从哪下载？
 
 无特殊需求没必要总是更新固件，稳定使用是第一位 [点这里直达](https://github.com/ligl0702/-FirmwareUpdate/releases/tag/9.1) **←**
@@ -70,9 +76,7 @@ mac：clash或者surge
 
 目前国产配置较好的有当贝B1、当贝B3Pro和极光3 pro。配置方面都是比较高的。都没有开机广告。
 
-## ❓Google TV 总是显示已连接无法访问互联网？或者时间总是不正确怎么办？
 
-[答案在这里——————这里](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 
 ## ❓你视频中的产品来自哪里？
 
