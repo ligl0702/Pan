@@ -1,10 +1,12 @@
 ---
-description: 解决方法 修改ntp服务器地址
+description: 解决方法 通过修改ntp服务器地址 改成国内NTP服务器即可
 ---
 
 # Google TV /Shield TV/Tivo Stream 4K 已连接无法访问互联网
 
-## **adb 工具包地址-** [**下载**](https://drive.google.com/drive/folders/1PIT3issyC3qD_mjt9HRVJkM2qTlphXWk?usp=sharing)\*\*\*\*
+## **adb 工具包地址-** [**下载**](https://drive.google.com/drive/folders/1PIT3issyC3qD_mjt9HRVJkM2qTlphXWk?usp=sharing)  **或者**[**github下载地址**](https://github.com/ligl0702/Pan/releases/tag/ADB)\*\*\*\*
+
+##  如果下面的教程你看不明白，请看 [苦口婆心 版](https://www.bilibili.com/read/cv9486531)   ←
 
 注：采用无线adb方式 无需连接数据线 只要保证在同一个局域网即可
 
