@@ -6,8 +6,8 @@
 * [👩‍👩‍👧悟空群组汇总](wu-kong-qun-zu-hui-zong.md)
 * [📱如何联系我](ru-he-lian-xi-wo.md)
 * [谷歌网盘直达](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
-* [奈飞Pro会员](https://naifei.pro/m/?rid=1p5c6)
-* [奈飞Netflix百科问答](nai-fei-ying-pian-tui-jian.md)
+* [❤️奈飞Netflix百科问答](nai-fei-ying-pian-tui-jian.md)
+* [❤️奈飞Pro会员](https://naifei.pro/m/?rid=1p5c6)
 * [💚 Emby影库推荐](emby-ying-ku-tui-jian.md)
 * [Emby是什么](e-mb-y.md)
 
@@ -32,5 +32,5 @@
 * [❣️个人微店❣️](ge-ren-wei-dian.md)
 * [💛个人闲鱼💛](ge-ren-xian-yu.md)
 * [Emoji表情](https://emojixd.com/x9kh)
-* [合作说明](he-zuo-shuo-ming.md)
+* [合作必读说明（2021）](he-zuo-shuo-ming.md)
 
