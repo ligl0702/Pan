@@ -1,20 +1,61 @@
 ---
-description: 'https://www.awwrated.com/zh-tw/netflix'
+description: 用悟空本人经验解答奈飞相关的高频问题
 ---
 
-# 奈飞影片推荐
+# 奈飞Netflix百科问答
 
-**这里介绍一个超厉害的Netflix影评网站** [**这里**](https://www.awwrated.com/zh-tw/netflix) **← 这里介绍里当下比较流行的Netflix影片.按照不同的地区可以自行筛选.超级华丽的UI设计.值得收藏哈.** [**https://www.awwrated.com/zh-tw/netflix**](https://www.awwrated.com/zh-tw/netflix)\*\*\*\*
+## **1、 观看奈飞Netflix需要的三要素是什么**
 
-![](.gitbook/assets/jie-ping-20210103-xia-wu-10.21.29.png)
+ **机场节点支持、奈飞账号 和 Netflix授权的设备**
 
-![](.gitbook/assets/jie-ping-20210103-xia-wu-10.21.41.png)
+##  **2、奈飞账号怎么注册？**
+
+###  **方式一：Netflix官方注册和购买**
+
+有条件（外币信用卡）和担心安全问题的小伙伴，可以自行前往netflix.com 官网注册账号和购买。Netflix是会员制，不存在什么免费就能观看的情况，如果有，一定是有人在骗你或者另有所图。 Netflix每个地区的价格是不太一样的。具体参考官方网站的说明。
+
+###  方式二：在奈飞PRO公众号购买
+
+ 此方法适合绝大多数人并且价格实惠每个月折合人民币**15**元左右。相比淘宝上人工发号、调度合租的方式，这种方式更加自动化且不易冲突。具体参考以下公众号二维码
+
+![](.gitbook/assets/image%20%282%29.png)
+
+## 3、Netflix授权的设备有哪些？
+
+ **首先观看奈飞的设备类型有：**
+
+*  电视机、游戏机、电脑、手机、电视盒子、蓝光播放机、ipad等
+
+ **其次 Netflix授权的设备通常是大品牌。常见的比如Sony、SAMSUNG、LG、Panasonic** **等。**
+
+ **** 具体品牌列表请查看如下网址：[https://devices.netflix.com/en/](https://devices.netflix.com/en/)
+
+ **特别指出，对于一般用户，想在电视机观看Netflix，但是电视机又不在授权列表之内。怎么办？** 
+
+ **最节省的方案就是外接电视盒子**。以下列出目前主流的支持Netflix授权的电视盒子：
+
+1. Apple TV （全系）
+2. NVIDIA Shield TV （全系、若是国行需刷成美版固件）
+3. Google TV （全系、但是只有Google TV是内置安卓，前几代都是基于linux无界面的投屏）
+4. Amazon Fire TV（全系、推荐Fire tv Stick 4K及其后面出的版本）
+5. Tivo Stream 4K （2020年以后的机型）
+6. Mibox 国际版和mibox s（小米公司可能是目前唯一一个国产品牌出海带NF授权的电视盒子）
+7. Roku TV  BOX（美国比较主流的流媒体厂商、非安卓系统）
+8. 其他我不知道的盒子以及游戏机设备比如Xbox Series X/S 和Sony PS5等
+
+## 4、国产电视盒子怎么看Netflix？
+
+  理论上国产的电视盒子均不支持Netflix授权。这个事情并非是中国厂商不努力，而是环境所致。Netflix的服务器位于国外，并且Netflix支持的国家和地区里，中国大陆并不在其中。因此我们国内的电视盒子并不需要做Netflix授权。如果你是一个理性的人，请不要无脑的说但凡是不支持Netflix的电视盒子就是垃圾这种话。真的很冤枉国内厂商的。顺便说，目前国产品牌出海也是一个趋势，比较成功的案例是小米公司。目前mibox 国际版和mibox s 在海外都是非常流行的电视盒子。国外版本的**小米**盒子并没有广告，而是采用原生的带Google 认证和Netflix授权的海外电视盒子。有小米在前面打头阵，我相信今后会有更多的国产品牌出海。据说国内的**当贝公司**已经开始布局品牌出海计划。未来有望在海外市场看到 以高配著称的当贝进军海外市场。也许未来就能用到 带Google 认证和Netflix 授权的当贝电视盒子了。
+
+不死心？[你可以尝试用电视盒子刷入CoreElec 安装Netflix插件来观看Netflix ](https://youtu.be/GcbfqpWICO8)不过画质最多1080 
+
+ 其他方法？你可以购买[深蓝影库](emby-ying-ku-tui-jian.md) 在Emby中观看Netflix片源，不过这不是动态实时的。有些片源可能没有。
+
+ **最后祝大家观影愉快！**
 
 ![](.gitbook/assets/jie-ping-20210103-xia-wu-10.26.48.png)
 
-## 相关问题:[如何观看Netflix?](https://afdian.net/p/44587ff4da2311eaaf1c52540025c377)
 
-## 相关问题:[如何获得Netflix账号?](https://naifei.pro/m/?rid=1p5c6)
 
-![](.gitbook/assets/nai-fei-pro.jpg)
+## 
 
