@@ -1,4 +1,4 @@
-# Emby是什么
+# 💚 Emby是什么
 
 **Emby**（原名Media Browser）[\[1\]](https://zh.wikipedia.org/wiki/Emby#cite_note-1)是一个[主从式架构](https://zh.wikipedia.org/wiki/%E4%B8%BB%E5%BE%9E%E5%BC%8F%E6%9E%B6%E6%A7%8B)的[媒体服务器](https://zh.wikipedia.org/w/index.php?title=%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1%E5%99%A8&action=edit&redlink=1)软件，可以用来整理服务器上的视频和音频，并将音频和视频[流式](https://zh.wikipedia.org/wiki/%E6%B5%81%E5%BC%8F%E5%A4%84%E7%90%86)传输到客户端设备[\[2\]](https://zh.wikipedia.org/wiki/Emby#cite_note-2)。
 
