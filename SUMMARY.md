@@ -8,6 +8,7 @@
 * [谷歌网盘直达](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 * [💚 Emby影库推荐（适合国内）](emby-ying-ku-tui-jian.md)
 * [💚 Emby是什么](e-mb-y.md)
+* [💙 蓝光发烧友群](lan-guang-fa-shao-you-qun.md)
 * [❤️奈飞Netflix百科问答](nai-fei-ying-pian-tui-jian.md)
 * [❤️奈飞Pro会员](https://naifei.pro/m/?rid=1p5c6)
 
