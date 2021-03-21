@@ -21,17 +21,12 @@
 * [如何激活Tivo Stream 4K](test/ru-he-ji-huo-tivo-stream-4k.md)
 * [玩客云技巧](test/wan-ke-yun-ji-qiao.md)
 
-## 动态-向下滑动更多👇 <a id="shou-ye"></a>
+## 商业 <a id="shou-ye"></a>
 
 ---
 
-* [Youtube动态](https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww/community)
-* [我的西瓜视频](https://www.ixigua.com/home/3566416392893053)
-* [知乎动态](https://www.zhihu.com/people/wu-kong-daily)
-* [B站动态](https://space.bilibili.com/250915741/dynamic)
-* [抖音动态](dou-yin-dong-tai.md)
-* [❣️个人微店❣️](ge-ren-wei-dian.md)
-* [💛个人闲鱼💛](ge-ren-xian-yu.md)
+* [❣️个人微店❣️（面向新手）](ge-ren-wei-dian.md)
+* [💛个人闲鱼💛（数码闲置）](ge-ren-xian-yu.md)
+* [❤️❤️合作必读说明（2021）](he-zuo-shuo-ming.md)
 * [Emoji表情](https://emojixd.com/x9kh)
-* [合作必读说明（2021）](he-zuo-shuo-ming.md)
 
