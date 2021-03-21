@@ -1,5 +1,5 @@
 ---
-description: 满足国内用户的观影需求
+description: 满足国内用户的观影需求 适合没有NAS的用户
 ---
 
 # 💚 Emby影库推荐（适合国内）
