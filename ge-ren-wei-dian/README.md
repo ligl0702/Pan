@@ -6,5 +6,5 @@
 
 
 
-![&#x5FAE;&#x4FE1;&#x626B;&#x7801;](.gitbook/assets/image%20%281%29.png)
+![&#x5FAE;&#x4FE1;&#x626B;&#x7801;](../.gitbook/assets/image%20%281%29.png)
 
