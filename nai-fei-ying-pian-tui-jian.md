@@ -6,7 +6,7 @@ description: 用悟空本人经验解答奈飞相关的高频问题
 
 ## **1、 观看奈飞Netflix需要的三要素是什么**
 
- **机场节点支持、奈飞账号 和 Netflix授权的设备**
+ **机场**[**节点**](https://dler.best/auth/register?affid=74522)**支持、奈飞账号 和 Netflix授权的设备**
 
 ##  **2、奈飞账号怎么注册？**
 
