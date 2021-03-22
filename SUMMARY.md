@@ -21,7 +21,6 @@
 
 * [❤️无障碍上网说明💜](test/wu-zhang-ai-shang-wang-shuo-ming.md)
 * [Google TV /Shield TV/Tivo Stream 4K 已连接无法访问互联网](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
-* [如何观看Netflix](https://afdian.net/p/44587ff4da2311eaaf1c52540025c377)
 * [如何激活Tivo Stream 4K](test/ru-he-ji-huo-tivo-stream-4k.md)
 * [玩客云技巧](test/wan-ke-yun-ji-qiao.md)
 
@@ -29,9 +28,10 @@
 
 ---
 
-* [❣️个人微店❣️（面向新手）](ge-ren-wei-dian/README.md)
-  * [👉软路由型号推荐](ge-ren-wei-dian/ruan-lu-you-xing-hao-tui-jian.md)
+* [❣️个人微店❣️（面向新手）](https://k.koudai.com/EVSDREzj)
 * [💛个人闲鱼💛（数码闲置）](ge-ren-xian-yu.md)
-* [❤️❤️合作必读说明（2021）](he-zuo-shuo-ming.md)
+* [❤️❤️合作必读说明（2021）](he-zuo-shuo-ming/README.md)
+  * [❣️个人微店❣️（面向新手）](https://k.koudai.com/EVSDREzj)
+* [👉软路由型号推荐](ruan-lu-you-xing-hao-tui-jian.md)
 * [Emoji表情](https://emojixd.com/x9kh)
 
