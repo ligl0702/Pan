@@ -22,18 +22,9 @@ description: 这里撰写和Google TV 相关的一切
 
  1、如果你有一定的基础,你可以从闲鱼直接购买
 
- 2、如果你是新手、不想采坑 可以来我的[微店](%20https://k.koudai.com/CRG9VqO9)，我会帮你弄好。[ https://k.koudai.com/CRG9VqO9](%20https://k.koudai.com/CRG9VqO9)
+ 2、如果你是新手、实在不想采坑 可以来我的[微店](%20https://k.koudai.com/CRG9VqO9)，我会帮你弄好。[ https://k.koudai.com/CRG9VqO9](%20https://k.koudai.com/CRG9VqO9)
 
+##  扩展阅读↓
 
-
-
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+  [其他原生安卓盒子提示网络受限的问题](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 
