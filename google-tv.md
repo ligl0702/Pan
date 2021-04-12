@@ -24,6 +24,8 @@ description: 这里撰写和Google TV 相关的一切
 
  2、如果你是新手、实在不想采坑 可以来我的[微店](%20https://k.koudai.com/CRG9VqO9)，我会帮你弄好。[ https://k.koudai.com/CRG9VqO9](%20https://k.koudai.com/CRG9VqO9)
 
+
+
 ##  扩展阅读↓
 
   [其他原生安卓盒子提示网络受限的问题](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
