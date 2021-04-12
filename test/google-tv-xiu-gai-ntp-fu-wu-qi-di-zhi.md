@@ -6,7 +6,9 @@ description: 解决方法 通过修改ntp服务器地址 改成国内NTP服务�
 
 ## **adb 工具包地址-** [**下载**](https://drive.google.com/drive/folders/1PIT3issyC3qD_mjt9HRVJkM2qTlphXWk?usp=sharing)  **或者**[**github下载地址**](https://github.com/ligl0702/Pan/releases/tag/ADB)\*\*\*\*
 
-## **注意:若你没有科学上网,出现已连接无法访问互联网的提示属于正常**
+{% hint style="danger" %}
+#### **注意:若你没有科学上网,出现已连接无法访问互联网的提示属于正常**
+{% endhint %}
 
 ## 如果下面的教程你看不明白，请看 [苦口婆心 版](https://www.bilibili.com/read/cv9486531)   ←
 
@@ -28,7 +30,7 @@ $ adb connect 192.168.xx.xx
 $ adb shell settings put global ntp_server ntp1.aliyun.com 
 ```
 
-{% hint style="info" %}
+{% hint style="success" %}
  备用地址 
 
 dns1.synet.edu.cn 
