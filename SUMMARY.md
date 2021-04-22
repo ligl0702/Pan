@@ -17,6 +17,7 @@
 * [💙 蓝光发烧友群（原盘下载）](lan-guang-fa-shao-you-qun.md)
 * [❤️奈飞Netflix百科问答](nai-fei-ying-pian-tui-jian.md)
 * [❤️奈飞Pro会员](https://naifei.pro/m/?rid=1p5c6)
+* [软路由❣️微店❣️（面向新手）](https://k.koudai.com/EVSDREzj)
 
 ## 观众高频提问-向下滑动更多👇 <a id="test"></a>
 
@@ -29,7 +30,6 @@
 
 ---
 
-* [❣️个人微店❣️（面向新手）](https://k.koudai.com/EVSDREzj)
 * [💛个人闲鱼💛（数码闲置）](ge-ren-xian-yu.md)
 * [❤️❤️合作必读说明（2021）](he-zuo-shuo-ming.md)
 * [👉软路由型号推荐](ruan-lu-you-xing-hao-tui-jian.md)
