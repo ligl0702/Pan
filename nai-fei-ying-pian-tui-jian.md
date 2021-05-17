@@ -22,7 +22,9 @@ description: 用悟空本人经验解答奈飞相关的高频问题
 
 ## 3、Netflix授权的设备有哪些？
 
- **首先观看奈飞的设备类型有：**
+**不完全设备列表：**[**https://www.androidtv-guide.com/streaming-gaming/netflix-amazon-atv-certified**](https://www.androidtv-guide.com/streaming-gaming/netflix-amazon-atv-certified) ****
+
+**首先观看奈飞的设备类型有：**
 
 *  电视机、游戏机、电脑、手机、电视盒子、蓝光播放机、ipad等
 
