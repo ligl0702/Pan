@@ -12,7 +12,7 @@ description: 不断收集网友的提问
 
 ## ❓Google TV 总是显示已连接无法访问互联网？或者时间总是不正确怎么办？
 
-[答案在这里——————这里](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)   ←
+  **方法一：参考下面的修改路由器host的方式   ⬇️⬇️⬇️  方法二：**[答案在这里——————这里](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)   ← 
 
 ##  **Google**首次激活连不上wifi？
 
@@ -30,7 +30,7 @@ description: 不断收集网友的提问
 
 ## ❓电视盒子怎么看Netflix分辨率？
 
-接个键盘，**按F4就能显示了**，再次按F4就消失。没键盘怎么办？买
+接个键盘（usb或者蓝牙），**按F4就能显示了**，再次按F4就消失。没键盘怎么办？
 
 ## ❓每个终端最好的代理工具是什么？
 
