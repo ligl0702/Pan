@@ -56,8 +56,6 @@ mac：clash或者surge
 
 **电视盒子类型**：Apple TV 4K，Shield TV 2017美版 ，Shield TV Pro 2019，Mibox S，mibox3国际版（港版，韩版，美版都行）Roku TV等
 
-
-
 ## ❓你视频中货架上右上角的电子时钟是什么牌子
 
 那是一个国外的品牌，叫做Lametric Time，只能淘宝代购或者自己从官网和美亚海淘。大约1500元左右。
