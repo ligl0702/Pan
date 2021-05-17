@@ -30,3 +30,13 @@ description: 这里撰写和Google TV 相关的一切
 
   [其他原生安卓盒子提示网络受限的问题](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 
+##  首次激活连不上wifi？
+
+此问题可能是安卓原生TV系统时间不正确导致的，尝试在软路由OpenWrt里设置自定义劫持域名 
+
+软路由里把time.android.com劫持到 203.107.6.88\(阿里云的ntp服务器\)就能解决原生安卓时间不对的问题 了 
+
+**具体步骤：openwrt---网络----dhcp/dns----host和解析文件拉到最下边----自定义挟持域名或者自定义dns解析**
+
+![](.gitbook/assets/jie-ping-20210517-xia-wu-8.16.08.png)
+
