@@ -8,7 +8,7 @@
 
 * [❓高频提问汇总↓↓↓](gao-pin-ti-wen.md)
 * [📺视频发布平台汇总](shi-pin-fa-bu-ping-tai-hui-zong.md)
-* [👩‍👩‍👧悟空群组汇总](wu-kong-qun-zu-hui-zong.md)
+* [👩‍👩‍👧群号汇总](wu-kong-qun-zu-hui-zong.md)
 * [❇️ 电报群（2w+）](https://t.me/wkongsvlog)
 * [🎈Google TV](google-tv.md)
 * [🎈MeCool KM2](mecool-km2.md)
