@@ -14,7 +14,7 @@ description: 不断收集网友的提问
 
   **方法一：参考下面的修改路由器host的方式   ⬇️⬇️⬇️  方法二：**[答案在这里——————这里](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)   ← 
 
-##  **Google**首次激活连不上wifi？
+##  ❓**Google**首次激活连不上wifi？
 
 此问题可能是安卓原生TV系统时间不正确导致的，尝试在软路由OpenWrt里设置自定义劫持域名 
 
