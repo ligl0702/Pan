@@ -30,7 +30,9 @@ description: 不断收集网友的提问
 
 ## ❓电视盒子怎么看Netflix分辨率？
 
-接个键盘（usb或者蓝牙），**按F4就能显示了**，再次按F4就消失。没键盘怎么办？
+接个键盘（usb或者蓝牙），**按F4就能显示了**，再次按F4就消失。没键盘怎么办？可以使用我开发的安卓app来显示。遥控助手v1.1 [下载地址：  ](https://github.com/ligl0702/Pan/releases/download/info/v1.1.apk)[https://github.com/ligl0702/Pan/releases/download/info/v1.1.apk](https://github.com/ligl0702/Pan/releases/download/info/v1.1.apk)
+
+![](.gitbook/assets/391621996729_.pic.jpg)
 
 ## ❓每个终端最好的代理工具是什么？
 
