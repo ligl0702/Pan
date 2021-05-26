@@ -66,7 +66,9 @@ mac：clash或者surge
 
 **电视棒类型：**Fire tv Strick 4K，Tivo Stream 4K，Google TV。
 
-**电视盒子类型**：Apple TV 4K，Shield TV 2017美版 ，Shield TV Pro 2019，Mibox S，mibox3国际版（港版，韩版，美版都行）Roku TV等
+**电视盒子类型**：Apple TV 4K，Shield TV 2017美版 ，Shield TV Pro 2019，Mibox S，mibox3国际版（港版，韩版，美版都行）Roku TV ，Mecool KM2等
+
+ 详细列表参考：[https://www.androidtv-guide.com/streaming-gaming/netflix-amazon-atv-certified](https://www.androidtv-guide.com/streaming-gaming/netflix-amazon-atv-certified)
 
 ## ❓你视频中货架上右上角的电子时钟是什么牌子
 
