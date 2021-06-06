@@ -36,3 +36,5 @@ description: 一款支持Netflix授权的 4K HDR Dolby Atmos 带USB3.0的电视�
 
 ![](.gitbook/assets/image%20%284%29.png)
 
+  另外介绍 遥控器部分的使用视频点击直达：[https://youtu.be/c0dDyVhDDtU?t=780](https://youtu.be/c0dDyVhDDtU?t=780)
+
