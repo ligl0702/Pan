@@ -42,6 +42,8 @@ windows：clash等
 
 mac：clash或者surge
 
+ [**全部下载地址：直达 &lt;-----**](https://drive.google.com/drive/folders/1qdp0R7xANFxPxUYI2qhgnhwrWsamADDz?usp=sharing)👈
+
 ## ❓Tivo Stream 4K、Google TV、Fire TV Strick 4K 选谁？
 
 这问题一句话说不明白，建议看看我的视频。这些都是电视棒。各有各的问题。目前最新的是google tv。
