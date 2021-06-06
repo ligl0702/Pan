@@ -32,7 +32,19 @@ description: 不断收集网友的提问
 
  **如果你不是OpenWrt和梅林系统，那恐怕需要找到/etc/hosts这个文件自行编写了。另外一个终极且一定有效的方式：购买一个境外的手机号，比如香港手机号，放在手机开热点wifi。此法可行。**
 
-## ❓悟空你自己的x86软路由刷的固件是哪个版本？从哪下载？
+##  视频流媒体Apple TV+ 可以安装在Android TV吗？
+
+ 目前**默认自带**apple tv+ Android TV电视盒子有**`Google TV`**和**`Fire TV Stick 4K`**，
+
+ 这两款是保证可以运行播放的。不过字幕还是偏小。
+
+ `其他Android TV盒子` ：我正在测试。实测`MeCool KM2` 可以使用APK Mirror网站提供的2.2版本。
+
+ Sony电视：经过实测，无论安装包名为 `com.apple.atve.sony.appletv`.  3.0的APK
+
+ 还是安装包名为  `com.apple.atve.androidtv.appletv`  2.2 版本 均无法使用。其中针对sony的apk表现为无法登录，2.2通用版本表现为播放闪退
+
+##  ❓悟空你自己的x86软路由刷的固件是哪个版本？从哪下载？
 
 无特殊需求没必要总是更新固件，稳定使用是第一位[ 点这里直达](https://drive.google.com/drive/folders/1Dz_gIopns7iABtduDssF_PQeSrSl8NLe?usp=sharing) **←**
 
