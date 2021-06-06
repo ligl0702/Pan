@@ -38,9 +38,9 @@ description: 不断收集网友的提问
 
 ## ❓电视盒子怎么看Netflix分辨率？
 
-接个键盘（usb或者蓝牙），**按F4就能显示了**，再次按F4就消失。没键盘怎么办？可以使用我开发的安卓app来显示。遥控助手v1.1 [下载地址：  ](https://github.com/ligl0702/Pan/releases/download/info/v1.1.apk)[https://github.com/ligl0702/Pan/releases/download/info/v1.1.apk](https://github.com/ligl0702/Pan/releases/download/info/v1.1.apk)
+接个键盘（usb或者蓝牙），**按F4就能显示了**，再次按F4就消失。没键盘怎么办？可以使用我开发的安卓app来显示。遥控助手v1.2 [下载地址：  ](https://github.com/ligl0702/Pan/releases/download/info/v1.1.apk)[https://github.com/ligl0702/Pan/releases/download/info/v1.2.apk](https://github.com/ligl0702/Pan/releases/download/info/v1.2.apk)
 
-![](.gitbook/assets/391621996729_.pic.jpg)
+![](.gitbook/assets/image%20%285%29.png)
 
 ## ❓每个终端最好的代理工具是什么？
 
@@ -68,7 +68,7 @@ mac：clash或者surge
 
 ## ❓电视盒子看油管和奈飞，软路由应该使用什么模式？
 
-最好使用绕过大陆ip模式，有的插件里叫做 大陆白名单模式 都行。 gfwlist模式有可能不齐全造成看不了奈飞等状况的出现。
+最好使用**绕过大陆ip**模式，有的插件里叫做 **大陆白名单模式** 都行。 gfwlist模式有**可能**不齐全造成**看不了**奈飞等状况的出现。
 
 ## ❓请问电视盒子看油管和奈飞要用什么电视盒子？
 
@@ -82,7 +82,7 @@ mac：clash或者surge
 
 ## ❓你视频中货架上右上角的电子时钟是什么牌子
 
-那是一个国外的品牌，叫做Lametric Time，只能淘宝代购或者自己从官网和美亚海淘。大约1500元左右。
+那是一个国外的品牌，叫做**Lametric Time**，只能淘宝代购或者自己从官网和美亚海淘。大约1500元左右。
 
 ## ❓**你视频背景的白色货架是从哪里买的？**
 
