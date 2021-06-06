@@ -55,6 +55,8 @@ description: 用悟空本人经验解答奈飞相关的高频问题
 
  **最后祝大家观影愉快！**
 
+![](.gitbook/assets/jie-ping-20210606-shang-wu-9.23.16.png)
+
 ![](.gitbook/assets/jie-ping-20210103-xia-wu-10.26.48.png)
 
 
