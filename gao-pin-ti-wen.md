@@ -44,7 +44,7 @@ description: 不断收集网友的提问
 
  还是安装包名为  `com.apple.atve.androidtv.appletv`  
 
- 2.2 版本 均无法使用。其中针对sony的3.0版本apk表现为**无法登录**，2.2通用版本表现为**播放闪退**
+ 2.2 版本 **均无法使用**。其中针对sony的3.0版本apk表现为**无法登录**，2.2通用版本表现为**播放闪退**
 
  `APK 下载地址  2.2 通用版`：[https://www.apkmirror.com/apk/apple-inc/apple-tv-android-tv-2/apple-tv-android-tv-2-2-2-release/apple-tv-android-tv-2-2-android-apk-download/](https://www.apkmirror.com/apk/apple-inc/apple-tv-android-tv-2/apple-tv-android-tv-2-2-2-release/apple-tv-android-tv-2-2-android-apk-download/)
 
