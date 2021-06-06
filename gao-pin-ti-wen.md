@@ -42,7 +42,15 @@ description: 不断收集网友的提问
 
  Sony电视：经过实测，无论安装包名为 `com.apple.atve.sony.appletv`.  3.0的APK
 
- 还是安装包名为  `com.apple.atve.androidtv.appletv`  2.2 版本 均无法使用。其中针对sony的apk表现为无法登录，2.2通用版本表现为播放闪退
+ 还是安装包名为  `com.apple.atve.androidtv.appletv`  
+
+ 2.2 版本 均无法使用。其中针对sony的3.0版本apk表现为**无法登录**，2.2通用版本表现为**播放闪退**
+
+ `APK 下载地址  2.2 通用版`：[https://www.apkmirror.com/apk/apple-inc/apple-tv-android-tv-2/apple-tv-android-tv-2-2-2-release/apple-tv-android-tv-2-2-android-apk-download/](https://www.apkmirror.com/apk/apple-inc/apple-tv-android-tv-2/apple-tv-android-tv-2-2-2-release/apple-tv-android-tv-2-2-android-apk-download/)
+
+`Sony 电视 3.0 版本`：[https://www.apkmirror.com/apk/apple-inc/apple-tv-android-tv/apple-tv-android-tv-3-0-release/apple-tv-sony-android-tv-variant-3-0-android-apk-download/](https://www.apkmirror.com/apk/apple-inc/apple-tv-android-tv/apple-tv-android-tv-3-0-release/apple-tv-sony-android-tv-variant-3-0-android-apk-download/)
+
+ 此问题未完待续---
 
 ##  ❓悟空你自己的x86软路由刷的固件是哪个版本？从哪下载？
 
