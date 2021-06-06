@@ -24,6 +24,14 @@ description: 不断收集网友的提问
 
 ![](.gitbook/assets/jie-ping-20210517-xia-wu-8.16.08.png)
 
+  如果你是梅林系统的路由器，请按照模版格式，填写在自定义dnsmasq的文本框里
+
+![](.gitbook/assets/photo_2021-06-01_09-28-23.jpg)
+
+   比如： **203.107.6.88 address=/time.android.com/203.107.6.88**
+
+ **如果你不是OpenWrt和梅林系统，那恐怕需要找到/etc/hosts这个文件自行编写了**
+
 ## ❓悟空你自己的x86软路由刷的固件是哪个版本？从哪下载？
 
 无特殊需求没必要总是更新固件，稳定使用是第一位[ 点这里直达](https://drive.google.com/drive/folders/1Dz_gIopns7iABtduDssF_PQeSrSl8NLe?usp=sharing) **←**
