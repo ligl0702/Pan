@@ -14,7 +14,7 @@
 * [🎈遥控助手下载地址](11.md)
 * [👉谷歌网盘直达👈🏻](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 * [💚 Emby影库推荐（适合国内）](emby-ying-ku-tui-jian.md)
-* [❤️Netflix电视盒子](netflix-dian-shi-he-zi/README.md)
+* [❤️Netflix电视盒子\(展开↓\)](netflix-dian-shi-he-zi/README.md)
   * [🎈Google TV](netflix-dian-shi-he-zi/google-tv.md)
   * [🎈MeCool KM2](netflix-dian-shi-he-zi/mecool-km2.md)
 * [💚 Emby是什么](e-mb-y.md)
