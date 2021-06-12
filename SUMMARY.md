@@ -12,6 +12,7 @@
   * [📱如何联系我](wu-kong-qun-zu-hui-zong/ru-he-lian-xi-wo.md)
 * [❇️ 电报群（2w+）](https://t.me/wkongsvlog)
 * [🎈Google TV](google-tv.md)
+* [🎈遥控助手下载地址](11.md)
 * [🎈MeCool KM2](mecool-km2.md)
 * [👉谷歌网盘直达👈🏻](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 * [💚 Emby影库推荐（适合国内）](emby-ying-ku-tui-jian.md)
