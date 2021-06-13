@@ -10,9 +10,13 @@
 
 内地： [https://raw.githubusercontent.com/ligl0702/wtv/master/m3u/cn.m3u](https://raw.githubusercontent.com/ligl0702/wtv/master/m3u/cn.m3u)
 
-
+##  如何播放？
 
 **Windows** 电脑推荐使用`Potplayer`
 
  **mac** 电脑推荐使用 `IINA`
+
+ **Android电视盒子**推荐使用 `KODI`
+
+ **苹果电视盒子** 推荐使用 `iPlayTV`
 
