@@ -2,7 +2,7 @@
 
 此页为了方便访问。转载github项目：[https://github.com/biancangming/wtv](https://github.com/biancangming/wtv)
 
-更新时间：2021-06-12
+更新时间：2021-06-12 （清晰度为1080P 就是蓝光版 ）（**养成好习惯 先用电脑测试**）
 
 香港： [https://raw.githubusercontent.com/ligl0702/wtv/master/m3u/hk.m3u](https://raw.githubusercontent.com/biancangming/wtv/master/m3u/hk.m3u)
 
@@ -12,5 +12,7 @@
 
 
 
+**Windows** 电脑推荐使用`Potplayer`
 
+ **mac** 电脑推荐使用 `IINA`
 
