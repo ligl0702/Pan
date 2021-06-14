@@ -10,6 +10,8 @@
 
 内地： [https://raw.githubusercontent.com/ligl0702/wtv/master/m3u/cn.m3u](https://raw.githubusercontent.com/ligl0702/wtv/master/m3u/cn.m3u)
 
+**内地港台all in one 集合**：[https://raw.githubusercontent.com/ligl0702/wtv/master/m3u/allinone.m3u](https://raw.githubusercontent.com/ligl0702/wtv/master/m3u/allinone.m3u)
+
 ##  如何播放？
 
 **Windows** 电脑推荐使用`Potplayer`
