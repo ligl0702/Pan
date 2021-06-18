@@ -10,7 +10,7 @@ description: 一款支持Netflix授权的 4K HDR Dolby Atmos 带USB3.0的电视�
 
    **西瓜视频**：[https://www.ixigua.com/6957313758637064718](https://www.ixigua.com/6957313758637064718?utm_source=xiguastudio)
 
-  参考**购买链接**：[**点击前往**](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w137644-20102279228.26.2aeb59c3mBqgZn&id=642306462397)👈
+  参考**购买链接**：[**点击前往**](https://k.koudai.com/EmFHY4mv)👈  [https://k.koudai.com/EmFHY4mv](https://k.koudai.com/EmFHY4mv)
 
  ⚠️ 注意：**首次使用KM2 ，请修改NTP服务器地址。不然打不开油管！  方法可以使用电脑或者我开发的app。**
 
