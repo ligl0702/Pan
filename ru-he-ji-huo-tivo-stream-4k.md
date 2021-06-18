@@ -2,7 +2,7 @@
 description: 具体描述如何激活tivo
 ---
 
-# 如何激活Tivo Stream 4K
+# 🎈Tivo Stream 4K
 
 本来这不是一个问题。不过最近群友频繁提问。我就在此说明一下步骤。
 

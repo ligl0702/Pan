@@ -16,9 +16,9 @@
 * [👉谷歌网盘直达👈🏻](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 * [💚 Emby影库推荐（适合国内）](emby-ying-ku-tui-jian/README.md)
   * [💚 Emby是什么](emby-ying-ku-tui-jian/e-mb-y.md)
-* [❤️Netflix电视盒子\(展开↓\)](netflix-dian-shi-he-zi/README.md)
-  * [🎈Google TV](netflix-dian-shi-he-zi/google-tv.md)
-  * [🎈MeCool KM2](netflix-dian-shi-he-zi/mecool-km2.md)
+* [🎈Google TV](google-tv.md)
+* [🎈MeCool KM2](mecool-km2.md)
+* [🎈Tivo Stream 4K](ru-he-ji-huo-tivo-stream-4k.md)
 * [❤️奈飞Netflix百科问答](nai-fei-ying-pian-tui-jian.md)
 * [❤️奈飞Pro会员](https://naifei.pro/m/?rid=1p5c6)
 * [软路由❣️微店❣️（面向新手）](https://k.koudai.com/EVSDREzj)
@@ -27,7 +27,6 @@
 
 * [❤️无障碍上网说明💜](test/wu-zhang-ai-shang-wang-shuo-ming.md)
 * [Google TV /Shield TV/Tivo Stream 4K 已连接无法访问互联网](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
-* [如何激活Tivo Stream 4K](test/ru-he-ji-huo-tivo-stream-4k.md)
 * [玩客云技巧](test/wan-ke-yun-ji-qiao.md)
 
 ## 商业 <a id="shou-ye"></a>
