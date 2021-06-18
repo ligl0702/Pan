@@ -28,3 +28,5 @@ description: 具体描述如何激活tivo
 
 ![](https://pic1.afdiancdn.com/user/dc5b7ad05e2311ea9b9252540025c377/common/74491e20e25ee4c2de9bf0979e5de2cc_w1080_h2522_s1787.jpg?imageView2/2/w/1280)
 
+ 如果你不想踩坑 作为新手 你可以在我的微店找到 我来帮你激活   [微店地址：这里](https://weidian.com/fastorder.html?itemID=4377477438)
+
