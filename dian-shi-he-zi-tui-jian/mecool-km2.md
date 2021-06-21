@@ -14,7 +14,7 @@ description: 一款支持Netflix授权的 4K HDR Dolby Atmos 带USB3.0的电视�
 
  ⚠️ 注意：**首次使用KM2 ，请修改NTP服务器地址。不然打不开油管！  方法可以使用电脑或者我开发的app。**
 
-\*\*\*\*[**`第一种方法直达`**](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)  **这个方法是利用电脑的**
+\*\*\*\*[**`第一种方法直达`**](../test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)  **这个方法是利用电脑的**
 
 **第二种方法 利用手机app**
 
@@ -30,11 +30,11 @@ description: 一款支持Netflix授权的 4K HDR Dolby Atmos 带USB3.0的电视�
 
   点击app里的 【一键修改NTP地址】按钮，之后提示修改成功，然后点击【重启】，待盒子重启后，检查时间是否正确。网络受限问题是否解决。
 
-![](.gitbook/assets/391621996729_.pic.jpg)
+![](../.gitbook/assets/391621996729_.pic.jpg)
 
 \*\*\*\*
 
-![](.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
   另外介绍 遥控器部分的使用视频点击直达：[https://youtu.be/c0dDyVhDDtU?t=780](https://youtu.be/c0dDyVhDDtU?t=780)
 

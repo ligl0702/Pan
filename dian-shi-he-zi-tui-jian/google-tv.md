@@ -28,7 +28,7 @@ description: 这里撰写和Google TV 相关的一切
 
 ##  扩展阅读↓
 
-  [其他原生安卓盒子提示网络受限的问题](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
+  [其他原生安卓盒子提示网络受限的问题](../test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 
 ##  首次激活连不上wifi？
 
@@ -40,7 +40,7 @@ description: 这里撰写和Google TV 相关的一切
 
 ##  已联网，但是无法访问互联网？网络受限？
 
- 此问题可以参考：[这篇文章](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)👈
+ 此问题可以参考：[这篇文章](../test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)👈
 
  更新： 目前除了上述方法，还可以使用我开发的app来一键修改NTP服务器地址来解决此问题。
 
@@ -54,5 +54,5 @@ description: 这里撰写和Google TV 相关的一切
 
   点击app里的 【一键修改NTP地址】按钮，之后提示修改成功，然后点击【重启】，待盒子重启后，检查时间是否正确。网络受限问题是否解决。
 
-![](.gitbook/assets/391621996729_.pic.jpg)
+![](../.gitbook/assets/391621996729_.pic.jpg)
 
