@@ -35,6 +35,5 @@
 
 * [💛个人闲鱼💛（数码闲置）](ge-ren-xian-yu.md)
 * [❤️❤️合作必读说明（2021）](he-zuo-shuo-ming.md)
-* [👉软路由型号推荐](ruan-lu-you-xing-hao-tui-jian.md)
 * [Emoji表情](https://emojixd.com/x9kh)
 
