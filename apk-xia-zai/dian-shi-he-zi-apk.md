@@ -10,7 +10,7 @@ description: 汇总一些 高频需求的APK安装包
 
 ## Netflix TV版本 适合Android 5.0以上系统
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+【Netflix TV版本】[https://drive.google.com/file/d/1BIJ7W4HUpsCm5qkvKH\_CE87SDLaqnqFR/view?usp=sharing](https://drive.google.com/file/d/1BIJ7W4HUpsCm5qkvKH_CE87SDLaqnqFR/view?usp=sharing)
 
 
 
