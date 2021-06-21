@@ -4,6 +4,8 @@ description: 解决方法 通过修改ntp服务器地址 改成国内NTP服务�
 
 # Google TV /Shield TV/Tivo Stream 4K 已连接无法访问互联网
 
+##  **方法1：利用电脑**
+
 ## **adb 工具包地址-** [**下载**](https://drive.google.com/drive/folders/1PIT3issyC3qD_mjt9HRVJkM2qTlphXWk?usp=sharing)  **或者**[**github下载地址**](https://github.com/ligl0702/Pan/releases/tag/ADB)\*\*\*\*
 
 {% hint style="danger" %}
@@ -65,6 +67,10 @@ ntp7.aliyun.com
 此 问题可以参考我2年前的视频 [https://www.youtube.com/watch?v=ZK9rJ5w0W4o](https://www.youtube.com/watch?v=ZK9rJ5w0W4o)
 
 也可以参考此人简书：[https://www.jianshu.com/p/1b3fb1f27b67](https://www.jianshu.com/p/1b3fb1f27b67)
+
+## 方法2：利用手机app
+
+ [**利用我开发的安卓手机app 一键修改NTP服务器地址 ←**](../11.md) ****
 
 
 
