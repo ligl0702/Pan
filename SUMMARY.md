@@ -23,6 +23,10 @@
 * [❤️奈飞Pro会员](https://naifei.pro/m/?rid=1p5c6)
 * [软路由❣️微店❣️（面向新手）](https://k.koudai.com/EVSDREzj)
 
+## APK下载
+
+* [电视盒子APK](apk-xia-zai/dian-shi-he-zi-apk.md)
+
 ## 观众高频提问-向下滑动更多👇 <a id="test"></a>
 
 * [❤️无障碍上网说明💜](test/wu-zhang-ai-shang-wang-shuo-ming.md)
