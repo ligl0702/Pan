@@ -3,7 +3,7 @@
 此页为了方便访问。**转载 github项目**：[https://github.com/biancangming/wtv](https://github.com/biancangming/wtv)
 
 * CCTV直播：[http://tv.cctv.com/live/](http://tv.cctv.com/live/)
-* 北京邮电大学：[http://ivi.bupt.edu.cn/](http://ivi.bupt.edu.cn/)
+* **北京邮电大学**：[http://ivi.bupt.edu.cn/](http://ivi.bupt.edu.cn/)     （卫视比较全）
 * \(上海\)看看新闻高清： [http://live.kankanews.com/huikan/](http://live.kankanews.com/huikan/) （东方卫视、新闻综合、外语频道、都市频道、艺术人文、第一财经）、纪实频道）
 * 上海教育： [http://www.setv.sh.cn/l/live.htm](http://www.setv.sh.cn/l/live.htm)
 * 浙江卫视中国蓝： [http://tv.cztv.com/live1](http://tv.cztv.com/live1)
