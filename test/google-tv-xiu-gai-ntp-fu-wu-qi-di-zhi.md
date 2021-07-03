@@ -72,5 +72,7 @@ ntp7.aliyun.com
 
  [**利用我开发的安卓手机app 一键修改NTP服务器地址 ←**](../11.md) ****
 
+![](../.gitbook/assets/image%20%2810%29.png)
+
 
 
