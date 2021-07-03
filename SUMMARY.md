@@ -25,6 +25,7 @@
 * [🎈Google TV](dian-shi-he-zi-tui-jian/google-tv.md)
 * [🎈MeCool KM2](dian-shi-he-zi-tui-jian/mecool-km2.md)
 * [🎈Tivo Stream 4K](dian-shi-he-zi-tui-jian/ru-he-ji-huo-tivo-stream-4k.md)
+* [🎈Apple TV 4K](dian-shi-he-zi-tui-jian/apple-tv-4k.md)
 * [🌟🎈电视盒子对比](dian-shi-he-zi-tui-jian/dian-shi-he-zi-dui-bi.md)
 
 ## 🌟APK下载
