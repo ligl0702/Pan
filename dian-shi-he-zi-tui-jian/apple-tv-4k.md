@@ -32,6 +32,12 @@ description: 记录apple tv 4k 相关问题
 
  目前能够越狱的版本要低于tvOs 13.4.5  ，而新款的apple tv 4k 预装的系统就已经是14.6，因此目前还不能越狱，但是未来 我觉得还是有可能的。如果有可能我会出相关视频的。
 
+## 附加 2021 Apple TV 4K测评：
+
+**西瓜视频 ：** [https://www.ixigua.com/6967713819166507533](https://www.ixigua.com/6967713819166507533?utm_source=xiguastudio)
+
+**Youtube：**[**https://www.youtube.com/watch?v=a2uiRWNwwhg**](https://www.youtube.com/watch?v=a2uiRWNwwhg&t=1165s)\*\*\*\*
+
 
 
 
