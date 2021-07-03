@@ -1,3 +1,7 @@
+---
+description: 记录apple tv 4k 相关问题
+---
+
 # 🎈Apple TV 4K
 
 ##   一、新买的Apple TV 4K 2021 ，没软路由能否科学上网？
@@ -8,5 +12,29 @@
 
 {% embed url="https://www.youtube.com/watch?v=CnauWfbkW-M" %}
 
-## 二、
+## 二、新款遥控器能否支持电视的开关机？回音壁的Stand by等
+
+ 准确来说，支持电视的休眠和唤醒。长按Power键会有提示的。不过要求你的电视也有CEC功能。
+
+## 三、新款遥控器是否支持第五代Apple tv
+
+ 新款的遥控器支持第4、5、6 三代apple tv，因此老款的apple tv 也可以买这个遥控器来使用。
+
+## 四、Apple TV 4K能否安装KODI？
+
+ 目前我用的办法是借助mac电脑来安装的。需要7天签一次。从新推送。方法见下方视频
+
+[https://www.youtube.com/watch?v=Gs3AYm3yxic&t=5s](https://www.youtube.com/watch?v=Gs3AYm3yxic&t=5s)
+
+{% embed url="https://www.youtube.com/watch?v=Gs3AYm3yxic" %}
+
+## 五、新款的Apple TV 4K 能否越狱？
+
+ 目前能够越狱的版本要低于tvOs 13.4.5  ，而新款的apple tv 4k 预装的系统就已经是14.6，因此目前还不能越狱，但是未来 我觉得还是有可能的。如果有可能我会出相关视频的。
+
+
+
+
+
+
 
