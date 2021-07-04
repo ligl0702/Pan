@@ -18,6 +18,8 @@ description: 这里撰写和Google TV 相关的一切
 
 4、Google TV 如何使用拓展物拓展容量和使用u盘 [https://www.youtube.com/watch?v=A6079ub6T0I](https://www.youtube.com/watch?v=A6079ub6T0I)
 
+5、**Google TV 常见的5个问题和解决方法**：[https://www.youtube.com/watch?v=gHb1NVy8yow](https://www.youtube.com/watch?v=gHb1NVy8yow&t=63s)
+
 ##  如何购买？
 
  1、如果你有一定的基础,你可以从闲鱼直接购买
