@@ -20,6 +20,8 @@ description: 这里撰写和Google TV 相关的一切
 
 5、**Google TV 常见的5个问题和解决方法**：[https://www.youtube.com/watch?v=gHb1NVy8yow](https://www.youtube.com/watch?v=gHb1NVy8yow&t=63s)
 
+6、Google TV 的问题机型?系统无法升级（尽量不买原封 降低风险） [https://youtu.be/9wEsMFVZzHk](https://youtu.be/9wEsMFVZzHk)
+
 ##  如何购买？
 
  1、如果你有一定的基础,你可以从闲鱼直接购买
