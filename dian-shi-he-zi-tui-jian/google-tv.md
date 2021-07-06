@@ -22,6 +22,8 @@ description: 这里撰写和Google TV 相关的一切
 
 6、Google TV 的问题机型?系统无法升级（尽量不买原封 降低风险） [https://youtu.be/9wEsMFVZzHk](https://youtu.be/9wEsMFVZzHk)
 
+7、Google TV **第一次使用或者重置后 无法连接wifi** ？请看 [ 高频提问里的 第三题](../gao-pin-ti-wen.md)
+
 ##  如何购买？
 
  1、如果你有一定的基础,你可以从闲鱼直接购买
