@@ -140,7 +140,7 @@ mac：clash或者surge
 
 用此版本 可以免谷歌框架并且可以登录。
 
-【Netflix TV版本】[https://drive.google.com/file/d/1BIJ7W4HUpsCm5qkvKH\_CE87SDLaqnqFR/view?usp=sharing](https://drive.google.com/file/d/1BIJ7W4HUpsCm5qkvKH_CE87SDLaqnqFR/view?usp=sharing)
+【Netflix TV版本】[https://drive.google.com/file/d/19fyqpWg9E2mX8RqZDrCm4N\_xbD0BA5Ba/view?usp=sharing](https://drive.google.com/file/d/19fyqpWg9E2mX8RqZDrCm4N_xbD0BA5Ba/view?usp=sharing)
 
  更新【**Youtube Kids】**，有娃党可以[下载使用](https://drive.google.com/file/d/1CL0jsVoBvcKzQqUtJeEJT9U-op_b80DO/view?usp=sharing)：
 
