@@ -12,7 +12,7 @@ description: 提示：左侧是菜单，这是一个有温度的百科，会经�
 
 [https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 
-## 国外在线流媒体视频扫码或者[这里上车↓↓](https://naifei.pro/m/?rid=1p5c6) →[奈飞百科](nai-fei-ying-pian-tui-jian.md)←
+## 国外在线流媒体视频扫码或者[这里上车↓↓](https://naifei.pro/m/?rid=1p5c6) →[奈飞百科](nai-fei-ying-pian-tui-jian/)←
 
 ![](.gitbook/assets/nai-fei-.jpg)
 
@@ -22,7 +22,7 @@ description: 提示：左侧是菜单，这是一个有温度的百科，会经�
 
 ![&#x5168;&#x90E8;&#x7FA4;&#x7EC4;&#x5305;&#x62EC;&#x7F51;&#x76D8;&#x5730;&#x5740;](.gitbook/assets/wo-de-qun-zu-.png)
 
-## \*\*\*\*[**奈飞影片推荐**](nai-fei-ying-pian-tui-jian.md)←
+## \*\*\*\*[**奈飞影片推荐**](nai-fei-ying-pian-tui-jian/)←
 
 \*\*\*\*[**自己正在用的vps** ](https://dler.best/auth/register?affid=74522)\*\*\*\*
 
