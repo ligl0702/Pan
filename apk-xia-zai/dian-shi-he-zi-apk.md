@@ -16,6 +16,8 @@ description: 汇总一些 高频需求的APK安装包
 
 [https://drive.google.com/drive/folders/1Q3EuAT8BMBFzGjX2ipP5-1f3kYQFT0Rr?usp=sharing](https://drive.google.com/drive/folders/1Q3EuAT8BMBFzGjX2ipP5-1f3kYQFT0Rr?usp=sharing)
 
+ 代表机型：**当贝H1**
+
 ##  网盘所有APK
 
  [https://drive.google.com/drive/folders/1GrqLTgx1raTQWXxIAPPdo-pT6ZtyiJc2?usp=sharing](https://drive.google.com/drive/folders/1GrqLTgx1raTQWXxIAPPdo-pT6ZtyiJc2?usp=sharing)
