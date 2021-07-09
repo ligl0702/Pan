@@ -74,8 +74,8 @@ description: 这里撰写和Google TV 相关的一切
 * [x] Hair \(海尔\)
 * [x] LeTV\(乐视\)
 * [x] Oppo
-* [x] Skyworth\(创维\)
-* [x] Xiaomi
+* [x] Skyworth \(创维\)
+* [x] Xiaomi（小米）
 
 
 
