@@ -64,3 +64,18 @@ description: 这里撰写和Google TV 相关的一切
 
 ![](../.gitbook/assets/391621996729_.pic.jpg)
 
+## Google TV CEC功能支持的中国品牌电视机有哪些？
+
+        国际大牌我就不说了，肯定都支持，但是大家比较关心的是和国产电视的匹配程度，我总结了一下，列表应该还在更新当中，如下：↓
+
+* [x] TCL
+* [x] Hisense \(海信\)
+* [x] Changhong（长虹）
+* [x] Hair \(海尔\)
+* [x] LeTV\(乐视\)
+* [x] Oppo
+* [x] Skyworth\(创维\)
+* [x] Xiaomi
+
+
+
