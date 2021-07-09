@@ -13,12 +13,12 @@
 * [💚 Emby影库推荐（适合国内）](emby-ying-ku-tui-jian/README.md)
   * [💚 Emby是什么](emby-ying-ku-tui-jian/e-mb-y.md)
 * [❇️ 电报群（2w+）](https://t.me/wkongsvlog)
+* [💚软路由❣️微店❣️（面向新手）](https://k.koudai.com/EVSDREzj)
 * [💚IPTV 直播源](iptv-zhi-bo-yuan.md)
 * [🎈遥控助手下载地址](11.md)
 * [👉谷歌网盘直达👈🏻](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx)
 * [❤️奈飞Netflix百科问答](nai-fei-ying-pian-tui-jian.md)
 * [❤️奈飞Pro会员](https://naifei.pro/m/?rid=1p5c6)
-* [软路由❣️微店❣️（面向新手）](https://k.koudai.com/EVSDREzj)
 
 ## 🌟电视盒子推荐
 
