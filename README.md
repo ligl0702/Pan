@@ -18,7 +18,7 @@ description: 提示：左侧是菜单，这是一个有温度的百科，会经�
 
   
 
-## 群汇总[点这里](wu-kong-qun-zu-hui-zong/)← 或者扫描下方↓↓
+## 群汇总[点这里](wu-kong-qun-zu-hui-zong.md)← 或者扫描下方↓↓
 
 ![&#x5168;&#x90E8;&#x7FA4;&#x7EC4;&#x5305;&#x62EC;&#x7F51;&#x76D8;&#x5730;&#x5740;](.gitbook/assets/wo-de-qun-zu-.png)
 

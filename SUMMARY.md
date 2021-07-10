@@ -8,8 +8,7 @@
 
 * [❓高频提问汇总↓↓↓](gao-pin-ti-wen.md)
 * [📺视频发布平台汇总](shi-pin-fa-bu-ping-tai-hui-zong.md)
-* [👩‍👩‍👧群号汇总](wu-kong-qun-zu-hui-zong/README.md)
-  * [📱如何联系我](wu-kong-qun-zu-hui-zong/ru-he-lian-xi-wo.md)
+* [👩‍👩‍👧群号汇总](wu-kong-qun-zu-hui-zong.md)
 * [💚 Emby影库推荐（适合国内）](emby-ying-ku-tui-jian/README.md)
   * [💚 Emby是什么](emby-ying-ku-tui-jian/e-mb-y.md)
 * [❇️ 电报群（2w+）](https://t.me/wkongsvlog)
