@@ -13,7 +13,7 @@ description: 汇总自媒体平台
 
 **1**、[**B站**](https://space.bilibili.com/250915741/dynamic)← 这是我第二个自媒体平台也上传了3年。但是由于签约西瓜独家 后续不再更新此平台的视频。
 
-但是b站留言和私信我依旧会回复的。不过希望有条件的小伙伴可以关注我的西瓜视频和Youtube频道！
+但是b站留言和私信我依旧会回复的。不过希望有条件的小伙伴可以关注我的[**西瓜视频**](https://v.ixigua.com/JbAdbYy/)**和**[**Youtube频道**！](https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww)
 
 **2、**[**Odysee**](https://odysee.com/@%E7%9B%92%E5%AD%90%E7%B2%BE%E6%82%9F%E7%A9%BA:0) ****← youtube同步备份的网站，国内应该也能访问吧。
 
