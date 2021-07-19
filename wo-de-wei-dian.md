@@ -2,7 +2,7 @@
 description: 'https://k.koudai.com/EVSDREzj'
 ---
 
-# 🎈我的微店和我的想法
+# 🛍️我的微店和我的想法
 
  ****[**https://k.koudai.com/EVSDREzj**](https://k.koudai.com/EVSDREzj)  **这里是我的微店。**
 
