@@ -22,5 +22,9 @@ description: 一个多平台 简单易用的内网穿透工具
 
     电脑平台上的使用方法详见如下视频：↓
 
+【Youtube上观看】[https://youtu.be/ZKspn4vj1PQ](https://youtu.be/ZKspn4vj1PQ)   
+
+【 西瓜视频上观看】[https://www.ixigua.com/6985853422926823944](https://www.ixigua.com/6985853422926823944?utm_source=xiguastudio)
+
 
 
