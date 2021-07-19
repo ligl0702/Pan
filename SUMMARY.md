@@ -7,12 +7,12 @@
 ---
 
 * [❓高频提问汇总↓↓↓](gao-pin-ti-wen.md)
+* [🎈我的微店](wo-de-wei-dian.md)
 * [📺视频发布平台汇总](shi-pin-fa-bu-ping-tai-hui-zong.md)
 * [👩‍👩‍👧群号汇总](wu-kong-qun-zu-hui-zong.md)
 * [💚 Emby影库推荐（适合国内）](emby-ying-ku-tui-jian/README.md)
   * [💚 Emby是什么](emby-ying-ku-tui-jian/e-mb-y.md)
 * [❇️ 电报群（2w+）](https://t.me/wkongsvlog)
-* [💚软路由❣️微店❣️（面向新手）](https://k.koudai.com/EVSDREzj)
 * [💚IPTV 直播源](iptv-zhi-bo-yuan.md)
 * [🎈遥控助手下载地址](11.md)
 * [🎈DDNSTO 内网穿透工具](ddnsto-nei-wang-chuan-tou-gong-ju.md)
