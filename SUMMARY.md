@@ -7,8 +7,8 @@
 ---
 
 * [❓高频提问汇总↓↓↓](gao-pin-ti-wen.md)
-* [🎈我的微店和我的想法](wo-de-wei-dian.md)
 * [📺视频发布平台汇总](shi-pin-fa-bu-ping-tai-hui-zong.md)
+* [🎈我的微店和我的想法](wo-de-wei-dian.md)
 * [👩‍👩‍👧群号汇总](wu-kong-qun-zu-hui-zong.md)
 * [💚 Emby影库推荐（适合国内）](emby-ying-ku-tui-jian/README.md)
   * [💚 Emby是什么](emby-ying-ku-tui-jian/e-mb-y.md)
