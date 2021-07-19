@@ -6,6 +6,8 @@ description: 'https://k.koudai.com/EVSDREzj'
 
  ****[**https://k.koudai.com/EVSDREzj**](https://k.koudai.com/EVSDREzj)  **这里是我的微店。**
 
+![](.gitbook/assets/image%20%2811%29.png)
+
 ## **为什么开店？**
 
 为了帮助我的垂直观众少踩坑，帮助他们挑选一些有价值的产品。
