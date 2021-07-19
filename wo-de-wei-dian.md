@@ -4,7 +4,7 @@ description: 'https://k.koudai.com/EVSDREzj'
 
 # 🛍️我的微店和我的想法
 
- ****[**https://k.koudai.com/EVSDREzj**](https://k.koudai.com/EVSDREzj)  **这里是我的微店。**
+ ****[**https://k.koudai.com/EVSDREzj**](https://k.koudai.com/EVSDREzj)   **这里是我的微店。**
 
 ![](.gitbook/assets/image%20%2811%29.png)
 
