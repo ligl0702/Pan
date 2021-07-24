@@ -36,6 +36,10 @@ description: 记录apple tv 4k 相关问题
 
  Apple tv的系统叫做tvOS，也许你知道iPhone手机的app安装包的扩展名为\*.ipa,但是你不知道的是，虽然tvos和ios系统app里的安装包扩展名都是ipa，但是他们是不同的平台。因此手机的ipa文件是无法安装到tvos的。苹果生态中，除了ios和tvos，还有watchOS 和 macOS等其他开发平台。
 
+## 七、Apple TV 4K 如何显示Netflix等流媒体的码率？
+
+ 需要开启开发者选项。这个选项需要配合mac电脑的xcode软件。如果你没有mac电脑或者黑苹果电脑，是无法开启的。具体可以参考这篇文章：[https://blog.csdn.net/culingluan4376/article/details/108706898](https://blog.csdn.net/culingluan4376/article/details/108706898)
+
 ## 附加 2021 Apple TV 4K测评：
 
 **西瓜视频 ：** [https://www.ixigua.com/6967713819166507533](https://www.ixigua.com/6967713819166507533?utm_source=xiguastudio)
