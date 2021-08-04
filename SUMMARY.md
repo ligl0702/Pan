@@ -37,6 +37,7 @@
 * [❤️无障碍上网说明💜](test/wu-zhang-ai-shang-wang-shuo-ming.md)
 * [Google TV /Shield TV/Tivo Stream 4K 已连接无法访问互联网](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 * [玩客云技巧](test/wan-ke-yun-ji-qiao.md)
+* [其他教程](test/qi-ta-jiao-cheng.md)
 
 ## 商业 <a id="shou-ye"></a>
 
