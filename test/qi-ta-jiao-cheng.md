@@ -7,7 +7,7 @@
 ```
 
 {% hint style="success" %}
- 技巧：输入/ 来搜索字符串  ，然后输入N 可以查找下一处
+ 技巧：输入/ 来搜索字符串  ，然后输入N 可以查找下一处，在输入N可以查找下下处
 {% endhint %}
 
 ## 2、注释代码
@@ -17,4 +17,12 @@
 # ${interface:+-i $interface} \
 ```
 {% endcode %}
+
+## 3、重启ttyd
+
+```css
+ /etc/init.d/ttyd restart 
+```
+
+
 
