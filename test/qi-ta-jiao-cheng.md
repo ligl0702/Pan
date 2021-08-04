@@ -13,10 +13,8 @@
 ## 2、注释代码
 
 {% code title="将此行代码注释掉，注释符号为 \# 如下所示" %}
-```bash
+```css
 # ${interface:+-i $interface} \
 ```
 {% endcode %}
-
-
 
