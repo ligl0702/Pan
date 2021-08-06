@@ -24,7 +24,7 @@ description: 这里撰写和Google TV 相关的一切
 
 7、Google TV **第一次使用或者重置后 无法连接wifi** ？请看 [ 高频提问里的 第三题](../gao-pin-ti-wen.md)
 
-8、**Google TV 连接到Sony电视，无法打开4K 60hz 杜比视界？怎么回事？**
+8、[**Google TV 连接到Sony电视，无法打开4K 60hz 杜比视界？怎么回事？**](https://didiboy0702.gitbook.io/wukongdaily/gao-pin-ti-wen#google-tv-lian-jie-dao-sony-dian-shi-wu-fa-da-kai-4-k-60hz-du-bi-shi-jie-zen-me-hui-shi)\*\*\*\*
 
 ##  如何购买？
 
