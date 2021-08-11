@@ -30,3 +30,11 @@ description: 具体描述如何激活tivo
 
  如果你不想踩坑 作为新手 你可以在我的微店找到 我来帮你激活   [微店地址：这里](https://weidian.com/fastorder.html?itemID=4377477438)
 
+##  Tivo 的拓展坞
+
+  最便宜的最简单的拓展坞只有10元左右，如图地址为：[https://item.jd.com/100007614279.html](https://item.jd.com/100007614279.html)
+
+ 
+
+![](../.gitbook/assets/image%20%2812%29.png)
+
