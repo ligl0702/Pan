@@ -12,7 +12,7 @@
 * [👩‍👩‍👧群号汇总](wu-kong-qun-zu-hui-zong.md)
 * [❇️ 国内群组](https://jg.17173.com/i/f1PutQow)
 * [❇️ 国外群组（2w+）](https://t.me/wkongsvlog)
-* [💚 Emby影库推荐（适合国内）](emby-ying-ku-tui-jian/README.md)
+* [💚 Emby影库推荐](emby-ying-ku-tui-jian/README.md)
   * [💚 Emby是什么](emby-ying-ku-tui-jian/e-mb-y.md)
 * [💚IPTV 直播源](iptv-zhi-bo-yuan.md)
 * [🎈遥控助手下载地址](11.md)
