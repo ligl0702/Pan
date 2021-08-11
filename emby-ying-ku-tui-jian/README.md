@@ -4,7 +4,9 @@ description: 满足国内用户的观影需求 适合没有NAS的用户
 
 # 💚 Emby影库推荐
 
- 目前没有开放注册，如果后续开放注册再通知。
+[EMBY安装包下载    &lt;&lt;&lt;](https://drive.google.com/drive/folders/1J5xh1KynlsjLg1Iov_v_KOlpBl6XQdbl?usp=sharing)
+
+目前没有开放注册，如果后续开放注册再通知。
 
 ![](../.gitbook/assets/jie-ping-20210606-shang-wu-9.06.14.png)
 
