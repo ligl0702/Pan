@@ -51,7 +51,7 @@ description: 用悟空本人经验解答奈飞相关的高频问题
 
 不死心？[你可以尝试用电视盒子刷入CoreElec 安装Netflix插件来观看Netflix ](https://youtu.be/GcbfqpWICO8)不过画质最多1080 
 
- 其他方法？你可以购买[深蓝影库](../emby-ying-ku-tui-jian/) 在Emby中观看Netflix片源，不过这不是动态实时的。有些片源可能没有。
+ 其他方法？你可以购买[深蓝影库]() 在Emby中观看Netflix片源，不过这不是动态实时的。有些片源可能没有。
 
  **最后祝大家观影愉快！**
 
