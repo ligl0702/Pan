@@ -42,6 +42,10 @@ description: 记录apple tv 4k 相关问题
 
  参考视频：[https://www.youtube.com/watch?v=FJvLlwkU5Q8](https://www.youtube.com/watch?v=FJvLlwkU5Q8&t=57s)
 
+## 八、历代Apple TV的硬件参数是什么？
+
+ 这个问题可以参考官网：[https://support.apple.com/zh-hk/HT200008](https://support.apple.com/zh-hk/HT200008)
+
 ## 附加 2021 Apple TV 4K测评：
 
 **西瓜视频 ：** [https://www.ixigua.com/6967713819166507533](https://www.ixigua.com/6967713819166507533?utm_source=xiguastudio)
