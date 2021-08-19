@@ -38,3 +38,7 @@ description: 具体描述如何激活tivo
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
+## 一些竞品对比
+
+![](../.gitbook/assets/photo_2021-08-11_21-13-20.jpg)
+
