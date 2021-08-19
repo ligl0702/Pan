@@ -21,7 +21,7 @@
 
 ## 🌟电视盒子推荐
 
-* [我的Notion主页](dian-shi-he-zi-tui-jian/no-ti-on.md)
+* [TOP6 流行电视盒子](dian-shi-he-zi-tui-jian/no-ti-on.md)
 * [🎈Google TV](dian-shi-he-zi-tui-jian/google-tv.md)
 * [🎈MeCool KM2](dian-shi-he-zi-tui-jian/mecool-km2.md)
 * [🎈Tivo Stream 4K](dian-shi-he-zi-tui-jian/ru-he-ji-huo-tivo-stream-4k.md)
