@@ -18,7 +18,7 @@ description: 用悟空本人经验解答奈飞相关的高频问题
 
  此方法适合绝大多数人并且价格实惠每个月折合人民币**15**元左右。相比淘宝上人工发号、调度合租的方式，这种方式更加自动化且不易冲突。具体参考以下公众号二维码
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%282%29.png)
 
 ## 3、Netflix授权的设备有哪些？
 
@@ -53,9 +53,9 @@ description: 用悟空本人经验解答奈飞相关的高频问题
 
  **最后祝大家观影愉快！**
 
-![](../.gitbook/assets/jie-ping-20210606-shang-wu-9.23.16.png)
+![](.gitbook/assets/jie-ping-20210606-shang-wu-9.23.16.png)
 
-![](../.gitbook/assets/jie-ping-20210103-xia-wu-10.26.48.png)
+![](.gitbook/assets/jie-ping-20210103-xia-wu-10.26.48.png)
 
 ## 如何显示Netflix码率？
 
@@ -64,7 +64,7 @@ description: 用悟空本人经验解答奈飞相关的高频问题
 1.  如果电视盒子有usb接口，你可以接一个键盘，然后当播放Netflix的时候，按下**F4或者F8**即可显示！
 2.  如果你的电视盒子没有usb接口，你可以接一个**蓝牙键盘**，然后当播放Netflix的时候，按下F4或者F8即可显示！
 3. 如果你的电视盒子和你的电视均支持CEC，并且**你的电视遥控器有info或者屏显**按钮，那么当播放Netflix的时候，按下info或者屏显按钮。
-4. 如果你有安卓手机，你可以安装我开发的 ****[**遥控助手**](../11.md) ，按 info 按钮即可显示。[具体方法详见：此处](../11.md#apk-xia-zai-di-zhi)
+4. 如果你有安卓手机，你可以安装我开发的 ****[**遥控助手**](11.md) ，按 info 按钮即可显示。[具体方法详见：此处](11.md#apk-xia-zai-di-zhi)
 
 #### 二、苹果Apple TV 4K 如何显示Netflix?
 

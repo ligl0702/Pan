@@ -15,8 +15,8 @@
 * [❇️ 国外群组（2w+）](https://t.me/wkongsvlog)
 * [💚IPTV 直播源](iptv-zhi-bo-yuan.md)
 * [🎈DDNSTO 内网穿透工具](ddnsto-nei-wang-chuan-tou-gong-ju.md)
-* [❤️奈飞Netflix百科问答](nai-fei-ying-pian-tui-jian/README.md)
-  * [抖音粉丝必读](https://wkbackup.gitbook.io/backup/)
+* [🎵抖音粉丝必读](https://wkbackup.gitbook.io/backup/)
+* [❤️奈飞Netflix百科问答](nai-fei-ying-pian-tui-jian.md)
 * [❤️奈飞Pro会员](https://naifei.pro/m/?rid=1p5c6)
 
 ## 🌟电视盒子推荐
