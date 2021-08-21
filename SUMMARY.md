@@ -11,7 +11,7 @@
 * [🛍️我的微店和我的想法](wo-de-wei-dian.md)
 * [👩‍👩‍👧群号汇总](wu-kong-qun-zu-hui-zong.md)
 * [🎈遥控助手下载地址](11.md)
-* [❇️ 如何加入国内群组](ru-he-jia-ru-guo-nei-qun-zu.md)
+* [❇️ 国内群组](ru-he-jia-ru-guo-nei-qun-zu.md)
 * [❇️ 国外群组（2w+）](https://t.me/wkongsvlog)
 * [💚IPTV 直播源](iptv-zhi-bo-yuan.md)
 * [🎈DDNSTO 内网穿透工具](ddnsto-nei-wang-chuan-tou-gong-ju.md)
