@@ -40,3 +40,5 @@ description: '井盖群组使用指南 https://jg.17173.com/i/f1PutQow'
 
 ![](.gitbook/assets/jie-ping-20210821-shang-wu-10.16.01.png)
 
+![](.gitbook/assets/jie-ping-20210821-shang-wu-10.27.01.png)
+
