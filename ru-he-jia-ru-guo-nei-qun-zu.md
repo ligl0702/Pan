@@ -48,6 +48,8 @@ description: 井盖群组使用指南
 
 ## **如何使用井盖？**[**点此处查看**](https://jgchat.gitbook.io) **帮助文档**
 
+![](.gitbook/assets/jie-ping-20210821-shang-wu-11.20.30.png)
+
 \*\*\*\*[ **相关推荐：我的国外群组 tg**](https://t.me/wkongsvlog)  **需要富强访问**
 
 \*\*\*\*
