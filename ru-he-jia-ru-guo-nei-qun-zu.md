@@ -1,10 +1,10 @@
 ---
-description: '井盖群组使用指南 https://jg.17173.com/i/f1PutQow'
+description: 井盖群组使用指南
 ---
 
 # ❇️ 国内群组
 
-\*\*\*\*[ **&gt;&gt;&gt;&gt;&gt;&gt;国内群组点击直达**](https://jg.17173.com/i/f1PutQow)**&lt;&lt;&lt;&lt;&lt;&lt;**
+## \*\*\*\*[ **&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;国内群组点击直达**](https://jg.17173.com/i/f1PutQow)**&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;**
 
 ## 使用井盖作为国内大群的原因？
 
