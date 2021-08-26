@@ -13,6 +13,7 @@
 * [🎈遥控助手下载地址](11.md)
 * [❇️ 国内群组](ru-he-jia-ru-guo-nei-qun-zu.md)
 * [❇️ 国外群组（2w+）](https://t.me/wkongsvlog)
+* [💚 Emby影库推荐（适合国内）](emby-ying-ku-tui-jian-kuo-he-guo-nei.md)
 * [💚IPTV 直播源](iptv-zhi-bo-yuan.md)
 * [🎈DDNSTO 内网穿透工具](ddnsto-nei-wang-chuan-tou-gong-ju.md)
 * [🎵抖音粉丝必读](https://wkbackup.gitbook.io/backup/)
