@@ -12,5 +12,7 @@ EMBY影库 注册邀请码：`wk2021`
 
 ![](.gitbook/assets/jie-ping-20210606-shang-wu-9.06.14.png)
 
+![](.gitbook/assets/7.1.jpg)
 
+![](.gitbook/assets/emby.jpeg)
 
