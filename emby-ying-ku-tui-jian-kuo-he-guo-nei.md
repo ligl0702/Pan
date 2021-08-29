@@ -1,10 +1,10 @@
 ---
-description: 恢复注册
+description: Emby影库升级完成 ✅ 老用户请回家！
 ---
 
 # 💚 Emby影库推荐（适合国内）
 
-[EMBY客户端安装包 下载地址](https://bit.ly/2UrPp7d)👈
+#### 好消息！emby影库系统升级完成✅，目前恢复注册了。手机扫描以下二维码登录即可。支持老用户找回，老用户可以放心回家了。**同时也支持新用户注册。**
 
 EMBY影库 注册邀请码：`wk2021`
 
@@ -15,4 +15,6 @@ EMBY影库 注册邀请码：`wk2021`
 ![](.gitbook/assets/7.1.jpg)
 
 ![](.gitbook/assets/emby.jpeg)
+
+
 
