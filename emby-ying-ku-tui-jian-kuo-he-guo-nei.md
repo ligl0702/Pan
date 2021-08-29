@@ -10,6 +10,8 @@ description: Emby影库升级完成 ✅ 老用户请回家！
 
 ![                      &#x6253;&#x5F00; &#x626B;&#x4E00;&#x626B;](.gitbook/assets/emby.jpg)
 
+`emby电视盒子安装包：`[`https://bit.ly/2UrPp7d`](https://bit.ly/2UrPp7d)\`\`
+
 ![](.gitbook/assets/jie-ping-20210606-shang-wu-9.06.14.png)
 
 ![](.gitbook/assets/7.1.jpg)
