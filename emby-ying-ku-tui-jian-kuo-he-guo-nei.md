@@ -8,7 +8,7 @@ description: Emby影库升级完成 ✅ 老用户请回家！
 
 注册邀请码：`wk2021`
 
-![                      &#x6253;&#x5F00; &#x626B;&#x4E00;&#x626B;](.gitbook/assets/emby.jpg)
+![&#x6253;&#x5F00;&#x5FAE;&#x4FE1;&#x626B;&#x4E00;&#x626B;](.gitbook/assets/ewm.png)
 
 `emby电视盒子安装包：`[`https://bit.ly/2UrPp7d`](https://bit.ly/2UrPp7d)\`\`
 
