@@ -8,15 +8,15 @@ description: Emby影库升级完成 ✅ 老用户请回家！
 
 注册邀请码：`wk2021`
 
-![](.gitbook/assets/wei-xin-tu-pian-20210829163348.jpg)
+![](../.gitbook/assets/wei-xin-tu-pian-20210829163348.jpg)
 
 `emby电视盒子安装包：`[`https://bit.ly/2UrPp7d`](https://bit.ly/2UrPp7d)\`\`
 
-![](.gitbook/assets/jie-ping-20210606-shang-wu-9.06.14.png)
+![](../.gitbook/assets/jie-ping-20210606-shang-wu-9.06.14.png)
 
-![](.gitbook/assets/7.1.jpg)
+![](../.gitbook/assets/7.1.jpg)
 
-![](.gitbook/assets/emby.jpeg)
+![](../.gitbook/assets/emby.jpeg)
 
-![](.gitbook/assets/dts.jpg)
+![](../.gitbook/assets/dts.jpg)
 
