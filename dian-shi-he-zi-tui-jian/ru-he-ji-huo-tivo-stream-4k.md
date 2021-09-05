@@ -42,3 +42,28 @@ description: 具体描述如何激活tivo
 
 ![](../.gitbook/assets/photo_2021-08-11_21-13-20.jpg)
 
+
+
+## 如何匹配遥控器品牌？
+
+#### 设置——遥控器和配件里——tivo remote
+
+
+
+#### Remote Setup
+
+The TiVo Stream 4K remote can be set up to control your TV, sound bar, or A/V receiver's volume, mute, and input functions.
+
+1. Press the circle button on the remote to go to the Android TV home screen, then choose the gear icon to go to the Android TV settings menu. 
+
+2. Choose Remote & Accessories &gt; TiVo Remote.
+
+3. Choose one of the options on this screen:
+   * **Change TV Setup:** Use this option to control your TV's power, input, and volume.
+   * **Change Audio Setup:** Use this option to control an external audio device \(e.g., a sound bar or A/V receiver\).
+   * **Change Volume Control:** Use this option to switch between controlling the volume on your TV or audio device \(sound bar or A/V receiver\).  This function can be useful for using ARC with an Audio device.
+
+![android TV home screen](https://explore.tivo.com/content/dam/tivo/explore/how-to/AndroidTV_Home_Settings.png)
+
+![remote and accessories path](https://explore.tivo.com/content/dam/tivo/explore/how-to/AndroidTV_Settings_RemotesAccessories.png)
+
