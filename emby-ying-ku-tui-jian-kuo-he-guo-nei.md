@@ -12,6 +12,8 @@ description: Emby影库升级完成 ✅ 老用户请回家！
 
 `emby电视盒子安装包：`[`https://bit.ly/2UrPp7d`](https://bit.ly/2UrPp7d)\`\`
 
+![](.gitbook/assets/wei-xin-tu-pian-20210905125011.jpg)
+
 ![](.gitbook/assets/jie-ping-20210606-shang-wu-9.06.14.png)
 
 ![](.gitbook/assets/7.1.jpg)
