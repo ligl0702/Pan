@@ -9,6 +9,7 @@
 * [❓高频提问汇总↓↓↓](gao-pin-ti-wen.md)
 * [📺视频发布平台汇总](shi-pin-fa-bu-ping-tai-hui-zong.md)
 * [🛍️我的微店和我的想法](wo-de-wei-dian.md)
+* [❤️微店](ge-ren-xian-yu.md)
 * [👩‍👩‍👧群号汇总](wu-kong-qun-zu-hui-zong.md)
 * [🎬 流媒体-合租平台](liu-mei-ti-he-zu-ping-tai.md)
 * [💚 Emby影库推荐（适合国内）](emby-ying-ku-tui-jian-kuo-he-guo-nei.md)
@@ -45,7 +46,6 @@
 
 ---
 
-* [💛个人微店和闲鱼💛](ge-ren-xian-yu.md)
 * [❤️❤️合作必读说明（2021）](he-zuo-shuo-ming.md)
 * [Emoji表情](https://emojixd.com/x9kh)
 
