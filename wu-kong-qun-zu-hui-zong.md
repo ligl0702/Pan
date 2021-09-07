@@ -10,6 +10,8 @@ description: 汇总我的全部群组 请拉到底部看完。
 
 🦊【电报群2万人】[https://t.me/wkongsvlog](https://t.me/wkongsvlog)
 
+![](.gitbook/assets/dian-bao-.png)
+
 🛡 【神盾Shield TV交流群】[https://t.me/buyshield](https://t.me/buyshield) 
 
 🍎【Apple TV 4K 交流群】[https://t.me/appletv4k2nd](https://t.me/appletv4k2nd)
