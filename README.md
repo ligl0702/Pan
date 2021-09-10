@@ -22,13 +22,15 @@ description: 提示：左侧是菜单，这是一个有温度的百科，会经�
 
 ![](.gitbook/assets/jie-ping-20210831-xia-wu-9.35.08.png)
 
-## \*\*\*\*[**奈飞影片推荐**](nai-fei-ying-pian-tui-jian.md)←
+\*\*\*\*
 
 \*\*\*\*[**自己正在用的vps** ](https://dler.best/auth/register?affid=74522)\*\*\*\*
 
-![](.gitbook/assets/wu-kong-de-wei-dian-.png)
+![](.gitbook/assets/wd.png)
 
-## \*\*\*\*
+## [国内emby影库推荐](emby-ying-ku-tui-jian-kuo-he-guo-nei.md)
+
+![](.gitbook/assets/image%20%2814%29.png)
 
 ↖️[左上角是菜单←](gao-pin-ti-wen.md)
 
