@@ -14,7 +14,7 @@ description: 提示：左侧是菜单，这是一个有温度的百科，会经�
 
 ## 国外在线流媒体视频扫码或者[这里上车↓↓](https://naifei.pro/m/?rid=1p5c6) →[奈飞百科](nai-fei-ying-pian-tui-jian.md)←
 
-![&#x4E00;&#x7AD9;&#x5F0F;&#x4FBF;&#x6377;&#x5408;&#x79DF; ](.gitbook/assets/liu-mei-ti-he-zu-.png)
+![](.gitbook/assets/liu-mei-ti-he-zu-%20%281%29.png)
 
 ### ⬆️Netflix/Disney+/Youtube/HBOGO等多种会员⬆️
 
