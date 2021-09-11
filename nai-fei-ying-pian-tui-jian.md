@@ -43,7 +43,8 @@ description: 用悟空本人经验解答奈飞相关的高频问题
 5. Tivo Stream 4K （2020年以后的机型）
 6. Mibox 国际版和mibox s（小米公司可能是目前唯一一个国产品牌出海带NF授权的电视盒子）
 7. Roku TV  BOX（美国比较主流的流媒体厂商、非安卓系统）
-8. 其他我不知道的盒子以及游戏机设备比如Xbox Series X/S 和Sony PS5等
+8. MeCool KM2（SkyWorth代工，是正规授权的android tv 10，注意mecool其他型号均不行）
+9. 其他我不知道的盒子以及游戏机设备比如Xbox Series X/S 和Sony PS5等
 
 ## 4、国产电视盒子怎么看Netflix？
 
@@ -66,9 +67,9 @@ description: 用悟空本人经验解答奈飞相关的高频问题
 3. 如果你的电视盒子和你的电视均支持CEC，并且**你的电视遥控器有info或者屏显**按钮，那么当播放Netflix的时候，按下info或者屏显按钮。
 4. 如果你有安卓手机，你可以安装我开发的 ****[**遥控助手**](11.md) ，按 info 按钮即可显示。[具体方法详见：此处](11.md#apk-xia-zai-di-zhi)
 
-#### 二、苹果Apple TV 4K 如何显示Netflix?
+#### 二、苹果Apple TV 4K 如何显示Netflix码率?
 
-####   **打开开发者模式。等着我后续出视频**
+####   **打开开发者模式。具体步骤相见** [**点击此处**](dian-shi-he-zi-tui-jian/apple-tv-4k.md)\*\*\*\*
 
 ## 
 
