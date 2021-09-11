@@ -54,7 +54,7 @@ description: 不断收集网友的提问
 
 ##  ❓悟空你自己的x86软路由刷的固件是哪个版本？从哪下载？
 
-无特殊需求没必要总是更新固件，稳定使用是第一位[ 点这里直达](https://drive.google.com/drive/folders/1Dz_gIopns7iABtduDssF_PQeSrSl8NLe?usp=sharing) **←**
+无特殊需求没必要总是更新固件，稳定使用是第一位[ ](https://drive.google.com/drive/folders/1Dz_gIopns7iABtduDssF_PQeSrSl8NLe?usp=sharing)[https://share.weiyun.com/sEcQrutu](https://share.weiyun.com/sEcQrutu)
 
 ## ❓电视盒子怎么看Netflix分辨率？
 
