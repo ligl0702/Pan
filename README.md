@@ -26,7 +26,9 @@ description: 提示：左侧是菜单，这是一个有温度的百科，会经�
 
 \*\*\*\*[**自己正在用的vps** ](https://dler.best/auth/register?affid=74522)\*\*\*\*
 
-![](.gitbook/assets/wd.png)
+## **我的网店**
+
+![](.gitbook/assets/wo-de-wang-dian-.png)
 
 ## [国内emby影库推荐](emby-ying-ku-tui-jian-kuo-he-guo-nei.md)
 
