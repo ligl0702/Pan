@@ -2,7 +2,7 @@
 
 ## 我的微店 （一个帮新手踩坑的微店）
 
-![&#x517C;&#x804C;&#x505A;&#x5FAE;&#x5E97; &#x6B22;&#x8FCE;&#x5173;&#x6CE8;](.gitbook/assets/xian-huo-j412510-dai-shuang-qian-zhao-wang-kou-ruan-lu-you-quan-xin-nei-cun-quan-xin-gu-tai-ying-pan-shun-feng-bao-you-.png)
+![](.gitbook/assets/wo-de-wang-dian-.png)
 
 ## **微店的部分评价截图⬇️**
 
