@@ -69,7 +69,7 @@ description: 用悟空本人经验解答奈飞相关的高频问题
 
 #### 二、苹果Apple TV 4K 如何显示Netflix码率?
 
-####   **打开开发者模式。具体步骤相见** [**点击此处**](dian-shi-he-zi-tui-jian/apple-tv-4k.md)\*\*\*\*
+####   **打开开发者模式。具体步骤相见** [**点击此处**](dian-shi-he-zi-tui-jian/apple-tv-4k.md#qi-apple-tv-4k-ru-he-xian-shi-netflix-deng-liu-mei-ti-de-ma-lv)\*\*\*\*
 
 ## 
 
