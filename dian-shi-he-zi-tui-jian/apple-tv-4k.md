@@ -56,6 +56,8 @@ description: 记录apple tv 4k 相关问题
 
 **Youtube：**[https://www.youtube.com/watch?v=a2uiRWNwwhg](https://www.youtube.com/watch?v=a2uiRWNwwhg&t=1165s)
 
+## Apple TV 4K 专属讨论群（300人）：[https://t.me/appletv4k2nd](https://t.me/appletv4k2nd)
+
 
 
 
