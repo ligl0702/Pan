@@ -20,3 +20,5 @@ description: Emby影库升级完成 ✅ 老用户请回家！
 
 ![](.gitbook/assets/jie-ping-20210918-xia-wu-2.55.20.png)
 
+![](.gitbook/assets/jie-ping-20210918-xia-wu-4.12.22.png)
+
