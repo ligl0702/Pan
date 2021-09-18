@@ -10,7 +10,7 @@ description: Emby影库升级完成 ✅ 老用户请回家！
 
 ![](.gitbook/assets/wei-xin-tu-pian-20210829163348.jpg)
 
-`emby电视盒子安装包：`[`https://bit.ly/2UrPp7d`](https://bit.ly/2UrPp7d)\`\`
+## **`emby电视盒子安装包：`**[`https://bit.ly/2UrPp7d`](https://bit.ly/2UrPp7d)\`\`
 
 ![](.gitbook/assets/jie-ping-20210606-shang-wu-9.06.14.png)
 
