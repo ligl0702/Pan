@@ -56,6 +56,10 @@ description: 不断收集网友的提问
 
 无特殊需求没必要总是更新固件，稳定使用是第一位[ ](https://drive.google.com/drive/folders/1Dz_gIopns7iABtduDssF_PQeSrSl8NLe?usp=sharing)[https://share.weiyun.com/sEcQrutu](https://share.weiyun.com/sEcQrutu)
 
+##  ❓自己在用的VPS节点是哪家？
+
+[https://i.ok4.icu/9Wy](https://i.ok4.icu/9Wy)
+
 ## ❓电视盒子怎么看Netflix分辨率？
 
 接个键盘（usb或者蓝牙），**按F4就能显示了**，再次按F4就消失。没键盘怎么办？可以使用我开发的安卓app来显示。遥控助手v1.3 [下载地址](https://github.com/ligl0702/Pan/releases/download/info/v1.3.apk)： [ https://github.com/ligl0702/Pan/releases/download/info/v1.3.apk](https://github.com/ligl0702/Pan/releases/download/info/v1.3.apk)
