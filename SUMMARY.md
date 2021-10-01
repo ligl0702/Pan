@@ -10,7 +10,7 @@
 * [📺视频发布平台汇总](shi-pin-fa-bu-ping-tai-hui-zong.md)
 * [❤️微店](ge-ren-xian-yu.md)
 * [👩‍👩‍👧群号汇总](wu-kong-qun-zu-hui-zong.md)
-* [🎬 售后靠谱的流媒体合租平台](liu-mei-ti-he-zu-ping-tai.md)
+* [🎬 奈飞Disney+流媒体合租平台](liu-mei-ti-he-zu-ping-tai.md)
 * [💚 Emby影库推荐（适合国内）](emby-ying-ku-tui-jian-kuo-he-guo-nei.md)
 * [🎈遥控助手下载地址](11.md)
 * [❇️ 国内群组](ru-he-jia-ru-guo-nei-qun-zu.md)
