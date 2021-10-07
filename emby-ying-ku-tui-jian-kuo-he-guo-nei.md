@@ -20,7 +20,7 @@ description: Emby影库升级完成 ✅ 老用户请回家！
 
 **emby带框架版本：**[**https://wwi.lanzoui.com/b01iqin8f**](https://wwi.lanzoui.com/b01iqin8f) **密码:gqg5**
 
-**国产安卓电视盒子：**[**https://wwi.lanzoui.com/b01iqqr9i**](https://wwi.lanzoui.com/b01iqqr9i) ****密码:**7jr3**
+\*\*\*\*
 
 **备用地址**：谷歌云盘 [`https://bit.ly/2UrPp7d`](https://bit.ly/2UrPp7d)\`\`
 
