@@ -16,11 +16,15 @@ description: Emby影库升级完成 ✅ 老用户请回家！
 
 ## Emby Android TV安装包：
 
-**emby免框架版本：**[**https://wwi.lanzoui.com/b01iqimzg**](https://wwi.lanzoui.com/b01iqimzg) **密码:f7nc**
-
 **emby带框架版本：**[**https://wwi.lanzoui.com/b01iqin8f**](https://wwi.lanzoui.com/b01iqin8f) **密码:gqg5**
 
-\*\*\*\*
+_**理论上安卓原生电视盒子用上述↑版本，但实际测试Sony电视或者当贝盒子H2 也能完美兼容**_
+
+下面是针对国产电视盒子的兼容安装包，没法一一测试但是大部分是可以安装使用的，但是也许存在bug，
+
+但能用，不是致命bug，偶尔可能回到首页会卡住。从新进就行了。
+
+**国产安卓电视盒子兼容安装包：**[https://wwi.lanzoui.com/b01iqr4na](https://wwi.lanzoui.com/b01iqr4na) 密码:hrgy
 
 **备用地址**：谷歌云盘 [`https://bit.ly/2UrPp7d`](https://bit.ly/2UrPp7d)\`\`
 
