@@ -4,7 +4,7 @@
 
 ## 首页-向下滑动更多↓
 
----
+***
 
 * [❓高频提问汇总↓↓↓](gao-pin-ti-wen.md)
 * [📺视频发布平台汇总](shi-pin-fa-bu-ping-tai-hui-zong.md)
@@ -24,27 +24,26 @@
 ## 🌟电视盒子推荐
 
 * [⬆️ TOP6 流行电视盒子](dian-shi-he-zi-tui-jian/no-ti-on.md)
+* [🌟🎈电视盒子对比](dian-shi-he-zi-tui-jian/dian-shi-he-zi-dui-bi.md)
+* [🎈Apple TV 4K使用指南](dian-shi-he-zi-tui-jian/apple-tv-4k.md)
+* [🎈Tivo Stream 4K](dian-shi-he-zi-tui-jian/ru-he-ji-huo-tivo-stream-4k.md)
 * [🎈Google TV](dian-shi-he-zi-tui-jian/google-tv.md)
 * [🎈MeCool KM2](dian-shi-he-zi-tui-jian/mecool-km2.md)
-* [🎈Tivo Stream 4K](dian-shi-he-zi-tui-jian/ru-he-ji-huo-tivo-stream-4k.md)
-* [🎈Apple TV 4K](dian-shi-he-zi-tui-jian/apple-tv-4k.md)
-* [🌟🎈电视盒子对比](dian-shi-he-zi-tui-jian/dian-shi-he-zi-dui-bi.md)
 
 ## 🌟APK下载
 
 * [电视盒子APK](apk-xia-zai/dian-shi-he-zi-apk.md)
 
-## 观众高频提问-向下滑动更多👇 <a id="test"></a>
+## 观众高频提问-向下滑动更多👇 <a href="test" id="test"></a>
 
 * [❤️无障碍上网说明💜](test/wu-zhang-ai-shang-wang-shuo-ming.md)
 * [Google TV /Shield TV/Tivo Stream 4K 已连接无法访问互联网](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 * [玩客云技巧](test/wan-ke-yun-ji-qiao.md)
 * [其他教程](test/qi-ta-jiao-cheng.md)
 
-## 商业 <a id="shou-ye"></a>
+## 商业 <a href="shou-ye" id="shou-ye"></a>
 
----
+***
 
 * [❤️❤️合作必读说明（2021）](he-zuo-shuo-ming.md)
 * [Emoji表情](https://emojixd.com/x9kh)
-

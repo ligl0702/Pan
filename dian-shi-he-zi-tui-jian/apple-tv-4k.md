@@ -2,19 +2,21 @@
 description: 记录apple tv 4k 相关问题
 ---
 
-# 🎈Apple TV 4K
+# 🎈Apple TV 4K使用指南
 
 ## 🆕 **先睹为快 ⬇️⬇️⬇️**
 
 {% embed url="https://www.youtube.com/watch?v=a2uiRWNwwhg" %}
 
-## 一、新买的Apple TV 4K 2021 ，没软路由能否科学上网？
+## [2021年如何注册美国Apple ID 8分钟学会](https://www.gosquirrel.net/blog/2021/01/29/iOS-register-apple-id/)
 
- 首先  如果说要求最好的用户体验，当然是使用软路由。其次apple tv 不像安卓，即便没有科学上网，也能进入主界面，切换不同区域的apple id，主界面的app也随之变化，只是油管等app是板上钉钉的需要科学上网，如果你不愿意使用软路由，恰好有苹果电脑，那你可以借助mac电脑来弯道实现apple tv的科学上网，具体用到的就是mac电脑上的**surge**或者**clash pro（免费）** 这些app，参考如下视频
+<mark style="color:red;">Apple TV的界面内容是跟随着Apple ID账户的。如果我们直接用中国大陆的apple id，那么进来的界面几乎是空的，最主要是没有app store，什么都没办法下载。因此必须切换到非大陆的apple id，你可以按照上面的教程，自己注册一个美区的apple id，然后登录到apple tv之后，你会有新的发现哦</mark>
+
+## 一、新买的Apple TV 4K 2021 ，没软路由能否科学上网？答案是能 但是最好配合软路由
+
+ 首先  如果说要求最好的用户体验，当然是使用软路由。其次apple tv 不像安卓，**即便没有科学上网，也能进入主界面**，切换不同区域的apple id，主界面的app也随之变化，只是油管等app是板上钉钉的需要科学上网，如果你不愿意使用软路由，恰好有苹果电脑，那你可以借助mac电脑来弯道实现apple tv的科学上网，具体用到的就是mac电脑上的**surge**或者**clash pro（免费）** 这些app，参考如下视频
 
 [https://www.youtube.com/watch?v=CnauWfbkW-M](https://www.youtube.com/watch?v=CnauWfbkW-M)
-
-{% embed url="https://www.youtube.com/watch?v=CnauWfbkW-M" %}
 
 ## 二、新款遥控器能否支持电视的开关机？回音壁的Stand by等
 
@@ -28,7 +30,7 @@ description: 记录apple tv 4k 相关问题
 
  目前我用的办法是借助mac电脑来安装的。需要7天签一次。从新推送。方法见下方视频
 
-[https://www.youtube.com/watch?v=Gs3AYm3yxic&t=5s](https://www.youtube.com/watch?v=Gs3AYm3yxic&t=5s)
+[https://www.youtube.com/watch?v=Gs3AYm3yxic\&t=5s](https://www.youtube.com/watch?v=Gs3AYm3yxic\&t=5s)
 
 {% embed url="https://www.youtube.com/watch?v=Gs3AYm3yxic" %}
 
@@ -44,7 +46,7 @@ description: 记录apple tv 4k 相关问题
 
  需要开启开发者选项。这个选项需要配合mac电脑的xcode软件。如果你没有mac电脑或者黑苹果电脑，是无法开启的。具体可以参考这篇文章：[https://blog.csdn.net/culingluan4376/article/details/108706898](https://blog.csdn.net/culingluan4376/article/details/108706898)
 
- 参考视频：[https://www.youtube.com/watch?v=FJvLlwkU5Q8](https://www.youtube.com/watch?v=FJvLlwkU5Q8&t=57s)
+ 参考视频：[https://www.youtube.com/watch?v=FJvLlwkU5Q8](https://www.youtube.com/watch?v=FJvLlwkU5Q8\&t=57s)
 
 ## 八、历代Apple TV的硬件参数是什么？
 
@@ -52,9 +54,9 @@ description: 记录apple tv 4k 相关问题
 
 ## 附加 2021 Apple TV 4K测评：
 
-**西瓜视频 ：** [https://www.ixigua.com/6967713819166507533](https://www.ixigua.com/6967713819166507533?utm_source=xiguastudio)
+**西瓜视频 ：** [https://www.ixigua.com/6967713819166507533](https://www.ixigua.com/6967713819166507533)
 
-**Youtube：**[https://www.youtube.com/watch?v=a2uiRWNwwhg](https://www.youtube.com/watch?v=a2uiRWNwwhg&t=1165s)
+**Youtube：**[https://www.youtube.com/watch?v=a2uiRWNwwhg](https://www.youtube.com/watch?v=a2uiRWNwwhg\&t=1165s)
 
 ## Apple TV 4K 专属讨论群（300人）：[https://t.me/appletv4k2nd](https://t.me/appletv4k2nd)
 
@@ -64,13 +66,11 @@ description: 记录apple tv 4k 相关问题
 
 
 
-\*\*\*\*
+****
 
-\*\*\*\*
+****
 
-\*\*\*\*
-
-
+****
 
 
 
