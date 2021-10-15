@@ -26,8 +26,8 @@
 * [⬆️ TOP6 流行电视盒子](dian-shi-he-zi-tui-jian/no-ti-on.md)
 * [🌟🎈电视盒子对比](dian-shi-he-zi-tui-jian/dian-shi-he-zi-dui-bi.md)
 * [🎈Apple TV 4K使用指南](dian-shi-he-zi-tui-jian/apple-tv-4k.md)
+* [🎈Google TV使用指南](dian-shi-he-zi-tui-jian/google-tv.md)
 * [🎈Tivo Stream 4K](dian-shi-he-zi-tui-jian/ru-he-ji-huo-tivo-stream-4k.md)
-* [🎈Google TV](dian-shi-he-zi-tui-jian/google-tv.md)
 * [🎈MeCool KM2](dian-shi-he-zi-tui-jian/mecool-km2.md)
 
 ## 🌟APK下载
