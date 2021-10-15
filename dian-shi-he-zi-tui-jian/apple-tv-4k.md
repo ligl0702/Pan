@@ -60,6 +60,24 @@ description: 记录apple tv 4k 相关问题
 
 ## Apple TV 4K 专属讨论群（300人）：[https://t.me/appletv4k2nd](https://t.me/appletv4k2nd)
 
+## 九、Apple TV 能否看国内的优酷腾讯爱奇艺B站？
+
+由于Apple TV没有在国内发售，因此确实没有原生版本的优酷腾讯和爱奇艺。不过腾讯和爱奇艺都出了原生的海外版本。你可以下载海外版的爱奇艺和腾讯视频，解决一下燃眉之急。
+
+如果你想看更多的国内的腾讯优酷爱奇艺b站、甚至是直播等资源。可以利用Obox来实现，Obox这款app是一个收费的软件，美区2.99美元。下载之后，你可以导入第三方源。由于obox开发者比较低调，因此如何使用第三方源来实现非原生优酷腾讯爱奇艺等资源等播放和使用，建议tg小群内讨论。:smile:[https://t.me/appletv4k2nd](https://t.me/appletv4k2nd)
+
+## 十、播放器的选择？
+
+在apple tv上有一款播放神器叫<mark style="color:red;">**infuse pro**</mark>，它是收费的，订阅1年约10美元，68人民币左右。它支持很多高级音频格式，因此是播放器的首选。支持emby、plex和jellyfin服务器，也支持普通NAS路径，如NFS和SMB协议。
+
+## 十一、文件管理器？
+
+ 在**苹果生态环境里**，有一款比较全面的文件管理器，它是收费的，但是并不贵
+
+它的名字叫<mark style="color:blue;">**Fe file explorer pro**</mark>** **图标为蓝色。
+
+支持多种协议，如NFS、SMB、WebDAV、FTP、SFTP、谷歌网盘、微软网盘等。
+
 
 
 
