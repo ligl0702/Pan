@@ -108,5 +108,5 @@ adb shell settings delete global captive_portal_https_url
 
 &#x20;[**利用我开发的安卓手机app 一键修改NTP服务器地址 ←**](../11.md)** **
 
-![](<../.gitbook/assets/image (10).png>)
+![](../.gitbook/assets/ntp-up.png)
 
