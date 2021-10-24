@@ -26,7 +26,7 @@ description: 提示：左侧是菜单，这是一个有温度的百科，会经�
 
 ****[**自己正在用的vps **](https://i.ok4.icu/9Wy)****
 
-## ****[**我的网店——🆕**](https://app.gitbook.com/@didiboy0702/s/wukongdaily/wo-de-wei-dian#wei-dian-de-fan-kui)****
+## ****[**我的网店——**](https://weidian.com/?userid=1819313964)**🆕**
 
 ![](.gitbook/assets/wo-de-wang-dian-.png)
 
