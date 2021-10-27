@@ -62,7 +62,7 @@ description: 这里撰写和Google TV 相关的一切
 
 &#x20; 点击app里的 【一键修改NTP地址】按钮，之后提示修改成功，然后点击【重启】，待盒子重启后，检查时间是否正确。网络受限问题是否解决。
 
-![](../.gitbook/assets/391621996729\_.pic.jpg)
+![](../.gitbook/assets/ntp-up.png)
 
 ## Google TV CEC功能支持的中国品牌电视机有哪些？
 
