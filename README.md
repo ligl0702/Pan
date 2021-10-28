@@ -30,8 +30,12 @@ description: 提示：左侧是菜单，这是一个有温度的百科，会经�
 
 ![](.gitbook/assets/wo-de-wang-dian-.png)
 
-## [国内emby影库推荐](emby-ying-ku-tui-jian-kuo-he-guo-nei.md)
+## [国内emby影库推荐](emby-ying-ku-tui-jian-kuo-he-guo-nei.md)<——
 
-![](<.gitbook/assets/image (14).png>)
+![](.gitbook/assets/jie-ping-20210918-xia-wu-2.55.20.png)
+
+![](.gitbook/assets/jie-ping-20210918-xia-wu-2.45.52.png)
+
+##
 
 ↖️[左上角是菜单←](gao-pin-ti-wen.md)
