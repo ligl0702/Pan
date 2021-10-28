@@ -32,6 +32,10 @@ description: 不断收集网友的提问
 
 ** 如果你不是OpenWrt和梅林系统，那恐怕需要找到/etc/hosts这个文件自行编写了。另外一个终极且一定有效的方式：购买一个境外的手机号，比如香港手机号，放在手机开热点wifi。此法可行。**
 
+****
+
+**其他路由器系统怎么办？参考恩山论坛的方法，比葫芦画瓢看看：⬇️ **[**https://www.right.com.cn/forum/thread-794878-1-1.html**](https://www.right.com.cn/forum/thread-794878-1-1.html)****
+
 ## &#x20;❓视频流媒体Apple TV+ 可以安装在Android TV吗？
 
 &#x20;目前**默认自带**apple tv+ Android TV电视盒子有**`Google TV`**和**`Fire TV Stick 4K`**，
