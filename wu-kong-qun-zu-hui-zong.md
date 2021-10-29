@@ -2,13 +2,13 @@
 description: 汇总我的全部群组 请拉到底部看完。
 ---
 
-# 👩‍👩‍👧查看全部群号
+# ❤️快速查看群号
 
 #### **`国外群组`**
 
 🦊【官方通知频道订阅不失联】[https://t.me/daily5kong](https://t.me/daily5kong)
 
-🦊【电报群2万人】[https://t.me/wkongsvlog](https://t.me/wkongsvlog)
+🦊【电报群2万人】[https://t.me/joinchat/UkcRqf\_8z7hp523N](https://t.me/joinchat/UkcRqf\_8z7hp523N)
 
 ![](.gitbook/assets/dian-bao-.png)
 
