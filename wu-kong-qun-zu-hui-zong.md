@@ -18,6 +18,8 @@ description: 汇总我的全部群组 请拉到底部看完。
 
 🛸【Google TV\&Tivo 4K交流群】[https://t.me/tivostream4k](https://t.me/tivostream4k)
 
+&#x20;<mark style="background-color:red;">备注说明：目前我没有软路由群，网络上如果有</mark><mark style="background-color:orange;">【软路由种草小组】</mark><mark style="background-color:red;">，那不是我的群，请明辨。</mark>
+
 #### `国内群组`
 
 **国内用户使用井盖app群组讨论**：[**https://jg.17173.com/i/f1PutQow**](https://jg.17173.com/i/f1PutQow)**   （可容纳1万+）**
