@@ -20,11 +20,9 @@ description: 这里撰写和Google TV 相关的一切
 
 5、**Google TV 常见的5个问题和解决方法**：[https://www.youtube.com/watch?v=gHb1NVy8yow](https://www.youtube.com/watch?v=gHb1NVy8yow\&t=63s)
 
-6、Google TV 的问题机型?系统无法升级（尽量不买原封 降低风险） [https://youtu.be/9wEsMFVZzHk](https://youtu.be/9wEsMFVZzHk)
+6、Google TV **第一次使用或者重置后 无法连接wifi **？请看 [ 高频提问里的 第三题](../gao-pin-ti-wen.md)
 
-7、Google TV **第一次使用或者重置后 无法连接wifi **？请看 [ 高频提问里的 第三题](../gao-pin-ti-wen.md)
-
-8、[**Google TV 连接到Sony电视，无法打开4K 60hz 杜比视界？怎么回事？**](https://didiboy0702.gitbook.io/wukongdaily/gao-pin-ti-wen#google-tv-lian-jie-dao-sony-dian-shi-wu-fa-da-kai-4-k-60hz-du-bi-shi-jie-zen-me-hui-shi)****
+7、[**Google TV 连接到Sony电视，无法打开4K 60hz 杜比视界？怎么回事？**](https://didiboy0702.gitbook.io/wukongdaily/gao-pin-ti-wen#google-tv-lian-jie-dao-sony-dian-shi-wu-fa-da-kai-4-k-60hz-du-bi-shi-jie-zen-me-hui-shi)****
 
 ## &#x20;如何购买？
 
