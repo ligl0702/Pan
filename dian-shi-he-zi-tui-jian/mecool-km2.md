@@ -22,15 +22,13 @@ description: 一款支持Netflix授权的 4K HDR Dolby Atmos 带USB3.0的电视�
 
 &#x20;**使用须知：**
 
-**1**、电视盒子和手机需要连接到同一个wifi下。 [**遥控助手APK下载地址**](https://github.com/ligl0702/Pan/releases/download/info/v1.2.apk)****
+**1**、电视盒子和手机需要连接到同一个wifi下。 [**遥控助手APK下载地址**](../11.md#gong-neng-yi-xiu-gai-shi-jian-bu-zheng-que-dao-zhi-de-wang-luo-shou-xian-wen-ti)****
 
 **2**、其次电视盒子需要打开ADB开关。一般来说是需要在设置里--关于---内部版本号或者android版本号 点击4次 激活开发者选项后，找到【usb调试】或者【网络调试】或者【ADB开关】或者【远程调试】后打开它。
 
 **3**、点击app里的连接按钮，此时盒子弹出授权提示的弹框，用遥控器点击允许后，
 
 &#x20; 点击app里的 【一键修改NTP地址】按钮，之后提示修改成功，然后点击【重启】，待盒子重启后，检查时间是否正确。网络受限问题是否解决。
-
-![](../.gitbook/assets/391621996729\_.pic.jpg)
 
 ****
 
