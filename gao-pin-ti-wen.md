@@ -233,7 +233,9 @@ mac：clash或者surge
 
 ![](.gitbook/assets/5.png)
 
+## ❓如何注册美区Apple ID
 
+[ 详细教程 请点击](dian-shi-he-zi-tui-jian/apple-tv-4k.md#2021-nian-ru-he-zhu-ce-mei-guo-apple-id-8-fen-zhong-xue-hui) ⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵
 
 ...永远未完待续
 
