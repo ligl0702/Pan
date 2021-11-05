@@ -26,13 +26,13 @@ description: 不断收集网友的提问
 
 &#x20; 如果你是梅林系统的路由器，请按照模版格式，填写在自定义dnsmasq的文本框里
 
-![](.gitbook/assets/photo\_2021-06-01\_09-28-23.jpg)
+![ ](<.gitbook/assets/image (16).png>)
 
-&#x20;  比如： **203.107.6.88 address=/time.android.com/203.107.6.88**
+比如： **203.107.6.88 address=/time.android.com/203.107.6.88**
 
 ** 如果你不是OpenWrt和梅林系统，那恐怕需要找到/etc/hosts这个文件自行编写了。另外一个终极且一定有效的方式：购买一个境外的手机号，比如香港手机号，放在手机开热点wifi。此法可行。**
 
-****
+## 其他路由器怎么修改？
 
 **其他路由器系统怎么办？参考恩山论坛的方法，比葫芦画瓢看看：⬇️ **[**https://www.right.com.cn/forum/thread-794878-1-1.html**](https://www.right.com.cn/forum/thread-794878-1-1.html)****
 
