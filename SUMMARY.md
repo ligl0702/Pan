@@ -10,7 +10,7 @@
 * [❤️快速查看群号](wu-kong-qun-zu-hui-zong.md)
 * [📺视频发布平台汇总](shi-pin-fa-bu-ping-tai-hui-zong.md)
 * [❤️悟空的微店](ge-ren-xian-yu.md)
-* [🎈遥控助手下载地址](11.md)
+* [🎈遥控助手下载地址和说明](11.md)
 * [❤️ Emby影库推荐（双11特惠）](emby-ying-ku-tui-jian-kuo-he-guo-nei.md)
 * [🎬 奈飞Disney+流媒体合租平台](liu-mei-ti-he-zu-ping-tai.md)
 * [💚IPTV 直播源](iptv-zhi-bo-yuan.md)
