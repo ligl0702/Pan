@@ -8,7 +8,7 @@ description: Emby影库升级完成 ✅ 老用户请回家！
 
 **注册邀请码**：`wk2021`
 
-![](.gitbook/assets/2.jpg)
+![](.gitbook/assets/131636774884\_.pic.jpg)
 
 ![](.gitbook/assets/悟空.001.jpeg)
 
