@@ -10,6 +10,6 @@ description: 介绍两个靠谱的流媒体合租平台
 
 ### **Disney+会员 11月开始 几乎所有影片全面增加中文字幕**
 
-![](.gitbook/assets/jie-ping-20210831-xia-wu-9.07.30.png)
+![](.gitbook/assets/WX20211115-202812@2x.png)
 
 ### ****
