@@ -6,7 +6,7 @@ description: 不断收集网友的提问
 
 ## ❓群主的网盘地址是？
 
-[**谷歌网盘地址**](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx)（**三年整理的资料↓↓↓**）
+[**谷歌网盘地址**](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx)（**三年整理的资料↓↓↓**）（<mark style="color:red;">最好是登陆google账号 防止下载次数过多造成无法下载</mark>）
 
 [https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx](https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu\_bTiqUqTYp6eYx)&#x20;
 
