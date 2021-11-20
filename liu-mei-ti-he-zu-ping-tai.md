@@ -4,7 +4,7 @@ description: 介绍两个靠谱的流媒体合租平台
 
 # 🎬 奈飞Disney+流媒体合租平台
 
-### [**奈飞 PRO公众号**](https://naifei.pro/m/?rid=1p5c6)**（Netflix+Youtube+Spotify  等流媒体合租)**
+### [**奈飞 PRO公众号**](https://naifei.pro/m/?rid=1p5c6)**（**<mark style="color:red;">**Netflix**</mark>**+**<mark style="color:blue;">**Disney**</mark>**+**<mark style="color:green;">**Spotify**</mark>**  等流媒体合租)**
 
 ![](.gitbook/assets/pro.jpeg)
 
