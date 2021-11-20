@@ -10,6 +10,12 @@ description: 介绍两个靠谱的流媒体合租平台
 
 ### **Disney+会员 11月开始 几乎所有影片全面增加中文字幕**
 
+## [<mark style="color:blue;">Disney+ 完全使用指南</mark>](https://guide.naifei.pro/disney)
+
 ![](.gitbook/assets/WX20211115-202812@2x.png)
 
-### ****
+## <mark style="color:red;">****</mark>[<mark style="color:red;">**Netflix 使用指南**</mark>](https://guide.naifei.pro/netflix)<mark style="color:red;">****</mark>
+
+![](.gitbook/assets/jie-ping-20210103-xia-wu-10.26.48.png)
+
+## <mark style="color:red;">****</mark>
