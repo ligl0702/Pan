@@ -8,7 +8,7 @@ description: 这里撰写和Google TV 相关的一切
 
 &#x20;[https://youtu.be/scoY0QCb9Lc](https://youtu.be/scoY0QCb9Lc)
 
-&#x20;相关视频 如果你是**新手 **最好看一看：&#x20;
+&#x20;相关视频 如果你是**新手** 最好看一看：&#x20;
 
 1、Google TV 如何安装第三方App: [https://youtu.be/waiOukl-Kw4](https://youtu.be/waiOukl-Kw4)&#x20;
 
@@ -20,9 +20,9 @@ description: 这里撰写和Google TV 相关的一切
 
 5、**Google TV 常见的5个问题和解决方法**：[https://www.youtube.com/watch?v=gHb1NVy8yow](https://www.youtube.com/watch?v=gHb1NVy8yow\&t=63s)
 
-6、Google TV **第一次使用或者重置后 无法连接wifi **？请看 [ 高频提问里的 第三题](../gao-pin-ti-wen.md)
+6、Google TV **第一次使用或者重置后 无法连接wifi** ？请看 [ 高频提问里的 第三题](../gao-pin-ti-wen.md)
 
-7、[**Google TV 连接到Sony电视，无法打开4K 60hz 杜比视界？怎么回事？**](https://didiboy0702.gitbook.io/wukongdaily/gao-pin-ti-wen#google-tv-lian-jie-dao-sony-dian-shi-wu-fa-da-kai-4-k-60hz-du-bi-shi-jie-zen-me-hui-shi)****
+7、[**Google TV 连接到Sony电视，无法打开4K 60hz 杜比视界？怎么回事？**](https://didiboy0702.gitbook.io/wukongdaily/gao-pin-ti-wen#google-tv-lian-jie-dao-sony-dian-shi-wu-fa-da-kai-4k-60hz-du-bi-shi-jie-zen-me-hui-shi)****
 
 ## &#x20;如何购买？
 
