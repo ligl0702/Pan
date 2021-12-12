@@ -2,27 +2,23 @@
 description: Emby影库升级完成 ✅ 老用户请回家！
 ---
 
-# ❤️ Emby影库推荐（双11特惠）
+# ❤️ Emby影库推荐（双12特惠）
 
 #### **除了高清的片源，良好的服务才是留下来的真正理由！**
 
 **注册邀请码**：`wk2021`
 
+![](<.gitbook/assets/截屏2021-12-12 09.46.33.png>)
+
 ![](.gitbook/assets/131636774884\_.pic.jpg)
 
-![](.gitbook/assets/悟空.001.jpeg)
 
-![](.gitbook/assets/悟空.002.jpeg)
-
-![](.gitbook/assets/悟空.003.jpeg)
-
-![](.gitbook/assets/悟空.004.jpeg)
 
 ## 使用方式：
 
 ## Emby Android TV安装包：
 
-**emby带框架版本：**[**https://wwi.lanzoui.com/b01iqin8f**](https://wwi.lanzoui.com/b01iqin8f)** 密码:gqg5**
+**emby带框架版本：**[**https://wwi.lanzoui.com/b01iqin8f**](https://wwi.lanzoui.com/b01iqin8f) **密码:gqg5**
 
 _**理论上安卓原生电视盒子用上述↑版本，但实际测试Sony电视或者当贝盒子H2 也能完美兼容**_
 
@@ -42,7 +38,7 @@ _**理论上安卓原生电视盒子用上述↑版本，但实际测试Sony电�
 
 ## Android 手机和安卓平板
 
-[**https://wwi.lanzoui.com/b01iqivte**](https://wwi.lanzoui.com/b01iqivte)** 密码:95v2**\
+[**https://wwi.lanzoui.com/b01iqivte**](https://wwi.lanzoui.com/b01iqivte) **密码:95v2**\
 下载后请解压为 .apk 文件进行安装。
 
 ![](.gitbook/assets/jie-ping-20210606-shang-wu-9.06.14.png)

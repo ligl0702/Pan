@@ -6,7 +6,7 @@ description: 汇总自媒体平台
 
 ## Youtube、头条/西瓜视频/抖音
 
-* [ ] ****[**Youtube**](https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww)** **←  我的第一个视频诞生于Youtube，所以我把它放在前面吧。
+* [ ] ****[**Youtube**](https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww) **** ←  我的第一个视频诞生于Youtube，所以我把它放在前面吧。
 * [ ] [**西瓜视频**](https://v.ixigua.com/JbAdbYy/)←  2021年有幸签约了独家。这是让我对自媒体产生希望的一个平台，**感恩**！
 
 ## &#x20;其他平台
@@ -15,9 +15,9 @@ description: 汇总自媒体平台
 
 但是b站留言和私信我依旧会回复的。不过希望有条件的小伙伴可以关注我的[**西瓜视频**](https://v.ixigua.com/JbAdbYy/)**和**[**Youtube频道**！](https://www.youtube.com/channel/UCii04BCvYIdQvshrdNDAcww)
 
-**2、抖音  **← 偶尔发一些短视频。账号：**悟空的日常** 或者 **wukongdaily**
+**2、抖音**  ← 偶尔发一些短视频。账号：**悟空的日常** 或者 **wukongdaily**
 
-**3、油管副频道：**发一些比较水和轻松的视频。账号：[**小悟空的频道**](https://www.youtube.com/watch?v=CXRkUVow1V0)** **
+**3、油管副频道：**发一些比较水和轻松的视频。账号：[**小悟空的频道**](https://www.youtube.com/watch?v=CXRkUVow1V0) ****&#x20;
 
 ## &#x20;**联系方式**
 

@@ -6,11 +6,11 @@ description: 用悟空本人经验解答奈飞相关的高频问题
 
 ## **1、 观看奈飞Netflix需要的三要素是什么**
 
-** 机场**[**节点**](https://dler.best/auth/register?affid=74522)**支持、奈飞账号 和 Netflix授权的设备**
+&#x20;**机场**[**节点**](https://dler.best/auth/register?affid=74522)**支持、奈飞账号 和 Netflix授权的设备**
 
-## ** 2、奈飞账号怎么注册？**
+## &#x20;**2、奈飞账号怎么注册？**
 
-### ** 方式一：Netflix官方注册和购买**
+### &#x20;**方式一：Netflix官方注册和购买**
 
 有条件（外币信用卡）和担心安全问题的小伙伴，可以自行前往netflix.com 官网注册账号和购买。Netflix是会员制，不存在什么免费就能观看的情况，如果有，一定是有人在骗你或者另有所图。 Netflix每个地区的价格是不太一样的。具体参考官方网站的说明。
 
@@ -22,17 +22,17 @@ description: 用悟空本人经验解答奈飞相关的高频问题
 
 ## 3、Netflix授权的设备有哪些？
 
-**不完全设备列表：**[**https://www.androidtv-guide.com/streaming-gaming/netflix-amazon-atv-certified**](https://www.androidtv-guide.com/streaming-gaming/netflix-amazon-atv-certified)** **
+**不完全设备列表：**[**https://www.androidtv-guide.com/streaming-gaming/netflix-amazon-atv-certified**](https://www.androidtv-guide.com/streaming-gaming/netflix-amazon-atv-certified) ****&#x20;
 
 **首先观看奈飞的设备类型有：**
 
 * &#x20;电视机、游戏机、电脑、手机、电视盒子、蓝光播放机、ipad等
 
-** 其次 Netflix授权的设备通常是大品牌。常见的比如Sony、SAMSUNG、LG、Panasonic** **等。**
+&#x20;**其次 Netflix授权的设备通常是大品牌。常见的比如Sony、SAMSUNG、LG、Panasonic** **等。**
 
-** ** 具体品牌列表请查看如下网址：[https://devices.netflix.com/en/](https://devices.netflix.com/en/)
+&#x20;**** 具体品牌列表请查看如下网址：[https://devices.netflix.com/en/](https://devices.netflix.com/en/)
 
-** 特别指出，对于一般用户，想在电视机观看Netflix，但是电视机又不在授权列表之内。怎么办？ **
+&#x20;**特别指出，对于一般用户，想在电视机观看Netflix，但是电视机又不在授权列表之内。怎么办？**&#x20;
 
 &#x20;**最节省的方案就是外接电视盒子**。以下列出目前主流的支持Netflix授权的电视盒子：
 
@@ -52,7 +52,7 @@ description: 用悟空本人经验解答奈飞相关的高频问题
 
 不死心？[你可以尝试用电视盒子刷入CoreElec 安装Netflix插件来观看Netflix ](https://youtu.be/GcbfqpWICO8)不过画质最多1080&#x20;
 
-** 最后祝大家观影愉快！**
+&#x20;**最后祝大家观影愉快！**
 
 ![](.gitbook/assets/jie-ping-20210606-shang-wu-9.23.16.png)
 
@@ -65,10 +65,10 @@ description: 用悟空本人经验解答奈飞相关的高频问题
 1. &#x20;如果电视盒子有usb接口，你可以接一个键盘，然后当播放Netflix的时候，按下**F4或者F8**即可显示！
 2. &#x20;如果你的电视盒子没有usb接口，你可以接一个**蓝牙键盘**，然后当播放Netflix的时候，按下F4或者F8即可显示！
 3. 如果你的电视盒子和你的电视均支持CEC，并且**你的电视遥控器有info或者屏显**按钮，那么当播放Netflix的时候，按下info或者屏显按钮。
-4. 如果你有安卓手机，你可以安装我开发的** **[**遥控助手**](11.md) ，按 info 按钮即可显示。[具体方法详见：此处](11.md#apk-xia-zai-di-zhi)
+4. 如果你有安卓手机，你可以安装我开发的 **** [**遥控助手**](11.md) ，按 info 按钮即可显示。[具体方法详见：此处](11.md#apk-xia-zai-di-zhi)
 
 #### 二、苹果Apple TV 4K 如何显示Netflix码率?
 
-#### &#x20;** 打开开发者模式。具体步骤相见 **[**点击此处**](dian-shi-he-zi-tui-jian/apple-tv-4k.md#qi-apple-tv-4k-ru-he-xian-shi-netflix-deng-liu-mei-ti-de-ma-lv)****
+#### &#x20;**打开开发者模式。具体步骤相见** [**点击此处**](dian-shi-he-zi-tui-jian/apple-tv-4k.md#qi-apple-tv-4k-ru-he-xian-shi-netflix-deng-liu-mei-ti-de-ma-lv)****
 
 ##
