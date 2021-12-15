@@ -13,9 +13,9 @@
 * [🎈遥控助手下载地址和说明](11.md)
 * [❤️ Emby影库推荐（双12特惠）](emby-ying-ku-tui-jian-kuo-he-guo-nei.md)
 * [🎬 奈飞Disney+流媒体合租平台](liu-mei-ti-he-zu-ping-tai.md)
+* [🎵软路由使用指南](https://wkbackup.gitbook.io/backup/)
 * [💚IPTV 直播源](iptv-zhi-bo-yuan.md)
 * [🎈DDNSTO 内网穿透工具](ddnsto-nei-wang-chuan-tou-gong-ju.md)
-* [🎵抖音粉丝必读](https://wkbackup.gitbook.io/backup/)
 * [❤️奈飞Netflix百科问答](nai-fei-ying-pian-tui-jian.md)
 * [❤️奈飞Pro会员](https://naifei.pro/m/?rid=1p5c6)
 
