@@ -4,6 +4,16 @@ description: 汇总一些 高频需求的APK安装包
 
 # 电视盒子APK
 
+## 推荐一款TV应用商店Emotn Store
+
+<mark style="color:red;">国内下载地址一</mark>：[<mark style="background-color:red;">https://wwi.lanzoui.com/iNBshwa6egd</mark>](https://wwi.lanzoui.com/iNBshwa6egd)<mark style="background-color:red;"></mark>
+
+国外下载地址二：[<mark style="background-color:blue;">https://drive.google.com/file/d/1KsqRvGbU9-IzHZkcc8aymPyXM6Nqny7m/view?usp=sharing</mark>](https://drive.google.com/file/d/1KsqRvGbU9-IzHZkcc8aymPyXM6Nqny7m/view?usp=sharing)<mark style="background-color:blue;"></mark>
+
+<mark style="color:red;">官网下载</mark>：[https://app.emotn.com/](https://app.emotn.com)
+
+### **我的分享码：**<mark style="color:red;">**782019**</mark>
+
 ## &#x20;Youtube安装包 适合Android 5.0以上系统
 
 {% file src="../.gitbook/assets/qing-jie-ya-youtube1.5.178.0.zip" %}
