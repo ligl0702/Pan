@@ -122,11 +122,13 @@ yt-dlp.exe https://www.youtube.com/watch?v=XA2YEHn-A8Q <mark style="color:red;">
 
 此时执行 `yt-dlp.exe -U`&#x20;
 
-即可完成版本升级，更新到最新的Release版本。
-
-以上总结，若转载，请注明 来自悟空百科
+即可完成版本升级，更新到最新的Release版本。[](https://didiboy0702.gitbook.io/wukongdaily/ytdlp-shi-yong-jian-jie)
 
 ### 7、我总结的懒人包
+
+以上总结，若转载，请注明 来自悟空百科 ：
+
+&#x20;[https://didiboy0702.gitbook.io/wukongdaily/ytdlp-shi-yong-jian-jie](https://didiboy0702.gitbook.io/wukongdaily/ytdlp-shi-yong-jian-jie)
 
 
 
