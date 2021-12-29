@@ -12,9 +12,9 @@ yt-dlp 主项目地址：**https://github.com/yt-dlp/yt-dlp** **,**目前支持�
 
 ### 1、简单用法（一个参数URL） yt-dlp.exe 视频URL&#x20;
 
-`yt-dlp.exe https://www.youtube.com/watch?v=u3LJVu8jNfM&lc URL`&#x20;
+`yt-dlp.exe https://www.youtube.com/watch?v=u3LJVu8jNfM&lc` &#x20;
 
-&#x20;可以是完整路径，也可以是后面的u3LJVu8jNfM\&lc 这里注意复制网址的时候，尽量不要复制后面的t=xxs 这些信息。因为这些信息没有用。 我们用上述命令下载的文件就在yt-dlp所在的目录，格式有可能是webm格式
+&#x20;URL可以是完整路径，也可以是后面的u3LJVu8jNfM\&lc 这里注意复制网址的时候，尽量不要复制后面的t=多少秒 这些信息。因为这些信息没有用。 我们用上述命令下载的文件就在yt-dlp所在的目录，格式有可能是webm格式
 
 ### 2、下载MP4 视频 （参数URL和format）&#x20;
 
@@ -125,6 +125,12 @@ yt-dlp.exe https://www.youtube.com/watch?v=XA2YEHn-A8Q <mark style="color:red;">
 即可完成版本升级，更新到最新的Release版本。[](https://didiboy0702.gitbook.io/wukongdaily/ytdlp-shi-yong-jian-jie)
 
 ### 7、我总结的懒人包
+
+![](.gitbook/assets/懒人包截图.png)
+
+#### 谷歌网盘地址  [https://bit.ly/3zbdMWZ](https://bit.ly/3zbdMWZ)
+
+#### 国内地址：https://pan.baidu.com/s/13x6MmM15KbUsaR7f8J1NBA?pwd=a2jm&#x20;
 
 以上总结，若转载，请注明 来自悟空百科 ：
 
