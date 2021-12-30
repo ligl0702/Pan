@@ -22,7 +22,7 @@ description: 汇总我的全部群组 请拉到底部看完。
 
 ## <mark style="color:red;"></mark>[<mark style="color:red;">遥控助手App下载 （解决NTP和订阅地址问题</mark>](11.md)<mark style="color:red;">)</mark>
 
-## <mark style="color:green;"></mark>[<mark style="color:green;">Emby影库推荐</mark>](wu-kong-qun-zu-hui-zong.md#undefined) <mark style="color:red;">←</mark>
+## <mark style="color:green;"></mark>[<mark style="color:green;">Emby影库推荐</mark> <mark style="color:red;"></mark> ](https://didiboy0702.gitbook.io/wukongdaily/emby-ying-ku-tui-jian-kuo-he-guo-nei)<mark style="color:red;">←</mark>
 
 ## <mark style="color:red;"></mark>[<mark style="color:red;">Google TV、Apple TV 电视盒子使用指南</mark>](dian-shi-he-zi-tui-jian/google-tv.md)<mark style="color:red;"></mark>
 
