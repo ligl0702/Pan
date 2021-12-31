@@ -2,9 +2,11 @@
 
 &#x20;      **前不久我做了一个yt-dlp的使用方法的分享。得到了很多人的互动和评论。由于视频篇幅有限，只是展示了它的基础用法。 即便用法比较简单，但是还有人不太会用。今天我就在我的百科文档里，把基础用法在详细解释一下。**
 
-yt-dlp 主项目地址：**https://github.com/yt-dlp/yt-dlp** **,**目前支持的网站列表：https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
+yt-dlp 主项目地址：**https://github.com/yt-dlp/yt-dlp** **,**目前支持的网站列表：
 
-大家一定要多看人家官方写的文档。 另外附上我当天分享的视频教程：**https://www.youtube.com/watch?v=u3LJVu8jNfM\&lc**
+[https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+
+大家一定要多看人家官方写的文档。 另外附上我当天分享的视频教程：[**https://www.youtube.com/watch?v=u3LJVu8jNfM\&lc**](https://www.youtube.com/watch?v=u3LJVu8jNfM\&lc)****
 
 顺便说一句， 养成随时看help文档的好习惯。通常一个项目，必然有一个-h的参数，当你迷茫时候，记得先执行 yt-dlp.exe -h 进行查看哈
 
