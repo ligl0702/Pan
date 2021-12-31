@@ -39,6 +39,7 @@
 * [Google TV /Shield TV/Tivo Stream 4K 已连接无法访问互联网](test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 * [玩客云技巧](test/wan-ke-yun-ji-qiao.md)
 * [其他教程](test/qi-ta-jiao-cheng.md)
+* [国内网盘地址](test/guo-nei-wang-pan-di-zhi.md)
 
 ## 商业 <a href="#shou-ye" id="shou-ye"></a>
 
