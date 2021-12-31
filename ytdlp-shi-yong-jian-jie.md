@@ -6,7 +6,11 @@ yt-dlp 主项目地址：**https://github.com/yt-dlp/yt-dlp** **,**目前支持�
 
 [https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
 
-大家一定要多看人家官方写的文档。 另外附上我当天分享的视频教程：[**https://www.youtube.com/watch?v=u3LJVu8jNfM\&lc**](https://www.youtube.com/watch?v=u3LJVu8jNfM\&lc)****
+大家一定要多看人家官方写的文档。 另外附上我当天分享的<mark style="background-color:red;">**视频教程**</mark>：
+
+[<mark style="color:red;">**https://www.ixigua.com/7046301673014493726**</mark>](https://www.ixigua.com/7046301673014493726)<mark style="color:red;">****</mark>
+
+<mark style="color:red;"></mark>[<mark style="color:red;">**https://www.youtube.com/watch?v=u3LJVu8jNfM\&lc**</mark>](https://www.youtube.com/watch?v=u3LJVu8jNfM\&lc)<mark style="color:red;">****</mark>
 
 顺便说一句， 养成随时看help文档的好习惯。通常一个项目，必然有一个-h的参数，当你迷茫时候，记得先执行 yt-dlp.exe -h 进行查看哈
 
