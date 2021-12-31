@@ -132,7 +132,7 @@ yt-dlp.exe https://www.youtube.com/watch?v=XA2YEHn-A8Q <mark style="color:red;">
 
 #### 谷歌网盘地址  [https://bit.ly/3zbdMWZ](https://bit.ly/3zbdMWZ)
 
-#### 国内地址：[https://pan.baidu.com/s/13x6MmM15KbUsaR7f8J1NBA?pwd=a2jm ](ytdlp-shi-yong-jian-jie.md#guo-nei-di-zhi-httpspan.baidu.coms13x6mmm15kbusar7f8j1nbapwda2jm)
+#### 国内地址：[https://pan.baidu.com/s/13x6MmM15KbUsaR7f8J1NBA?pwd=a2jm ](https://pan.baidu.com/s/13x6MmM15KbUsaR7f8J1NBA?pwd=a2jm)
 
 以上总结，若转载，请注明 来自悟空百科 ：
 
