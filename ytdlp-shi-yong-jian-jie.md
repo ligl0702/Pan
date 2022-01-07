@@ -10,7 +10,7 @@ yt-dlp 主项目地址：**https://github.com/yt-dlp/yt-dlp** **,**目前支持�
 
 [https://www.bilibili.com/read/cv14622655](https://www.bilibili.com/read/cv14622655)
 
-<mark style="color:red;"></mark>[<mark style="color:red;">**https://www.youtube.com/watch?v=u3LJVu8jNfM\&lc**</mark>](https://www.youtube.com/watch?v=u3LJVu8jNfM\&lc)<mark style="color:red;">****</mark>
+<mark style="color:red;"></mark>[<mark style="color:red;">**https://www.youtube.com/watch?v=u3LJVu8jNfM**</mark>](https://www.youtube.com/watch?v=u3LJVu8jNfM\&lc)<mark style="color:red;">****</mark>
 
 顺便说一句， 养成随时看help文档的好习惯。通常一个项目，必然有一个-h的参数，当你迷茫时候，记得先执行 yt-dlp.exe -h 进行查看哈
 
@@ -18,7 +18,7 @@ yt-dlp 主项目地址：**https://github.com/yt-dlp/yt-dlp** **,**目前支持�
 
 ### 1、简单用法（一个参数URL） yt-dlp.exe 视频URL&#x20;
 
-`yt-dlp.exe https://www.youtube.com/watch?v=u3LJVu8jNfM&lc` &#x20;
+`yt-dlp.exe https://www.youtube.com/watch?v=u3LJVu8jNfM`
 
 &#x20;URL可以是完整路径，也可以是后面的u3LJVu8jNfM\&lc 这里注意复制网址的时候，尽量不要复制后面的t=多少秒 这些信息。因为这些信息没有用。 我们用上述命令下载的文件就在yt-dlp所在的目录，格式有可能是webm格式
 
@@ -32,7 +32,7 @@ yt-dlp 主项目地址：**https://github.com/yt-dlp/yt-dlp** **,**目前支持�
 
 举例：&#x20;
 
-`yt-dlp.exe --merge-output-format mp4 https://www.youtube.com/watch?v=u3LJVu8jNfM&lc`
+`yt-dlp.exe --merge-output-format mp4 https://www.youtube.com/watch?v=u3LJVu8jNfM`
 
 下载之后是一个<mark style="color:red;">Mp4的文件</mark>，中间有一个转换的过程，从webm——>mp4 只是过程太快 就是无感的。如果这样的参数下载下来可能清晰度是720P 而不是更高清晰度。如果想要更高清的下载，就需要借助使用配置文件yt-dlp.conf
 
