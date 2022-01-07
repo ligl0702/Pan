@@ -8,7 +8,7 @@ yt-dlp 主项目地址：**https://github.com/yt-dlp/yt-dlp** **,**目前支持�
 
 大家一定要多看人家官方写的文档。 另外附上我当天分享的<mark style="background-color:red;">**视频教程**</mark>：
 
-[<mark style="color:red;">**https://www.ixigua.com/7046301673014493726**</mark>](https://www.ixigua.com/7046301673014493726)<mark style="color:red;">****</mark>
+[https://www.bilibili.com/read/cv14622655](https://www.bilibili.com/read/cv14622655)
 
 <mark style="color:red;"></mark>[<mark style="color:red;">**https://www.youtube.com/watch?v=u3LJVu8jNfM\&lc**</mark>](https://www.youtube.com/watch?v=u3LJVu8jNfM\&lc)<mark style="color:red;">****</mark>
 
