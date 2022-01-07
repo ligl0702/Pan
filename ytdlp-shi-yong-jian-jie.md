@@ -106,11 +106,17 @@ yt-dlp 主项目地址：**https://github.com/yt-dlp/yt-dlp** **,**目前支持�
 
 &#x20;如何书写命令，举例：
 
-yt-dlp.exe https://www.youtube.com/watch?v=XA2YEHn-A8Q <mark style="color:red;">-f137+140</mark>
+`yt-dlp.exe https://www.youtube.com/watch?v=XA2YEHn-A8Q`` `<mark style="color:red;">`-f137+140`</mark>
 
 大家务必注意结尾处的写法。<mark style="background-color:red;">f137前面是有一个减号的</mark>。当然你还可以自由的组合音视频。 这样我们就把指定分辨率的视频下载出来了。
 
-### 5、下载播放列表的所有视频 (注意你的流量哈)&#x20;
+### 5、如何只下载音频？
+
+和上面的代码类似。还是根据**音频id**来下载，比如上面的图中 140是m4a格式的音频，代码如下：
+
+`yt-dlp.exe https://www.youtube.com/watch?v=XA2YEHn-A8Q -f140`
+
+### 6、下载播放列表的所有视频 (注意你的流量哈)&#x20;
 
 其实这个功能，api直接就支持，注意播放列表形如：
 
@@ -122,7 +128,7 @@ yt-dlp.exe https://www.youtube.com/watch?v=XA2YEHn-A8Q <mark style="color:red;">
 
 `yt-dlp.exe https://www.youtube.com/playlist?list=PL-Gg8EgJJQpDtccexkyEpSEK46m-epsFH`
 
-### 6、如何升级yt-dlp的版本？&#x20;
+### 7、如何升级yt-dlp的版本？&#x20;
 
 确认yt-dlp.exe 所在目录为非中文，注意包括父级目录 都不能有中文。
 
@@ -130,7 +136,7 @@ yt-dlp.exe https://www.youtube.com/watch?v=XA2YEHn-A8Q <mark style="color:red;">
 
 即可完成版本升级，更新到最新的Release版本。[](https://didiboy0702.gitbook.io/wukongdaily/ytdlp-shi-yong-jian-jie)
 
-### 7、我总结的懒人包
+### 8、我总结的懒人包
 
 ![](.gitbook/assets/懒人包截图.png)
 
