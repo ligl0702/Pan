@@ -4,11 +4,9 @@
 
 关于直播源，目前免费的 经常失效。就像打游击战一样麻烦。
 
-对于<mark style="background-color:red;">Android TV</mark> 我目前是自己买的一款软件 在拼多多买的。
+对于<mark style="background-color:red;">Android TV</mark>  ：有一款免费软件 [https://wwe.lanzoup.com/iKnRDy674qh](https://wwe.lanzoup.com/iKnRDy674qh)
 
 对于<mark style="background-color:blue;">Apple TV</mark>，我目前也是在淘宝买的源，用IplayTV播放
-
-对于<mark style="background-color:purple;">直播发烧友</mark>，可以试试 GoTV 这款收费软件
 
 ****
 
