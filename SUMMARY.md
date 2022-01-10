@@ -23,9 +23,7 @@
 ## 🔴 电视盒子TV BOX <a href="#dian-shi-he-zi-tui-jian" id="dian-shi-he-zi-tui-jian"></a>
 
 * [🚩 ⬅️电视盒子使用指南](dian-shi-he-zi-tui-jian/no-ti-on/README.md)
-  * [🧡 Fire TV](dian-shi-he-zi-tui-jian/no-ti-on/fire-tv/README.md)
-    * [Fire TV使用指南](dian-shi-he-zi-tui-jian/no-ti-on/fire-tv/fire-tv-shi-yong-zhi-nan.md)
-    * [Fire TV 如何按照第三方app](dian-shi-he-zi-tui-jian/no-ti-on/fire-tv/fire-tv-ru-he-an-zhao-di-san-fang-app.md)
+  * [🎈Fire TV 使用指南](https://didiboy0702.gitbook.io/fire-tv-shi-yong-zhi-nan/)
   * [🎈Tivo Stream 4K](dian-shi-he-zi-tui-jian/no-ti-on/ru-he-ji-huo-tivo-stream-4k.md)
   * [🎈Google TV使用指南](dian-shi-he-zi-tui-jian/no-ti-on/google-tv.md)
   * [🎈Apple TV 4K使用指南](dian-shi-he-zi-tui-jian/no-ti-on/apple-tv-4k.md)
