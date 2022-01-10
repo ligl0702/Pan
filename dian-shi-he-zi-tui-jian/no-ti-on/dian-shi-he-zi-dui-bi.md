@@ -2,11 +2,11 @@
 description: 电视盒子对比、比较
 ---
 
-# 🌟🎈电视盒子对比
+# 🎈电视盒子对比
 
 &#x20;       最近网友看到google tv，tivo stream 4k,mecool km2,三款盒子/棒子，不知道如何抉择。其中有一个原因是不知道他们之间有什么差别。实际上是有差别的，虽然cpu、内存、空间几乎一样，不过在使用上有细微差别，就看你在乎的点，是否具备就好了。以下是我总结的一个表格，主要是针对使用上的区别，算是一个不完全的总结，仅供参考。   还有[电子版表格](https://momentous-cupboard-3ac.notion.site/TOP5-ad30827dbfc5413d9e20d2943eb4faa1)
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 &#x20;附表
 

@@ -24,6 +24,6 @@ description: 汇总我的全部群组 请拉到底部看完。
 
 ## <mark style="color:green;"></mark>[<mark style="color:green;">Emby影库推荐</mark> <mark style="color:red;"></mark> ](https://didiboy0702.gitbook.io/wukongdaily/emby-ying-ku-tui-jian-kuo-he-guo-nei)<mark style="color:red;">←</mark>
 
-## <mark style="color:red;"></mark>[<mark style="color:red;">Google TV、Apple TV 电视盒子使用指南</mark>](dian-shi-he-zi-tui-jian/google-tv.md)<mark style="color:red;"></mark>
+## <mark style="color:red;"></mark>[<mark style="color:red;">Google TV、Apple TV 电视盒子使用指南</mark>](dian-shi-he-zi-tui-jian/no-ti-on/google-tv.md)<mark style="color:red;"></mark>
 
 ### &#x20;[使用过的VPS节点（非推荐 自己判断）](https://i.sw17.icu/9Wy)

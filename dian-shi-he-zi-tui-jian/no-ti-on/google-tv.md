@@ -20,7 +20,7 @@ description: 这里撰写和Google TV 相关的一切
 
 5、**Google TV 常见的5个问题和解决方法**：[https://www.youtube.com/watch?v=gHb1NVy8yow](https://www.youtube.com/watch?v=gHb1NVy8yow\&t=63s)
 
-6、Google TV **第一次使用或者重置后 无法连接wifi** ？请看 [ 高频提问里的 第三题](../gao-pin-ti-wen.md)
+6、Google TV **第一次使用或者重置后 无法连接wifi** ？请看 [ 高频提问里的 第三题](../../gao-pin-ti-wen.md)
 
 7、[**Google TV 连接到Sony电视，无法打开4K 60hz 杜比视界？怎么回事？**](https://didiboy0702.gitbook.io/wukongdaily/gao-pin-ti-wen#google-tv-lian-jie-dao-sony-dian-shi-wu-fa-da-kai-4k-60hz-du-bi-shi-jie-zen-me-hui-shi)****
 
@@ -34,7 +34,7 @@ description: 这里撰写和Google TV 相关的一切
 
 ## &#x20;扩展阅读↓
 
-&#x20; [其他原生安卓盒子提示网络受限的问题](../test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
+&#x20; [其他原生安卓盒子提示网络受限的问题](../../test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)
 
 ## &#x20;首次激活连不上wifi？
 
@@ -46,7 +46,7 @@ description: 这里撰写和Google TV 相关的一切
 
 ## &#x20;已联网，但是无法访问互联网？网络受限？
 
-&#x20;此问题可以参考：[这篇文章](../test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)👈
+&#x20;此问题可以参考：[这篇文章](../../test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)👈
 
 &#x20;更新： 目前除了上述方法，还可以使用我开发的app来一键修改NTP服务器地址来解决此问题。
 
@@ -60,7 +60,7 @@ description: 这里撰写和Google TV 相关的一切
 
 &#x20; 点击app里的 【一键修改NTP地址】按钮，之后提示修改成功，然后点击【重启】，待盒子重启后，检查时间是否正确。网络受限问题是否解决。
 
-![](../.gitbook/assets/ntp-up.png)
+![](../../.gitbook/assets/ntp-up.png)
 
 ## Google TV CEC功能支持的中国品牌电视机有哪些？
 

@@ -94,7 +94,7 @@ mac：clash或者surge
 
 ## ❓如何激活Tivo Stream 4K？
 
-这个机器激活门槛有技巧。具体大家看这篇文章 [**这里 ←**](dian-shi-he-zi-tui-jian/ru-he-ji-huo-tivo-stream-4k.md)****
+这个机器激活门槛有技巧。具体大家看这篇文章 [**这里 ←**](dian-shi-he-zi-tui-jian/no-ti-on/ru-he-ji-huo-tivo-stream-4k.md)****
 
 ## ❓电视盒子看油管和奈飞，软路由应该使用什么模式？
 
@@ -243,7 +243,7 @@ mac：clash或者surge
 
 ## ❓如何注册美区Apple ID
 
-[ 详细教程 请点击](dian-shi-he-zi-tui-jian/apple-tv-4k.md#2021-nian-ru-he-zhu-ce-mei-guo-apple-id-8-fen-zhong-xue-hui) ⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵
+[ 详细教程 请点击](dian-shi-he-zi-tui-jian/no-ti-on/apple-tv-4k.md#2021-nian-ru-he-zhu-ce-mei-guo-apple-id-8-fen-zhong-xue-hui) ⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵
 
 ...永远未完待续
 

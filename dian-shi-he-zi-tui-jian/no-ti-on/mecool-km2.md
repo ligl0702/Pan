@@ -14,7 +14,7 @@ description: 一款支持Netflix授权的 4K HDR Dolby Atmos 带USB3.0的电视�
 
 &#x20;⚠️ 注意：**首次使用KM2 ，请修改NTP服务器地址。不然打不开油管！  方法可以使用电脑或者我开发的app。**
 
-****[**`第一种方法直达`**](../test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)  **这个方法是利用电脑的**
+****[**`第一种方法直达`**](../../test/google-tv-xiu-gai-ntp-fu-wu-qi-di-zhi.md)  **这个方法是利用电脑的**
 
 **第二种方法 利用手机app**
 
@@ -22,7 +22,7 @@ description: 一款支持Netflix授权的 4K HDR Dolby Atmos 带USB3.0的电视�
 
 &#x20;**使用须知：**
 
-**1**、电视盒子和手机需要连接到同一个wifi下。 [**遥控助手APK下载地址**](../11.md#gong-neng-yi-xiu-gai-shi-jian-bu-zheng-que-dao-zhi-de-wang-luo-shou-xian-wen-ti)****
+**1**、电视盒子和手机需要连接到同一个wifi下。 [**遥控助手APK下载地址**](../../11.md#gong-neng-yi-xiu-gai-shi-jian-bu-zheng-que-dao-zhi-de-wang-luo-shou-xian-wen-ti)****
 
 **2**、其次电视盒子需要打开ADB开关。一般来说是需要在设置里--关于---内部版本号或者android版本号 点击4次 激活开发者选项后，找到【usb调试】或者【网络调试】或者【ADB开关】或者【远程调试】后打开它。
 
@@ -32,6 +32,6 @@ description: 一款支持Netflix授权的 4K HDR Dolby Atmos 带USB3.0的电视�
 
 ****
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 &#x20; 另外介绍 遥控器部分的使用视频点击直达：[https://youtu.be/c0dDyVhDDtU?t=780](https://youtu.be/c0dDyVhDDtU?t=780)
